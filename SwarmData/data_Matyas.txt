@@ -1,0 +1,9000 @@
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [7.88662639e-07 2.37417036e-06]
+fitness: 7.284938072971914e-13
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [1.07613698e-05 9.62192595e-06]
+fitness: 4.4793705236987266e-12
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.44647584e-06 -2.59452038e-06]
+fitness: 4.927980737669047e-13
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-2.03649435e-06 -2.12243007e-06]
+fitness: 1.7481275972161151e-13
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [-2.07225533e-06 -2.13349451e-06]
+fitness: 1.7782087583090802e-13
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-5.78091133e-07 -5.39223338e-07]
+fitness: 1.2861592633460556e-14
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [1.63802215e-08 2.79757229e-08]
+fitness: 5.328841143629595e-17
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [-8.17454533e-07 -6.30168996e-07]
+fitness: 2.9725106881641374e-14
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [-4.30433727e-08  3.05453569e-07]
+fitness: 3.1051120624022365e-14
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [2.86483241e-07 2.12826165e-07]
+fitness: 3.849440038443625e-15
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-2.49396827e-08 -6.46439293e-08]
+fitness: 4.743590344448216e-16
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [-6.81195579e-08 -1.18569506e-07]
+fitness: 9.848273933856194e-16
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-2.95034872e-07 -3.58689145e-07]
+fitness: 5.286517503436399e-15
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [1.03488604e-06 1.11460218e-06]
+fitness: 4.779166140647429e-14
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-7.41550894e-09 -1.72235835e-08]
+fitness: 3.012043067896846e-17
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [1.16061254e-07 9.23840465e-08]
+fitness: 5.746469762923756e-16
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [-1.43550904e-08 -1.20849539e-08]
+fitness: 8.279139270682849e-18
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-1.91059163e-07 -4.65805323e-07]
+fitness: 2.3186072518426867e-14
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [5.43664692e-07 5.61858409e-07]
+fitness: 1.230456609263015e-14
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [4.43910815e-08 1.03787009e-07]
+fitness: 1.1015365153843634e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-1.57101541e-07 -1.97286588e-07]
+fitness: 1.6596189742514587e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-1.97454521e-08 -2.86286376e-08]
+fitness: 4.31282718290943e-17
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [1.66754341e-08 1.18750587e-07]
+fitness: 2.788236278725116e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-2.94280166e-07 -3.49494847e-07]
+fitness: 4.9066279278870276e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [5.95535057e-09 3.83368163e-08]
+fitness: 2.8175779185581823e-16
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-2.53484500e-07 -2.46763751e-07]
+fitness: 2.5137752379836736e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-2.02061949e-08 -2.23991697e-08]
+fitness: 1.9354455612193406e-17
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [3.61257050e-07 3.75896888e-07]
+fitness: 5.487540505204849e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [1.00174999e-07 6.89609879e-08]
+fitness: 5.296484439983353e-16
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-2.79632679e-07 -1.55682344e-07]
+fitness: 5.735913078627985e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [1.13736515e-07 5.94700323e-08]
+fitness: 1.036217867224483e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [4.39871780e-08 4.25017589e-08]
+fitness: 7.535497959480418e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [ 2.09452310e-08 -1.39527873e-08]
+fitness: 3.04956862671348e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [7.49537542e-07 5.93188799e-07]
+fitness: 2.4140372621354352e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-6.09317565e-09 -9.13697318e-09]
+fitness: 4.635750172935176e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [3.50928929e-07 2.81229918e-07]
+fitness: 5.2107361143516146e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-1.50546013e-08 -1.40604250e-08]
+fitness: 8.723944157866752e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-4.72077230e-07 -3.46414165e-07]
+fitness: 1.0647083102495762e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-2.55378744e-07 -1.90637660e-07]
+fitness: 3.037158325147014e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-5.44832586e-08 -1.37403097e-08]
+fitness: 4.615415237005723e-16
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.62213899e-09  1.70515890e-09]
+fitness: 2.767796736740884e-18
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-8.85710668e-08 -1.02705190e-07]
+fitness: 4.1580942002097823e-16
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [1.67862521e-08 6.80714589e-09]
+fitness: 3.04621245666698e-17
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [1.98348663e-07 1.50675715e-07]
+fitness: 1.7863576669671885e-15
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [2.84953911e-08 2.95113980e-08]
+fitness: 3.390594332463139e-17
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-3.34195474e-08 -2.31042500e-08]
+fitness: 5.855073721520849e-17
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [8.64888274e-08 7.98810324e-08]
+fitness: 2.8770504111366945e-16
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-2.54987872e-08 -8.32679067e-08]
+fitness: 9.52619729881062e-16
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [-1.68307834e-09 -1.45364196e-09]
+fitness: 1.1155040540731401e-19
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [ 1.25137496e-08 -2.80754161e-08]
+fitness: 4.142917474701266e-16
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [6.60534872e-08 4.43914161e-08]
+fitness: 2.3929209836997317e-16
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [2.59766157e-08 5.69727717e-09]
+fitness: 1.1284524727194856e-16
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [ 2.55779181e-08 -3.78726719e-09]
+fitness: 2.2032685183668741e-16
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [9.73649512e-09 1.67427542e-09]
+fitness: 1.755190345789676e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [8.71938979e-08 7.60877187e-08]
+fitness: 2.974456676923319e-16
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [2.66790311e-08 3.23720110e-08]
+fitness: 4.2972760660517113e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [2.04391027e-08 1.19183935e-08]
+fitness: 2.8620697176423365e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [1.82091929e-08 1.39437506e-08]
+fitness: 1.4886617307578385e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [-1.06309605e-08 -5.41451242e-09]
+fitness: 9.377404662111948e-18
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-1.75523456e-08 -9.60184962e-09]
+fitness: 2.31760997009195e-17
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-3.89015477e-07 -3.26539316e-07]
+fitness: 6.096004296268925e-15
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-5.21803922e-08 -2.78507106e-08]
+fitness: 2.120331256876072e-16
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [1.17170619e-09 1.61224705e-09]
+fitness: 1.2602301866371801e-19
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-4.51580790e-09  8.01837164e-09]
+fitness: 3.9399093723084744e-17
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [1.29297497e-08 6.45240201e-09]
+fitness: 1.4245686260937622e-17
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [3.78335046e-09 6.85840370e-10]
+fitness: 2.5983788488215104e-18
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [5.60144571e-08 1.09678375e-07]
+fitness: 9.944951773850306e-16
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [6.85953145e-08 6.48005127e-08]
+fitness: 1.8154459731635136e-16
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [2.33305688e-07 2.08937874e-07]
+fitness: 2.1042412607768468e-15
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [ 1.89387987e-09 -2.87017748e-10]
+fitness: 1.2148986648123407e-18
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-2.93254712e-08 -5.08235301e-08]
+fitness: 1.7978025789930028e-16
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.3844958e-08 -5.5149981e-08]
+fitness: 1.9267699330323056e-16
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [ 7.22498574e-09 -2.65079623e-09]
+fitness: 2.4591999474603618e-17
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [4.55315126e-08 2.98530119e-08]
+fitness: 1.182821117991842e-16
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [4.69748391e-09 4.56479565e-09]
+fitness: 8.622997710362689e-19
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [2.08318659e-08 3.31675946e-08]
+fitness: 6.720196859251731e-17
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [-5.16990472e-09 -5.67132648e-09]
+fitness: 1.2381788852541658e-18
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-3.19294897e-08 -2.70183779e-08]
+fitness: 4.0778265883345597e-17
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [3.04402481e-08 4.65278609e-08]
+fitness: 1.2394371955018808e-16
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-3.47189410e-08 -2.48255788e-08]
+fitness: 5.99251520708048e-17
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-2.18532195e-08 -1.92623086e-08]
+fitness: 1.8583071277628263e-17
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-4.77697104e-09 -1.88431000e-08]
+fitness: 5.5043073871162765e-17
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [ 7.88591270e-10 -1.83664376e-08]
+fitness: 9.48185894213224e-17
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [5.80752336e-10 1.55289848e-09]
+fitness: 2.817916867251332e-19
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-7.32332209e-09  2.26544386e-08]
+fitness: 2.2701696610834133e-16
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-6.37928815e-08 -1.00794740e-07]
+fitness: 6.131752421932387e-16
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [3.13792620e-09 4.59797751e-10]
+fitness: 1.922529178851159e-18
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-8.54692164e-08 -5.70641678e-08]
+fitness: 4.048693523988435e-16
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [ 3.45344516e-10 -2.66642609e-09]
+fitness: 2.321564746578624e-18
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [3.42559407e-09 4.44053986e-09]
+fitness: 8.762893678158354e-19
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.27094015e-08 -3.31142982e-08]
+fitness: 4.3368579847265003e-17
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [8.91735209e-08 8.97298248e-08]
+fitness: 3.2014143956063864e-16
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-7.80352638e-08 -9.40819500e-08]
+fitness: 3.6061738723618125e-16
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [-5.0810046e-09 -6.6721900e-09]
+fitness: 2.0143435828066457e-18
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.75829056e-08 -3.46043122e-08]
+fitness: 5.4327948912082923e-17
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-3.11808197e-08 -3.57179040e-08]
+fitness: 4.9900675850241935e-17
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-4.66620112e-08 -4.18692093e-08]
+fitness: 8.412050767806048e-17
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-4.47516695e-08 -2.63754626e-08]
+fitness: 1.3501193397960097e-16
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-2.56495678e-08 -2.82218015e-08]
+fitness: 3.067534074788958e-17
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [7.59679381e-08 5.71530730e-08]
+fitness: 2.6571182285691597e-16
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 27
+solution_found: [-0.00073508 -0.00071317]
+fitness: 2.1094202493487253e-08
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 28
+solution_found: [0.00437677 0.00457636]
+fitness: 8.115438741629449e-07
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 35
+solution_found: [-8.27908461e-07 -8.59090741e-07]
+fitness: 2.870274672816533e-14
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 23
+solution_found: [1.79197448e-07 2.37738217e-07]
+fitness: 2.5951089078924144e-15
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 27
+solution_found: [-3.85801129e-08 -1.01716399e-07]
+fitness: 1.1933787666294146e-15
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 27
+solution_found: [9.45572882e-08 9.58421096e-08]
+fitness: 3.6293199831229066e-16
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 25
+solution_found: [4.94565674e-05 4.70853971e-05]
+fitness: 9.460912111682013e-11
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 36
+solution_found: [0.00024292 0.00023249]
+fitness: 2.2873148616702094e-09
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 24
+solution_found: [1.04777592e-06 9.99104753e-07]
+fitness: 4.2489425411904365e-14
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 24
+solution_found: [3.48580038e-08 2.80542349e-08]
+fitness: 5.115231534288434e-17
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 28
+solution_found: [-6.54491542e-07 -7.56827346e-07]
+fitness: 2.253636423770522e-14
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 27
+solution_found: [-2.63273895e-08  4.93761715e-09]
+fitness: 2.489503832272169e-16
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 26
+solution_found: [-2.86647270e-08  9.99423482e-09]
+fitness: 3.771147057313204e-16
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 26
+solution_found: [-5.00441743e-07 -7.12575949e-07]
+fitness: 2.5964349555705343e-14
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 29
+solution_found: [-3.52685259e-09 -5.36609894e-09]
+fitness: 1.6365526584869016e-18
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 25
+solution_found: [3.06065242e-07 2.37351733e-07]
+fitness: 4.133406665965567e-15
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 32
+solution_found: [-3.25747601e-08 -3.62507469e-08]
+fitness: 5.0747723851857623e-17
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 28
+solution_found: [2.36803381e-09 4.81940118e-10]
+fitness: 9.705608686358193e-19
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 29
+solution_found: [2.29063104e-08 2.83680597e-08]
+fitness: 3.374828657288646e-17
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 30
+solution_found: [-3.29913902e-09 -2.01154524e-10]
+fitness: 2.521897539419413e-18
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 35
+solution_found: [9.07982153e-09 1.02446439e-08]
+fitness: 4.0735523870633314e-18
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 35
+solution_found: [2.43669567e-08 2.83634329e-08]
+fitness: 3.179789546358415e-17
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 36
+solution_found: [-1.29840056e-07 -1.53069188e-07]
+fitness: 9.352745445464585e-16
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 34
+solution_found: [-2.20976512e-08 -2.81614644e-08]
+fitness: 3.445224478169935e-17
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 35
+solution_found: [2.94282449e-08 3.11820671e-08]
+fitness: 3.750507231481435e-17
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 37
+solution_found: [7.08293114e-08 5.98928572e-08]
+fitness: 2.0078436125145415e-16
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 32
+solution_found: [1.05214795e-07 4.70001524e-08]
+fitness: 1.0789300500535175e-15
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 40
+solution_found: [-2.24479831e-08 -1.49420799e-08]
+fitness: 2.8064813803939156e-17
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 37
+solution_found: [-1.51307798e-08 -1.58441731e-08]
+fitness: 9.721709565169072e-18
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 34
+solution_found: [3.30229768e-09 5.07769042e-09]
+fitness: 1.4902468444397743e-18
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 38
+solution_found: [1.88233083e-07 2.96881642e-07]
+fitness: 5.304490337509256e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 37
+solution_found: [-7.35643399e-08 -1.34418985e-07]
+fitness: 1.3583925963337404e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 39
+solution_found: [-2.45624840e-09  1.05224884e-07]
+fitness: 3.0044204749952108e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 38
+solution_found: [-3.01129381e-07 -3.34686288e-08]
+fitness: 1.9030127815037473e-14
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 36
+solution_found: [-8.78062499e-08 -4.78873723e-08]
+fitness: 5.825067876405264e-16
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 38
+solution_found: [-8.52623483e-08 -9.60116881e-08]
+fitness: 3.5748983893565807e-16
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 38
+solution_found: [1.19350934e-07 1.58102011e-07]
+fitness: 1.1452128702139128e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 41
+solution_found: [2.32697995e-09 4.10198242e-09]
+fitness: 1.2009740193548529e-18
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 39
+solution_found: [2.76233439e-08 3.96771074e-08]
+fitness: 8.161681104333384e-17
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 38
+solution_found: [9.41307143e-08 1.12528083e-07]
+fitness: 5.116943846495338e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-2.94318101e-07 -2.71437351e-07]
+fitness: 3.331674486502566e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-1.28624417e-07 -1.17614863e-07]
+fitness: 6.366403974037341e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-4.36171952e-08 -6.07004414e-08]
+fitness: 1.8178101775734593e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.29887831e-08  3.97628014e-08]
+fitness: 7.028508985131134e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-2.98343679e-08 -6.56083187e-08]
+fitness: 4.110369530674669e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-8.67590817e-09 -6.26777520e-09]
+fitness: 3.682912822831833e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-2.85721350e-08 -6.06917619e-08]
+fitness: 3.375980409707141e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [ 3.10705388e-08 -4.90798407e-08]
+fitness: 1.60926418139628e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [6.05186722e-09 7.73927348e-09]
+fitness: 2.613790581504933e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [6.30117590e-09 4.72039641e-09]
+fitness: 1.8394665073244243e-18
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [6.19593343e-08 9.94902356e-08]
+fitness: 6.128017733935235e-16
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [2.86236750e-07 2.58566583e-07]
+fitness: 3.1595162533526143e-15
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 76
+solution_found: [8.45753830e-09 6.62360946e-09]
+fitness: 3.1152339229943803e-18
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 64
+solution_found: [-4.21881005e-09 -4.30414310e-08]
+fitness: 3.9913427712659147e-16
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 60
+solution_found: [-2.91148835e-08 -6.35011069e-08]
+fitness: 3.813803074547866e-16
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 76
+solution_found: [4.82648349e-09 3.46208997e-09]
+fitness: 1.1523969148452495e-18
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 73
+solution_found: [-8.17587249e-09 -3.42305163e-09]
+fitness: 6.992676937903685e-18
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [-1.89099816e-08 -2.39695334e-08]
+fitness: 2.478629409910993e-17
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 72
+solution_found: [2.98780965e-08 3.20320054e-08]
+fitness: 3.9488438043824795e-17
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 64
+solution_found: [-1.79449806e-07 -2.33943239e-07]
+fitness: 2.451321666037298e-15
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 107
+solution_found: [-4.75080581e-08 -4.76505942e-08]
+fitness: 9.055677025688666e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 108
+solution_found: [-1.00684187e-08 -9.51191179e-09]
+fitness: 3.911318430366739e-18
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 98
+solution_found: [-5.09465918e-09  4.45614093e-09]
+fitness: 2.280852277973929e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 98
+solution_found: [-2.03719845e-09 -3.86426202e-09]
+fitness: 1.1828126835034483e-18
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 103
+solution_found: [2.57500256e-08 2.55498018e-08]
+fitness: 2.632674531728456e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 95
+solution_found: [-1.12190834e-08 -1.26817818e-08]
+fitness: 6.247385182882886e-18
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 92
+solution_found: [4.71146393e-08 4.48560270e-08]
+fitness: 8.5861367017065e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 95
+solution_found: [9.18901705e-08 4.05422331e-08]
+fitness: 8.345360836448926e-16
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 120
+solution_found: [-2.29078496e-10 -3.49492877e-10]
+fitness: 6.97235416589723e-21
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 99
+solution_found: [-9.62307141e-09 -1.41122856e-08]
+fitness: 1.0671932771700009e-17
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 192
+solution_found: [3.97495849e-10 2.66349068e-10]
+fitness: 8.706770300673914e-21
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 183
+solution_found: [-2.01130562e-09 -1.23226698e-09]
+fitness: 2.569329338986666e-19
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 176
+solution_found: [ 8.43564426e-10 -8.97637395e-11]
+fitness: 2.234575210950362e-19
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 225
+solution_found: [-9.79496583e-11 -8.24517407e-11]
+fitness: 3.854930097629492e-22
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 211
+solution_found: [-1.94961453e-10 -5.23731709e-10]
+fitness: 3.218766890217545e-20
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 173
+solution_found: [-1.39941689e-08 -1.21609970e-08]
+fitness: 7.681056770814884e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 184
+solution_found: [-4.47465994e-09 -6.84297202e-09]
+fitness: 2.6831134547368834e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 187
+solution_found: [1.10941125e-08 1.34801870e-08]
+fitness: 7.46229981171916e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 196
+solution_found: [-9.48335917e-10 -1.01134073e-09]
+fitness: 3.939572693511519e-20
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 188
+solution_found: [3.3333470e-09 4.1062225e-09]
+fitness: 7.028060787328104e-19
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 914
+solution_found: [9.47080428e-12 8.10119962e-12]
+fitness: 3.556707440006066e-24
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 796
+solution_found: [2.58762325e-10 2.79201598e-10]
+fitness: 2.998492790715353e-21
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 800
+solution_found: [3.00564059e-11 2.71267485e-11]
+fitness: 3.484485453068938e-23
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 914
+solution_found: [5.87843936e-12 7.41491352e-12]
+fitness: 2.357320521151169e-24
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 722
+solution_found: [-7.16033159e-12 -7.02288159e-12]
+fitness: 2.0163584874084187e-24
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.52708115e-12 5.58865179e-13]
+fitness: 2.778722625184525e-25
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 901
+solution_found: [-4.56742944e-12 -4.97871141e-12]
+fitness: 9.535762675231162e-25
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 741
+solution_found: [1.01497123e-10 1.07230260e-10]
+fitness: 4.438884228270147e-22
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 891
+solution_found: [-1.15591868e-13  9.59162782e-14]
+fitness: 1.1187795277066349e-26
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 730
+solution_found: [-1.66952732e-12 -1.70649794e-12]
+fitness: 1.1431717207379193e-25
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-0.00054255 -0.00039439]
+fitness: 1.426660570516708e-08
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-0.00103175  0.00023814]
+fitness: 4.0944888672368127e-07
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [0.00816079 0.0058671 ]
+fitness: 3.283059620742075e-06
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [0.00747135 0.00675557]
+fitness: 2.152140400474513e-06
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [0.00380868 0.00409918]
+fitness: 6.464412932515417e-07
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-0.00272283 -0.00277976]
+fitness: 3.035948849793391e-07
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [0.00236179 0.00220725]
+fitness: 2.1473237411196055e-07
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-0.00876828 -0.00926581]
+fitness: 3.3141663688453655e-06
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.10914464e-05 8.44131218e-04]
+fitness: 1.7291856463392496e-07
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-0.00848029 -0.00691958]
+fitness: 2.9805191472573436e-06
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [1.42529886e-06 1.59285810e-06]
+fitness: 9.811173873993714e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [3.66587465e-07 3.55719135e-07]
+fitness: 5.246798388814645e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-9.60165506e-08  1.16843037e-07]
+fitness: 1.1331638459729268e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-3.12294159e-07  2.43197771e-07]
+fitness: 7.719056435431545e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [1.07036776e-06 8.92460975e-07]
+fitness: 4.6439672363916314e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [2.81966485e-07 1.77573399e-07]
+fitness: 4.8362481459117725e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [7.66777163e-07 7.11840345e-07]
+fitness: 2.2617610840361857e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [ 6.24077072e-08 -4.63446181e-08]
+fitness: 2.959347297103167e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-1.15172227e-08 -2.35499977e-07]
+fitness: 1.3152243515200627e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-5.55431147e-08 -1.63590114e-08]
+fitness: 4.3554764498411735e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [ 3.16331382e-08 -1.39576288e-07]
+fitness: 7.444684135363413e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [3.16624226e-08 1.35399180e-07]
+fitness: 2.9694244993371064e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [3.96164658e-07 1.32328310e-07]
+fitness: 2.019545274134032e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-6.56074104e-08 -8.43084883e-08]
+fitness: 3.1218034598429786e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [ 7.45543020e-09 -6.74161983e-09]
+fitness: 5.0394152582414544e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [-2.63933159e-07 -4.75324782e-07]
+fitness: 1.6636627598253658e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-6.33486274e-07 -5.80988885e-07]
+fitness: 1.5438493097465287e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-1.57348010e-07 -1.25802747e-07]
+fitness: 1.0505194199427528e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [3.19707764e-09 3.97665083e-08]
+fitness: 3.527895123928629e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [2.55108211e-07 2.11968725e-07]
+fitness: 2.6468624463837844e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-1.12440333e-09  1.00433649e-08]
+fitness: 3.197524084973312e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-1.87214664e-07 -1.00437261e-07]
+fitness: 2.7100157191907397e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-1.51586725e-07 -2.10654541e-07]
+fitness: 2.1844390585230337e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-5.29127618e-07 -5.31131380e-07]
+fitness: 1.124249519308871e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [7.15581843e-07 1.00455115e-06]
+fitness: 5.046438946394945e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-1.49174277e-07 -6.58499257e-07]
+fitness: 7.137634919640091e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-1.37690417e-08 -2.97658979e-08]
+fitness: 8.29277615765335e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [-1.80337819e-07 -1.35661327e-07]
+fitness: 1.497551833937505e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [1.58643400e-07 1.14898937e-07]
+fitness: 1.2266486120270055e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [3.61388796e-08 3.76324496e-08]
+fitness: 5.497977795465791e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-2.50168893e-07 -5.93779667e-07]
+fitness: 3.663958269023438e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [3.43863566e-08 2.39365191e-07]
+fitness: 1.1253479741370072e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [2.11811401e-07 1.42719763e-07]
+fitness: 2.450337093875591e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 41
+solution_found: [ 2.44242873e-07 -5.54268499e-08]
+fitness: 2.2807000589855113e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-2.48739013e-08  1.40758521e-08]
+fitness: 3.8043680207484303e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 41
+solution_found: [-1.09109209e-06 -1.09532367e-06]
+fitness: 4.780861504529955e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-4.12918798e-08 -4.66211752e-08]
+fitness: 8.438739984512772e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-4.71982752e-07 -4.27707254e-07]
+fitness: 8.58450100615399e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-3.47419037e-07 -1.69225954e-07]
+fitness: 1.060741422874884e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-5.64638256e-07 -6.41038237e-07]
+fitness: 1.5995797346426134e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-4.70432127e-07 -4.98325955e-07]
+fitness: 9.579438609900534e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-6.65343631e-08 -8.76901803e-08]
+fitness: 3.4974424884597426e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-4.07693885e-08 -8.39879662e-08]
+fitness: 6.226053401165174e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-1.37696751e-07  9.59732334e-09]
+fitness: 5.587980728392802e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [1.86865250e-07 2.06381702e-07]
+fitness: 1.6416546205416115e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 42
+solution_found: [-6.00981633e-08  1.30018247e-07]
+fitness: 9.084950569367742e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 40
+solution_found: [7.88257853e-07 7.87539530e-07]
+fitness: 2.483150291575639e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [1.05032403e-08 2.42375676e-08]
+fitness: 5.922717399526277e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-5.19916509e-07 -3.35935564e-07]
+fitness: 1.5787074703143315e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Matyas
+epoch_stop: 41
+solution_found: [1.25881506e-07 2.29374538e-07]
+fitness: 3.9397704919771115e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-3.59738770e-07 -2.55813089e-07]
+fitness: 6.489177698662779e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-1.2216155e-07 -1.3320183e-07]
+fitness: 6.825765072863926e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [3.04644418e-07 2.40878689e-07]
+fitness: 3.992471660657175e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-1.17314819e-07 -1.28921303e-07]
+fitness: 6.399998971935841e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-1.00028814e-07 -1.01255654e-07]
+fitness: 4.055306562373922e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [1.67006646e-07 1.77968315e-07]
+fitness: 1.2201167834061795e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-2.10446276e-07 -1.89546168e-07]
+fitness: 1.709143189618451e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-9.98841080e-08 -1.68405006e-07]
+fitness: 1.8935688401964847e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [6.16021396e-07 3.41322784e-07]
+fitness: 2.8029910624410302e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-1.28042925e-07 -1.03234765e-07]
+fitness: 6.887548957872862e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [1.18106493e-07 8.70479609e-08]
+fitness: 6.620415942665902e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-5.89242252e-08  6.18701135e-08]
+fitness: 3.6479048519529465e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-5.57400225e-07 -7.55801407e-07]
+fitness: 2.7085742455731595e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [1.00705526e-07 2.34923527e-07]
+fitness: 5.630086575535873e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [4.52141049e-07 4.15649901e-07]
+fitness: 7.863512283452266e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 41
+solution_found: [-9.70545091e-09  4.83921382e-07]
+fitness: 6.316567010005681e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [3.32872738e-08 1.73244819e-07]
+fitness: 5.3235836728186905e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 43
+solution_found: [-2.25449402e-07 -1.66813192e-07]
+fitness: 2.398250728140499e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-5.47289662e-07 -3.83815426e-07]
+fitness: 1.535052330122388e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [1.09730382e-07 9.01970436e-08]
+fitness: 4.9509758870478125e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-1.42476051e-07 -2.04098949e-07]
+fitness: 2.1504876943918328e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [3.61896939e-08 5.03355728e-10]
+fitness: 3.318424826282963e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-6.92296141e-08 -4.17523817e-08]
+fitness: 3.1191960936244875e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [-4.74910658e-07 -5.78554943e-07]
+fitness: 1.3783432184151014e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [4.26847983e-08 8.61953095e-08]
+fitness: 6.393919684837762e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [2.35927623e-08 4.26042137e-08]
+fitness: 1.3417921744545597e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [1.21405196e-07 1.27602841e-07]
+fitness: 6.29652726028108e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-1.36968493e-09 -3.78933495e-09]
+fitness: 1.7298314151726023e-18
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 44
+solution_found: [3.76385397e-07 3.46246821e-07]
+fitness: 5.4490566598723505e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [-9.80717475e-08  1.51051825e-10]
+fitness: 2.5078142029055814e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [2.18620369e-07 2.48154114e-07]
+fitness: 2.3968447000918657e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-3.89073461e-08 -6.74346057e-08]
+fitness: 3.1653724261680517e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [5.56730542e-07 3.60747489e-07]
+fitness: 1.8019998659648375e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 45
+solution_found: [4.26531023e-07 3.31024431e-07]
+fitness: 8.019279927144054e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [1.74600848e-07 1.70845703e-07]
+fitness: 1.196858472623912e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 47
+solution_found: [-1.01953110e-07 -4.84261405e-08]
+fitness: 9.424232955796197e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-1.59659238e-08 -1.16415735e-08]
+fitness: 1.2296740307650064e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.10989567e-07 -9.36100343e-08]
+fitness: 4.941220103950117e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-5.56635379e-08 -1.89443668e-08]
+fitness: 3.927377758841793e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-3.10383489e-07 -2.73593814e-07]
+fitness: 3.748664946231263e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [2.06624384e-08 2.50984957e-08]
+fitness: 2.5860282131633205e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [4.90112307e-08 2.79152716e-08]
+fitness: 1.7043674058250452e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-1.07539783e-07 -1.51560511e-07]
+fitness: 1.155785748687351e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [5.81950809e-08 6.22663082e-08]
+fitness: 1.4925318545481995e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.98292669e-08 -4.87186537e-08]
+fitness: 9.816264176725325e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-3.37765894e-09 -1.24112402e-08]
+fitness: 2.2894290737900542e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 46
+solution_found: [-9.57292194e-08 -1.36055230e-07]
+fitness: 9.437871011953057e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-4.25958372e-07 -5.06061606e-07]
+fitness: 1.0290744395022204e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [ 5.60430998e-08 -4.76137054e-08]
+fitness: 2.686893861813733e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-9.66553757e-08 -1.17197301e-07]
+fitness: 5.628223453462613e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [ 2.51572542e-08 -1.83569578e-07]
+fitness: 1.114266724751744e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [3.45782814e-08 3.37112940e-08]
+fitness: 4.6822577824031785e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 75
+solution_found: [-1.80205582e-10 -1.14835227e-10]
+fitness: 1.938811604521259e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [3.00477901e-07 3.14692929e-07]
+fitness: 3.834868257501796e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [3.79532295e-08 5.73924824e-09]
+fitness: 2.785254727875855e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [5.61358569e-09 4.09138734e-09]
+fitness: 1.5211369699554967e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-6.67590160e-08 -1.21261363e-07]
+fitness: 1.0961430883512657e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 48
+solution_found: [-3.22705826e-07 -2.71934331e-07]
+fitness: 4.180405352659072e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [5.91568416e-08 8.72866173e-08]
+fitness: 4.1227793742585185e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [ 5.12653091e-09 -1.83712860e-08]
+fitness: 1.3979108550093314e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [-3.14016209e-08 -4.08436158e-08]
+fitness: 7.448155874245355e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [2.27685119e-08 8.08519413e-09]
+fitness: 6.341946664372837e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [1.14413783e-07 1.26706403e-07]
+fitness: 6.191665630624472e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [-1.61656420e-08 -1.85017423e-08]
+fitness: 1.3382616507547609e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [2.04173621e-07 1.60062932e-07]
+fitness: 1.8131208893292714e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [6.12370354e-09 2.69515228e-08]
+fitness: 1.1938922003251684e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [7.73665651e-08 5.12937564e-08]
+fitness: 3.35482622740969e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [5.86864643e-08 5.71448632e-08]
+fitness: 1.3476309772868277e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [4.73316004e-08 3.12773727e-09]
+fitness: 5.139568254301458e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [1.97617001e-08 2.70698168e-08]
+fitness: 3.5284052002635736e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 50
+solution_found: [ 6.32463213e-08 -5.11590415e-08]
+fitness: 3.2736077860609907e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [2.70440861e-08 3.00551213e-08]
+fitness: 3.486977824023774e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 49
+solution_found: [-1.65481051e-07 -1.94276053e-07]
+fitness: 1.5015397658951516e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 59
+solution_found: [-1.75914323e-08 -1.17460173e-08]
+fitness: 1.7149078470224093e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 67
+solution_found: [-8.02943389e-10 -1.02559897e-09]
+fitness: 4.5829547900004255e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-1.12453085e-07 -7.29197581e-08]
+fitness: 7.343519030475837e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 51
+solution_found: [1.03340752e-08 9.74455838e-08]
+fitness: 2.0132682812925446e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 52
+solution_found: [-5.25153949e-08  1.84571994e-08]
+fitness: 1.2708768926791566e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [-2.52349497e-08  1.38612072e-08]
+fitness: 3.8342099217930255e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Matyas
+epoch_stop: 56
+solution_found: [5.36684418e-09 6.51708088e-09]
+fitness: 1.7430378647030985e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 59
+solution_found: [2.13727961e-07 2.74006568e-07]
+fitness: 3.2872273375888704e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [1.18457825e-08 1.72830969e-08]
+fitness: 1.587601321885845e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [2.08632600e-08 2.88292818e-08]
+fitness: 4.05578630442842e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 53
+solution_found: [-1.91820903e-09 -6.51858003e-10]
+fitness: 4.669636782944225e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-4.07901154e-08 -2.46713592e-09]
+fitness: 3.8587458635967766e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [-1.22824382e-09 -9.57486716e-10]
+fitness: 6.610153206934814e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [1.64929503e-08 3.14264766e-08]
+fitness: 7.871526649644423e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 54
+solution_found: [-1.56231007e-08 -1.05284942e-08]
+fitness: 1.332781296742094e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [-3.71208362e-09  3.40324429e-09]
+fitness: 1.2657926619904853e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [ 4.87820240e-08 -3.01640508e-08]
+fitness: 1.56158697068712e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 55
+solution_found: [-3.42487624e-08 -7.73514003e-08]
+fitness: 5.890053105733736e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 66
+solution_found: [1.46951160e-08 1.04928168e-08]
+fitness: 1.0759149171021765e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 58
+solution_found: [5.48939152e-08 3.17740575e-08]
+fitness: 2.087453292634769e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 57
+solution_found: [1.10152897e-08 7.21494257e-09]
+fitness: 6.934073189955691e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-7.88770018e-09 -7.79561511e-09]
+fitness: 2.4617837003355115e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [-1.94117727e-10  1.84841168e-09]
+fitness: 1.0703484838527127e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 72
+solution_found: [-5.31399589e-09 -4.84311620e-09]
+fitness: 1.0871011829199039e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 64
+solution_found: [-5.69257954e-08 -4.90022657e-08]
+fitness: 1.2790312176288028e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-4.11460346e-08 -3.50088431e-08]
+fitness: 6.741193366559385e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Matyas
+epoch_stop: 59
+solution_found: [-1.69684085e-08 -2.60167557e-08]
+fitness: 3.8945390517712514e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 67
+solution_found: [4.07752721e-09 3.58956268e-09]
+fitness: 6.473700193249314e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 67
+solution_found: [4.12097330e-09 4.24582899e-09]
+fitness: 7.039310425792343e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 64
+solution_found: [9.07958518e-09 1.61666411e-08]
+fitness: 1.893030967609624e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 67
+solution_found: [-2.44680759e-09 -2.99449981e-09]
+fitness: 3.710699535912724e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 69
+solution_found: [-9.04808963e-10 -1.87600248e-09]
+fitness: 3.131333355117208e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 59
+solution_found: [ 4.41600033e-08 -3.14913498e-08]
+fitness: 1.4323867547802202e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 74
+solution_found: [1.3016007e-09 1.4325889e-09]
+fitness: 7.90474049353617e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 63
+solution_found: [2.52832917e-08 2.92960579e-08]
+fitness: 3.3814627133169775e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 60
+solution_found: [-1.83394026e-07 -2.10215320e-07]
+fitness: 1.729128613468899e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Matyas
+epoch_stop: 60
+solution_found: [5.11461766e-08 3.81125648e-08]
+fitness: 1.2213998796320123e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 70
+solution_found: [9.37441617e-09 7.91542619e-09]
+fitness: 3.521549425568762e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-3.73044369e-08 -3.35640167e-08]
+fitness: 5.372106291799641e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 64
+solution_found: [-1.96193071e-08 -2.01147239e-08]
+fitness: 1.5849291634470128e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 70
+solution_found: [4.35223248e-09 1.28968547e-09]
+fitness: 2.6631109319992545e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 78
+solution_found: [1.37890895e-09 1.79290826e-09]
+fitness: 1.434531004887603e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-4.03213650e-08 -9.11470565e-08]
+fitness: 8.186521893142836e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 67
+solution_found: [-3.71744375e-09 -2.72453626e-09]
+fitness: 6.614573823116464e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-1.41662019e-07 -1.06598186e-07]
+fitness: 9.236993786453875e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [-1.12287851e-07 -1.11417313e-07]
+fitness: 5.006294668807695e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Matyas
+epoch_stop: 62
+solution_found: [ 1.04727629e-08 -1.84077300e-08]
+fitness: 2.091503537225452e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 75
+solution_found: [1.34146959e-09 3.05374185e-09]
+fitness: 9.261479091528754e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 66
+solution_found: [ 3.06723657e-09 -9.21334891e-09]
+fitness: 3.8080941896312536e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 68
+solution_found: [-2.14276446e-08 -1.99005100e-08]
+fitness: 1.766319867918099e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 88
+solution_found: [-2.83802484e-11  1.30917489e-11]
+fitness: 4.323190209454806e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 66
+solution_found: [6.85700319e-08 6.14292763e-08]
+fitness: 1.817457990030157e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 65
+solution_found: [2.48564187e-07 2.50629169e-07]
+fitness: 2.493006098123283e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 72
+solution_found: [-4.35954584e-09 -2.96240873e-09]
+fitness: 1.0241082138750216e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 69
+solution_found: [-1.76934468e-08 -2.44284392e-08]
+fitness: 2.908256325654007e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 69
+solution_found: [-2.33016777e-08 -1.25683529e-08]
+fitness: 4.166765601696013e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Matyas
+epoch_stop: 76
+solution_found: [4.91268956e-10 1.22680435e-09]
+fitness: 1.6477083724752814e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 78
+solution_found: [3.55935813e-09 3.16335975e-09]
+fitness: 4.911530369293615e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 92
+solution_found: [1.03234440e-10 9.37461227e-11]
+fitness: 4.105204640608942e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 72
+solution_found: [1.38575734e-08 8.65890177e-09]
+fitness: 1.18264632229797e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 66
+solution_found: [-1.91399961e-08 -2.39383147e-08]
+fitness: 2.4313374051902002e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 74
+solution_found: [ 6.66058046e-11 -5.13699956e-09]
+fitness: 7.026466113452666e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 79
+solution_found: [5.20124410e-09 5.22332733e-09]
+fitness: 1.0868388106282964e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 70
+solution_found: [6.86343859e-09 5.64499017e-09]
+fitness: 1.9357620367284256e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 85
+solution_found: [1.33581708e-10 1.62674261e-10]
+fitness: 1.0892701594135253e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 92
+solution_found: [-4.22830785e-11 -4.26848202e-11]
+fitness: 7.223578712421396e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Matyas
+epoch_stop: 70
+solution_found: [-6.69782656e-08 -5.36615959e-08]
+fitness: 1.8987318441623138e-16
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 77
+solution_found: [-2.00793593e-08 -2.67253786e-08]
+fitness: 3.2949227986890684e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 78
+solution_found: [1.95617319e-09 2.37503375e-09]
+fitness: 2.314545785775224e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 71
+solution_found: [1.76470579e-09 2.60529413e-09]
+fitness: 3.676161820773624e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 73
+solution_found: [-1.86503817e-07 -1.66857113e-07]
+fitness: 1.3451377092810117e-15
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 73
+solution_found: [-8.39837700e-09 -1.23244703e-08]
+fitness: 8.14791607324655e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 85
+solution_found: [5.67970621e-10 3.54753874e-10]
+fitness: 1.987955021137349e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 88
+solution_found: [-4.07479661e-10 -2.66916271e-10]
+fitness: 9.487615322673968e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 73
+solution_found: [-2.39505227e-08 -2.58892828e-08]
+fitness: 2.5779759797645434e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 81
+solution_found: [-3.66292937e-10 -1.53296873e-10]
+fitness: 1.404156645006338e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Matyas
+epoch_stop: 85
+solution_found: [1.56141190e-10 2.44435045e-11]
+fitness: 4.662178425323048e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 88
+solution_found: [5.93980210e-10 4.65828052e-10]
+fitness: 1.5337679398120034e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 72
+solution_found: [9.28916669e-09 6.85141268e-09]
+fitness: 4.0908441799209084e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 85
+solution_found: [-8.61238097e-10  3.39088792e-10]
+fitness: 3.6292255928922954e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 79
+solution_found: [3.09008941e-09 2.93363026e-09]
+fitness: 3.6897185200003286e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 87
+solution_found: [3.78791471e-09 3.47071710e-09]
+fitness: 5.520309371233532e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 80
+solution_found: [9.85968406e-11 3.71653603e-10]
+fitness: 2.085135370644579e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 76
+solution_found: [-1.02167448e-08  5.00281437e-10]
+fitness: 2.965775923258584e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 93
+solution_found: [-1.43400023e-09 -1.18937162e-09]
+fitness: 8.378158730245153e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 87
+solution_found: [-3.02883429e-10 -1.01814667e-10]
+fitness: 1.1744967271345877e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Matyas
+epoch_stop: 84
+solution_found: [8.61401914e-10 9.25229493e-10]
+fitness: 3.293900781669354e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 81
+solution_found: [-4.85637218e-09  8.27135864e-09]
+fitness: 4.320095043008092e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 89
+solution_found: [-7.17300297e-10 -4.51043326e-10]
+fitness: 3.137346179835763e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 80
+solution_found: [-4.27718106e-09  5.78123490e-09]
+fitness: 2.5315554655021096e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 87
+solution_found: [ 9.14274378e-10 -5.11915846e-10]
+fitness: 5.101235630121761e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 108
+solution_found: [-4.09257050e-10 -4.03829235e-10]
+fitness: 6.6184583586981186e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 97
+solution_found: [2.10851934e-09 2.62239546e-09]
+fitness: 2.8983271523972936e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 94
+solution_found: [-1.38666386e-09 -1.23011782e-09]
+fitness: 7.460212939786632e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 105
+solution_found: [-1.53930285e-10 -3.88074945e-11]
+fitness: 3.684792749026051e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 77
+solution_found: [-1.66613689e-08 -2.25317819e-08]
+fitness: 2.3976467936025774e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Matyas
+epoch_stop: 90
+solution_found: [ 1.75262117e-11 -3.17226949e-10]
+fitness: 2.891312490985525e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 82
+solution_found: [-1.42691222e-09 -1.84025832e-09]
+fitness: 1.4945778251700605e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 84
+solution_found: [-8.5304091e-09 -4.8282736e-09]
+fitness: 5.210995855752805e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 81
+solution_found: [-5.56914027e-09 -3.79085142e-09]
+fitness: 1.666672256139417e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 94
+solution_found: [-5.09432299e-11  3.69429277e-10]
+fitness: 4.519259474834924e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 115
+solution_found: [3.38912360e-11 2.36133921e-11]
+fitness: 5.947634101588932e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 87
+solution_found: [5.96482414e-09 4.56929873e-09]
+fitness: 1.5965502353379304e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 94
+solution_found: [2.58313323e-10 1.19607552e-10]
+fitness: 6.23806456686699e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 87
+solution_found: [ 9.16434273e-10 -9.45910484e-11]
+fitness: 2.622973128388912e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 104
+solution_found: [-3.63215963e-13  2.75390499e-13]
+fitness: 1.0203168659942568e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Matyas
+epoch_stop: 91
+solution_found: [1.38522116e-08 1.43513618e-08]
+fitness: 8.016703282992342e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 110
+solution_found: [-3.93185535e-10 -5.30209904e-10]
+fitness: 1.3220510846664462e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 93
+solution_found: [3.12174308e-09 3.24668659e-09]
+fitness: 4.094716846123314e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 109
+solution_found: [-6.14297096e-11 -1.48748937e-10]
+fitness: 2.3479125135784002e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 99
+solution_found: [-1.90749831e-10 -7.88472398e-11]
+fitness: 3.857373281511532e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 100
+solution_found: [-4.22574557e-09 -5.04015251e-09]
+fitness: 1.0243833403347794e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 91
+solution_found: [-7.63810207e-09 -9.52299273e-09]
+fitness: 3.8332349484779185e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 92
+solution_found: [-2.53310570e-09 -2.90365787e-09]
+fitness: 3.299112099273478e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 101
+solution_found: [-4.25514030e-10 -5.10543669e-10]
+fitness: 1.0569550030240355e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 95
+solution_found: [1.21869811e-08 1.09879286e-08]
+fitness: 5.7301961180082845e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Matyas
+epoch_stop: 98
+solution_found: [4.94076478e-10 9.10086669e-10]
+fitness: 6.298286111330779e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 133
+solution_found: [4.77689327e-12 4.85014853e-12]
+fitness: 9.281409218533685e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 121
+solution_found: [5.38077205e-11 5.13403837e-11]
+fitness: 1.1208317607032617e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 105
+solution_found: [4.13769079e-10 3.01590526e-10]
+fitness: 8.263400588966938e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 115
+solution_found: [5.43076949e-10 5.99067185e-10]
+fitness: 1.3828658877565264e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 94
+solution_found: [3.78292364e-09 3.87824092e-09]
+fitness: 5.892057699457192e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 119
+solution_found: [-1.96154634e-10 -1.75027976e-10]
+fitness: 1.4893492131580287e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 118
+solution_found: [1.13155547e-11 5.67562881e-11]
+fitness: 5.62552821425714e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 105
+solution_found: [3.50406617e-09 3.39785102e-09]
+fitness: 4.7918502294131015e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 96
+solution_found: [3.25340522e-09 3.12012099e-09]
+fitness: 4.106595339867611e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Matyas
+epoch_stop: 109
+solution_found: [1.21165927e-09 1.60996346e-09]
+fitness: 1.1927710461699652e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 117
+solution_found: [-3.95937845e-09 -4.18557111e-09]
+fitness: 6.7619281394198155e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 123
+solution_found: [-4.57410480e-10 -4.14037922e-10]
+fitness: 8.064517881798407e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 134
+solution_found: [2.46032600e-11 3.42439825e-11]
+fitness: 5.786586206439417e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 98
+solution_found: [3.31969943e-09 2.26423983e-09]
+fitness: 5.903025183981193e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 120
+solution_found: [1.06688003e-11 6.58451464e-12]
+fitness: 7.147115998272987e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 101
+solution_found: [2.03990178e-09 2.32514521e-09]
+fitness: 2.1087730485280104e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 129
+solution_found: [1.44147068e-11 5.35234115e-11]
+fitness: 4.285285745091878e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 123
+solution_found: [1.15761875e-11 1.18656302e-11]
+fitness: 5.5161324497199525e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 114
+solution_found: [-2.69320643e-10 -2.28876953e-10]
+fitness: 2.8909314493802773e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Matyas
+epoch_stop: 113
+solution_found: [5.92255452e-09 4.72786766e-09]
+fitness: 1.4911341011056553e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 133
+solution_found: [-1.78879966e-10 -9.50969378e-11]
+fitness: 2.505532405461382e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 137
+solution_found: [-1.13580564e-10 -9.22116690e-11]
+fitness: 5.376618549486145e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 118
+solution_found: [1.64876873e-10 1.64926865e-10]
+fitness: 1.0877056784991611e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 147
+solution_found: [-3.97846152e-11 -3.88955338e-11]
+fitness: 6.210327499477979e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 130
+solution_found: [-6.07356402e-10 -1.06935228e-09]
+fitness: 8.147356920693178e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 172
+solution_found: [7.50559495e-13 7.11850535e-13]
+fitness: 2.1761026846441283e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 151
+solution_found: [1.98714680e-11 2.14757563e-11]
+fitness: 1.7739364847815548e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 125
+solution_found: [-1.51242965e-09 -1.27501531e-09]
+fitness: 9.178988694489494e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 151
+solution_found: [-2.58499284e-11 -2.71646196e-11]
+fitness: 2.853752631263872e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Matyas
+epoch_stop: 106
+solution_found: [1.86675814e-09 8.41999625e-10]
+fitness: 3.3590619163347037e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 136
+solution_found: [5.26404224e-11 5.06024967e-11]
+fitness: 1.0762928869004791e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 152
+solution_found: [1.32700522e-11 1.20557004e-11]
+fitness: 6.782599980901646e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 176
+solution_found: [-7.43387985e-12 -4.69219612e-12]
+fitness: 3.3496245989675876e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 151
+solution_found: [1.14590198e-11 1.05721860e-11]
+fitness: 5.0503588002988974e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 147
+solution_found: [-7.75529103e-11 -1.01508437e-10]
+fitness: 4.640964778481379e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 156
+solution_found: [1.0376697e-11 8.8200073e-12]
+fitness: 4.2909552544436765e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 147
+solution_found: [3.44292402e-10 3.64906200e-10]
+fitness: 5.135858747490565e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 147
+solution_found: [-2.52125017e-11 -3.02422939e-11]
+fitness: 3.7077045959782524e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 183
+solution_found: [5.91378948e-14 5.37969572e-14]
+fitness: 1.3467421160503081e-28
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Matyas
+epoch_stop: 130
+solution_found: [-1.85722525e-10 -1.69160020e-10]
+fitness: 1.3279953514496235e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 202
+solution_found: [-2.02415761e-13 -2.81062200e-13]
+fitness: 3.883825003467918e-27
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 252
+solution_found: [-3.25571742e-15 -3.13801368e-15]
+fitness: 4.122615160870289e-31
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 147
+solution_found: [ 7.80467345e-13 -2.50060337e-11]
+fitness: 1.7210468913745948e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 168
+solution_found: [-2.73620321e-11 -3.05485267e-11]
+fitness: 3.6074765239881943e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 153
+solution_found: [-1.02763408e-11 -2.30366783e-11]
+fitness: 5.180412543598434e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 181
+solution_found: [-5.45682822e-12 -5.51213478e-12]
+fitness: 1.2039461954262733e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 162
+solution_found: [-1.52292308e-13 -3.41578527e-13]
+fitness: 1.1396402191293315e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 193
+solution_found: [1.14155088e-12 6.56512391e-13]
+fitness: 9.114589880115429e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 188
+solution_found: [-2.37110941e-13 -2.59532229e-13]
+fitness: 2.592222929414654e-27
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Matyas
+epoch_stop: 234
+solution_found: [-7.14533123e-15 -8.07552905e-15]
+fitness: 2.5330628725364253e-30
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 207
+solution_found: [-4.85612732e-13 -4.89556190e-13]
+fitness: 9.513431972261367e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 238
+solution_found: [3.57991568e-14 3.91066322e-14]
+fitness: 5.884362075079946e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 178
+solution_found: [-1.11194816e-11 -1.38699204e-11]
+fitness: 8.135930553679295e-24
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 195
+solution_found: [-4.81817946e-12 -3.86621212e-12]
+fitness: 9.80747027110968e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 203
+solution_found: [2.23491296e-11 2.75478645e-11]
+fitness: 3.1653811242375727e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 180
+solution_found: [2.37406125e-10 2.33758064e-10]
+fitness: 2.223284013872417e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 222
+solution_found: [1.02643075e-13 4.09274818e-14]
+fitness: 1.1583286732763767e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 262
+solution_found: [-4.79018955e-16 -4.52449514e-16]
+fitness: 8.852818878470607e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 168
+solution_found: [-2.07374226e-12 -2.31171501e-12]
+fitness: 2.0648011277180874e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Matyas
+epoch_stop: 250
+solution_found: [1.91002392e-15 1.81947260e-15]
+fitness: 1.4114132779159988e-31
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 313
+solution_found: [-3.35569694e-15  2.05256034e-15]
+fitness: 7.3292933782237e-30
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 324
+solution_found: [-3.09979874e-16 -3.52148852e-16]
+fitness: 4.82870016290101e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 281
+solution_found: [4.22761705e-14 3.79223863e-14]
+fitness: 6.905694445359434e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 269
+solution_found: [1.90471112e-12 2.12635612e-12]
+fitness: 1.7477665847708504e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 264
+solution_found: [-3.38286430e-13 -4.02545853e-13]
+fitness: 6.520643091749642e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 267
+solution_found: [1.63696093e-14 1.65130934e-14]
+fitness: 1.0817868295064755e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 252
+solution_found: [7.24141761e-13 5.49942115e-13]
+fitness: 2.3819276383890781e-26
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 255
+solution_found: [6.67239956e-15 1.74408869e-14]
+fitness: 3.4804585574467184e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 238
+solution_found: [-1.86970473e-12 -3.04916313e-12]
+fitness: 5.897331395866501e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Matyas
+epoch_stop: 230
+solution_found: [-1.1935749e-13  8.4138710e-14]
+fitness: 1.0365079482937999e-26
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 323
+solution_found: [-4.55431341e-13 -4.17198972e-13]
+fitness: 7.98026514184352e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 276
+solution_found: [-1.15955395e-12 -1.82191026e-12]
+fitness: 1.985702587763373e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 289
+solution_found: [1.00775406e-14 1.82283746e-15]
+fitness: 1.8451220908652216e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 399
+solution_found: [1.41132586e-15 1.19771155e-15]
+fitness: 7.947852975942444e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 492
+solution_found: [6.01195072e-21 5.01733619e-20]
+fitness: 5.191254540044918e-40
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 406
+solution_found: [-1.02249081e-16 -2.18274009e-16]
+fitness: 4.392796493175968e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 293
+solution_found: [4.72129720e-12 4.43737741e-12]
+fitness: 8.589658160921622e-25
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 311
+solution_found: [4.06350954e-13 4.55057530e-13]
+fitness: 8.013328421480129e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 361
+solution_found: [-1.12389860e-15 -7.04512527e-16]
+fitness: 7.740204331479619e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Matyas
+epoch_stop: 368
+solution_found: [8.71903428e-16 5.82593036e-16]
+fitness: 4.2080725373059937e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 602
+solution_found: [8.06985782e-19 7.18197710e-19]
+fitness: 2.5232677244401785e-38
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 519
+solution_found: [7.35608852e-16 5.89791591e-16]
+fitness: 2.2882531780628753e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 530
+solution_found: [4.46144989e-18 4.17904096e-18]
+fitness: 7.665195227939892e-37
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 614
+solution_found: [-1.77411464e-19 -1.46129482e-19]
+fitness: 1.2914280363875557e-39
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 449
+solution_found: [1.97812596e-14 8.50930995e-15]
+fitness: 3.97677751915935e-29
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 481
+solution_found: [-1.45908747e-16 -1.23801063e-16]
+fitness: 8.496212366284348e-34
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 484
+solution_found: [-6.94714576e-16 -6.74034404e-16]
+fitness: 1.884165508201334e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 576
+solution_found: [3.42017642e-18 3.42451842e-18]
+fitness: 4.685031882441418e-37
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 514
+solution_found: [3.03378951e-16 3.79680071e-16]
+fitness: 6.121161490555967e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Matyas
+epoch_stop: 496
+solution_found: [-7.66550645e-16 -6.97117350e-16]
+fitness: 2.2628485586886228e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 773
+solution_found: [1.88982072e-18 2.37336723e-18]
+fitness: 2.4020202161693488e-37
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 930
+solution_found: [1.05111654e-18 1.08428577e-18]
+fitness: 4.5874479915779414e-38
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 944
+solution_found: [-2.66038740e-24 -2.71521524e-24]
+fitness: 2.8972256045192488e-49
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 736
+solution_found: [-2.18238875e-17 -2.26227477e-17]
+fitness: 1.991457820131847e-35
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 658
+solution_found: [-1.71255405e-16 -3.16426433e-17]
+fitness: 5.284606964848058e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 925
+solution_found: [7.17999289e-22 6.67489692e-22]
+fitness: 1.9833601991109075e-44
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.83688074e-22  6.52484305e-22]
+fitness: 2.6913581379861388e-43
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 813
+solution_found: [1.21737353e-20 1.13518252e-20]
+fitness: 5.703404002970501e-42
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 750
+solution_found: [-8.69730480e-16 -7.72275648e-16]
+fitness: 2.933620229963398e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Matyas
+epoch_stop: 739
+solution_found: [8.55550282e-21 3.07079381e-20]
+fitness: 1.3809877554182806e-40
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.39963447e-17 -1.30629319e-17]
+fitness: 7.539859406578645e-36
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.61370993e-16 -4.96370397e-16]
+fitness: 9.478925267565814e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.74880260e-18 3.33362476e-18]
+fitness: 5.44700933950829e-37
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.18100436e-15 -1.11159407e-15]
+fitness: 5.376452290187976e-32
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-7.07368163e-17 -6.52961521e-17]
+fitness: 1.9244989192201963e-34
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.74695884e-16 1.71983824e-16]
+fitness: 1.2037070206291489e-33
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.31631259e-19 -9.11176242e-20]
+fitness: 9.065093096842387e-40
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.70985616e-19 -1.57185119e-19]
+fitness: 1.1245737429382954e-39
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.01322090e-18 4.12841317e-17]
+fitness: 3.857882074926819e-34
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.54094733e-18 -3.13022344e-18]
+fitness: 4.0843336379551726e-37
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [7.52477864e-11 7.08960621e-11]
+fitness: 2.183146204040898e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.68677975e-10 -1.82746909e-10]
+fitness: 1.2844782177822674e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [2.21220457e-11 2.31201053e-11]
+fitness: 2.071755294517065e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.87722277e-13 -3.12072332e-13]
+fitness: 3.745767013225577e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.03423957e-11 9.11866023e-12]
+fitness: 4.1617091032813085e-24
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.46216793e-10 1.48347448e-10]
+fitness: 8.688158450766865e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [5.59841581e-12 5.84092320e-12]
+fitness: 1.3232872289882394e-24
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [6.07118815e-13 5.61720725e-13]
+fitness: 1.417710533395331e-26
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.65398679e-11 -5.25177760e-11]
+fitness: 1.431360264548948e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.68778339e-13 -1.82836877e-13]
+fitness: 1.2857432276595066e-27
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-5.52796112e-08 -5.01080418e-08]
+fitness: 1.177518567852897e-16
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.49990094e-10  2.62296792e-09]
+fitness: 1.9834802319429934e-18
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.99558882e-09 -2.62759930e-09]
+fitness: 1.9829735565165814e-18
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.43736263e-10 -2.31730221e-10]
+fitness: 6.447955087479434e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [7.07728410e-10 1.78487383e-10]
+fitness: 7.787780045302016e-20
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.76892003e-09 -2.99053758e-09]
+fitness: 6.083724826567367e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [2.98941560e-11 2.74678346e-11]
+fitness: 3.437573845250726e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.07079370e-08 9.82157951e-09]
+fitness: 4.411017843382064e-18
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [4.01412268e-08 4.38882361e-08]
+fitness: 7.411952586197006e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.73419303e-09 1.51615365e-09]
+fitness: 1.1753282761534687e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.26591387e-07 1.35585815e-07]
+fitness: 7.075937878987035e-16
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.93979832e-07 -1.51052715e-07]
+fitness: 1.6511589422383778e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [7.03637365e-08 7.67406127e-08]
+fitness: 2.2656303298282993e-16
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [ 6.08383723e-07 -4.45499195e-07]
+fitness: 2.7793261492443457e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.20585231e-07 -3.46204139e-07]
+fitness: 4.610162760626546e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [2.42196524e-08 2.38058278e-08]
+fitness: 2.3107280208624267e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-9.01629660e-07 -7.26848717e-07]
+fitness: 3.415651279400837e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.41654436e-07 -3.41903183e-07]
+fitness: 1.2363169854655487e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.57445205e-07 -1.45047367e-07]
+fitness: 9.534441584176413e-16
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [2.11523117e-07 2.13727300e-07]
+fitness: 1.809593778468106e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [9.81822490e-06 9.45212466e-06]
+fitness: 3.7469710698519675e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [2.47637263e-06 4.82491453e-06]
+fitness: 1.912000206943093e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-5.01740464e-06 -5.44198564e-06]
+fitness: 1.1390557085518921e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.49475896e-07 -5.02508970e-07]
+fitness: 9.765878589741258e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [5.34562160e-06 4.76732013e-06]
+fitness: 1.1063240518707425e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.98520451e-06 4.24423457e-06]
+fitness: 6.940108201117058e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.44944017e-07 -3.44134870e-07]
+fitness: 5.929845667554939e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.96252742e-06  2.49060424e-07]
+fitness: 2.652203145313509e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.10577814e-06 -1.04971207e-06]
+fitness: 4.7247231282853916e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.25377103e-05 1.16262660e-05]
+fitness: 6.0466601437964626e-12
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.72274420e-06 5.41911505e-06]
+fitness: 1.555154424014601e-12
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.11084402e-05 1.11631237e-05]
+fitness: 4.960973150796112e-12
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.96276513e-05 1.59949832e-05]
+fitness: 1.5988790281050563e-11
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-6.81272127e-06 -5.19941899e-06]
+fitness: 2.0936012033401527e-12
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.24004967e-05 -1.87696937e-05]
+fitness: 1.9857475364772827e-11
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.77021281e-05 -2.16069697e-05]
+fitness: 1.9263998618901253e-11
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.25357190e-07  1.79322308e-08]
+fitness: 1.5227686687240808e-14
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [3.42610241e-05 3.92383110e-05]
+fitness: 6.021486890168905e-11
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [9.94473700e-05 1.36357277e-04]
+fitness: 8.966236314864783e-10
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Matyas
+epoch_stop: 999
+solution_found: [1.24876749e-06 4.44744591e-08]
+fitness: 3.793051732481651e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 118
+solution_found: [-3.46722637e-07 -1.24270223e-07]
+fitness: 1.4589611885827178e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 111
+solution_found: [-7.56385984e-07 -2.37049697e-06]
+fitness: 7.491125410231811e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 116
+solution_found: [9.70501446e-07 1.09348197e-06]
+fitness: 4.638132794150526e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 117
+solution_found: [8.25556348e-07 9.61466205e-07]
+fitness: 3.655236835627499e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 116
+solution_found: [-1.54612457e-06 -1.11551850e-06]
+fitness: 1.1719883396522428e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 125
+solution_found: [2.27365593e-05 2.32129460e-05]
+fitness: 2.1170306411874525e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 139
+solution_found: [2.86472351e-07 2.62434437e-07]
+fitness: 3.1574419490163764e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 123
+solution_found: [-7.71196228e-08  6.13942555e-07]
+fitness: 1.222735221041101e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 120
+solution_found: [2.88911927e-07 9.68228394e-07]
+fitness: 1.3117173332637248e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Matyas
+epoch_stop: 124
+solution_found: [4.76669111e-08 2.97940912e-07]
+fitness: 1.6853716501603185e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 62
+solution_found: [9.54624919e-09 1.00156662e-08]
+fitness: 3.881773440918488e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 61
+solution_found: [-2.57945881e-09  8.36947599e-10]
+fitness: 2.948321633378966e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 58
+solution_found: [-1.12130656e-07 -1.09856482e-07]
+fitness: 4.940758635528294e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 61
+solution_found: [1.05076849e-05 1.12561077e-05]
+fitness: 4.876660858827345e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 65
+solution_found: [-1.15350914e-08 -1.18861081e-08]
+fitness: 5.516329061303837e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 58
+solution_found: [-2.65766049e-07 -2.60118751e-07]
+fitness: 2.773521219317248e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 57
+solution_found: [-1.05974299e-07 -4.99415064e-08]
+fitness: 1.0280158302415323e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 58
+solution_found: [-4.3638772e-09  1.3741559e-09]
+fitness: 8.320640295750102e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 62
+solution_found: [ 3.96438870e-08 -1.92873657e-09]
+fitness: 4.462950837826652e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Matyas
+epoch_stop: 55
+solution_found: [2.87565409e-07 2.95372595e-07]
+fitness: 3.4134052116675688e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 56
+solution_found: [1.18754545e-08 1.41036945e-08]
+fitness: 7.990425242529189e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 52
+solution_found: [6.47218482e-08 5.57610992e-08]
+fitness: 1.6523516198174144e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.90992139e-08 -8.05903011e-08]
+fitness: 5.736333800702916e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 52
+solution_found: [-6.94915902e-08 -2.42789853e-08]
+fitness: 5.989741184274247e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 55
+solution_found: [-6.30232686e-09 -8.92545759e-09]
+fitness: 4.03905790160432e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 53
+solution_found: [3.19818920e-07 4.16409122e-07]
+fitness: 7.752734086558064e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 61
+solution_found: [-7.61487313e-10 -1.39015403e-09]
+fitness: 1.4510106532765002e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 61
+solution_found: [-1.39950118e-08 -1.27594981e-08]
+fitness: 7.539661576920791e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 63
+solution_found: [8.55925708e-09 1.10015890e-08]
+fitness: 5.317513345433828e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Matyas
+epoch_stop: 54
+solution_found: [-7.48258892e-09 -8.79854306e-09]
+fitness: 3.083686409248338e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 50
+solution_found: [-4.63451435e-08 -7.27329625e-08]
+fitness: 3.1587520045453376e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 52
+solution_found: [1.38344128e-08 2.51825429e-08]
+fitness: 4.7418242812846074e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 53
+solution_found: [-9.14300653e-09 -3.55622746e-09]
+fitness: 9.415730531015548e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 58
+solution_found: [-3.62037779e-08 -4.05161264e-08]
+fitness: 6.350852451459544e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 51
+solution_found: [6.62994614e-08 1.17173148e-07]
+fitness: 9.836549848289324e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 52
+solution_found: [-1.09362258e-08 -3.11860799e-08]
+fitness: 1.2025703365520505e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 49
+solution_found: [ 4.39104506e-08 -1.67926726e-08]
+fitness: 9.285710291844247e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 53
+solution_found: [-4.60449449e-08 -3.59467377e-08]
+fitness: 9.271980713954203e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 51
+solution_found: [2.67885559e-08 8.66502494e-09]
+fitness: 9.468515735474704e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Matyas
+epoch_stop: 51
+solution_found: [1.16999253e-08 9.42167142e-09]
+fitness: 5.758828650384686e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 49
+solution_found: [1.62998188e-08 2.87247017e-08]
+fitness: 5.886650327284032e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 51
+solution_found: [6.37512029e-08 8.84123318e-08]
+fitness: 3.8358023266762167e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 53
+solution_found: [1.21348988e-08 3.18885044e-08]
+fitness: 1.1693183334265567e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 53
+solution_found: [1.11793224e-08 2.12647052e-08]
+fitness: 3.5954885868496246e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 51
+solution_found: [-8.86078715e-08 -9.77386135e-08]
+fitness: 3.680927368877413e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 46
+solution_found: [2.34173225e-07 1.60061210e-07]
+fitness: 2.9273555810670885e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 57
+solution_found: [-2.53744670e-08 -1.43979474e-08]
+fitness: 4.593944556394122e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 51
+solution_found: [4.53562620e-08 1.39616603e-08]
+fitness: 2.815914129377322e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 50
+solution_found: [-9.69268920e-09 -8.81815526e-09]
+fitness: 3.6177160317506564e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Matyas
+epoch_stop: 59
+solution_found: [8.35159554e-10 7.61340200e-10]
+fitness: 2.6850438916256566e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 55
+solution_found: [-1.31605139e-08 -2.10682806e-08]
+fitness: 2.7349297266484668e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 54
+solution_found: [3.55782905e-08 2.64829124e-08]
+fitness: 5.919740465287973e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 55
+solution_found: [-1.20056497e-08 -1.30123234e-08]
+fitness: 6.5123377795790515e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 46
+solution_found: [-5.83725073e-08  4.76701107e-09]
+fitness: 1.0253851880057058e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 60
+solution_found: [-1.02111455e-09 -8.50033518e-10]
+fitness: 4.2329131000412306e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 55
+solution_found: [-1.40407970e-09 -3.60528757e-10]
+fitness: 3.0338807178838684e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 51
+solution_found: [-5.86125823e-08 -6.26583230e-08]
+fitness: 1.5115832929032158e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 47
+solution_found: [3.58570157e-08 4.16802960e-08]
+fitness: 6.859799531020805e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 49
+solution_found: [2.29392194e-08 6.11535389e-09]
+fitness: 7.920229480609724e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Matyas
+epoch_stop: 47
+solution_found: [-1.15627550e-08  3.35153429e-09]
+fitness: 5.62832474831609e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 48
+solution_found: [1.09474735e-07 4.27574129e-08]
+fitness: 1.3445465463112497e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 49
+solution_found: [ 1.87840937e-09 -6.46999530e-09]
+fitness: 1.7634791759232686e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 60
+solution_found: [-4.88315698e-09 -4.27074802e-09]
+fitness: 9.317009524556557e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 51
+solution_found: [1.05205548e-08 7.60315460e-08]
+fitness: 1.1478351538412953e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 49
+solution_found: [5.03307751e-08 7.46499331e-08]
+fitness: 3.040571352750724e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.45696330e-09  2.61391423e-08]
+fitness: 2.241271787361894e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 52
+solution_found: [-3.52673651e-08 -2.55292383e-08]
+fitness: 6.067004815985168e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 53
+solution_found: [-1.54848175e-08 -1.48980649e-08]
+fitness: 9.317265131667069e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 51
+solution_found: [ 7.02328652e-09 -1.60532026e-08]
+fitness: 1.339464815560451e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Matyas
+epoch_stop: 48
+solution_found: [7.30199492e-08 8.94819012e-08]
+fitness: 3.3181748003007137e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 44
+solution_found: [1.03888197e-07 1.97550986e-07]
+fitness: 3.1018353239366352e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 50
+solution_found: [1.43584189e-08 2.89851300e-08]
+fitness: 7.227180143067625e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 46
+solution_found: [-5.14854740e-08 -1.01012704e-07]
+fitness: 8.457935614998743e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 53
+solution_found: [-1.35220773e-08 -1.26052223e-08]
+fitness: 7.036513655804977e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.62238798e-08 -2.68054212e-08]
+fitness: 6.190376868691794e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 50
+solution_found: [2.51176510e-07 2.65593521e-07]
+fitness: 2.722475195975575e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 48
+solution_found: [2.04964852e-07 2.38522729e-07]
+fitness: 2.2483451067095535e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 49
+solution_found: [-3.35496077e-08 -2.31846753e-08]
+fitness: 5.904574491088122e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 52
+solution_found: [-4.59754830e-08 -3.74709309e-08]
+fitness: 8.771489128123002e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Matyas
+epoch_stop: 53
+solution_found: [2.15300255e-08 1.83436517e-08]
+fitness: 1.8437345743649433e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 48
+solution_found: [6.28390624e-08 6.89525602e-08]
+fitness: 1.8303403163288153e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 47
+solution_found: [1.05254517e-07 9.16565987e-08]
+fitness: 4.339657208646533e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 48
+solution_found: [2.68541734e-08 9.41962274e-09]
+fitness: 8.914877188706733e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 46
+solution_found: [9.38487671e-08 1.03687966e-07]
+fitness: 4.14410064953994e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 47
+solution_found: [-6.6842729e-07 -2.3628788e-07]
+fitness: 5.4871212860864576e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.36105741e-08 -1.88933557e-08]
+fitness: 1.7541999749351226e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 53
+solution_found: [1.96976392e-08 3.73560647e-08]
+fitness: 1.1050624961291801e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 48
+solution_found: [-1.99388845e-07 -1.92433819e-07]
+fitness: 1.5473431038597819e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 45
+solution_found: [-2.53274573e-07 -5.11084181e-07]
+fitness: 2.2458891532206957e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Matyas
+epoch_stop: 46
+solution_found: [5.56804795e-07 6.14508627e-07]
+fitness: 1.45521843996195e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 50
+solution_found: [2.10863175e-07 2.19263406e-07]
+fitness: 1.8677297275032072e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 50
+solution_found: [1.00335578e-07 7.02908137e-08]
+fitness: 5.168056150002657e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 47
+solution_found: [8.04561705e-08 6.28532556e-08]
+fitness: 2.8284156923749158e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 50
+solution_found: [-1.46688045e-07 -1.50635714e-07]
+fitness: 8.879101997047694e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 50
+solution_found: [-4.73652449e-09 -3.82118605e-09]
+fitness: 9.418052143415966e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 50
+solution_found: [1.16645154e-07 9.25865434e-08]
+fitness: 5.824832242753139e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 46
+solution_found: [-2.78518097e-07 -2.33094625e-07]
+fitness: 3.1332987215512106e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 48
+solution_found: [1.39418795e-07 2.00946075e-07]
+fitness: 2.1048839782212745e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 48
+solution_found: [7.40789449e-08 5.93510556e-08]
+fitness: 2.32263330828536e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Matyas
+epoch_stop: 45
+solution_found: [2.13856801e-08 1.36559995e-07]
+fitness: 3.565749093225858e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 51
+solution_found: [ 6.36390758e-09 -1.76510535e-08]
+fitness: 1.4545358575912474e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 46
+solution_found: [2.88261769e-08 2.36284384e-07]
+fitness: 1.1462563069497097e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 52
+solution_found: [2.73858797e-08 7.67423825e-08]
+fitness: 7.174430426154957e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 46
+solution_found: [1.01353347e-07 1.07057005e-07]
+fitness: 4.4248167883822456e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 46
+solution_found: [3.46545203e-07 2.66112819e-07]
+fitness: 5.370840617798968e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 50
+solution_found: [-3.87313240e-08  3.76553885e-09]
+fitness: 4.637218982415817e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 49
+solution_found: [2.61945645e-07 2.75889533e-07]
+fitness: 2.941274785963819e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 48
+solution_found: [-3.27062012e-08  6.20440066e-08]
+fitness: 2.253007537924519e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 48
+solution_found: [3.42141490e-07 4.74703369e-07]
+fitness: 1.1065518185221003e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Matyas
+epoch_stop: 49
+solution_found: [1.55690358e-08 5.35915945e-08]
+fitness: 4.092606704292843e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 52
+solution_found: [5.17704495e-08 6.11394204e-08]
+fitness: 1.494307913189007e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 55
+solution_found: [-3.27596678e-08 -2.20761477e-08]
+fitness: 5.860406686584617e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 49
+solution_found: [8.88059935e-08 1.19969918e-07]
+fitness: 6.786713668053218e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 52
+solution_found: [-1.07162949e-07 -1.62423500e-07]
+fitness: 1.4902006680315036e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 54
+solution_found: [-9.69587894e-08 -5.63512320e-08]
+fitness: 6.47283055571523e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 49
+solution_found: [2.38219876e-07 2.95254809e-07]
+fitness: 3.6591982649317275e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 50
+solution_found: [-8.77995506e-08 -4.87724488e-08]
+fitness: 5.672977791094103e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 51
+solution_found: [9.04255922e-08 1.33981221e-07]
+fitness: 9.7785736627597e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 48
+solution_found: [2.32974786e-07 3.15170666e-07]
+fitness: 4.693675035291792e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Matyas
+epoch_stop: 51
+solution_found: [4.80753761e-08 5.20274361e-08]
+fitness: 1.0411042452713247e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 56
+solution_found: [-2.06470010e-08 -3.62750106e-08]
+fitness: 9.345982508430298e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 53
+solution_found: [1.04994855e-07 1.28742458e-07]
+fitness: 6.873184737054522e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 51
+solution_found: [-1.08324849e-08 -3.60052535e-08]
+fitness: 1.8035480777682247e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 50
+solution_found: [-9.97922375e-09 -1.61227527e-07]
+fitness: 6.012129843008823e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 54
+solution_found: [-3.45178089e-08 -5.35018973e-08]
+fitness: 1.675735901936497e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 54
+solution_found: [2.40850825e-07 2.45511359e-07]
+fitness: 2.3709118757966842e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 51
+solution_found: [ 1.12072675e-07 -1.16749415e-07]
+fitness: 1.3090105923062318e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 50
+solution_found: [ 3.39859025e-08 -7.59373669e-09]
+fitness: 4.391820624949896e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 53
+solution_found: [2.79044252e-07 1.97700232e-07]
+fitness: 3.9270654540825715e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Matyas
+epoch_stop: 58
+solution_found: [-1.50563034e-07 -1.49240033e-07]
+fitness: 8.99256368941498e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 69
+solution_found: [-1.05510239e-09 -8.32666849e-10]
+fitness: 4.8006119281090804e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 63
+solution_found: [-1.00861633e-09 -1.25350269e-09]
+fitness: 6.61641567644417e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 56
+solution_found: [-6.35814937e-08 -6.10113955e-08]
+fitness: 1.568852314046009e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 56
+solution_found: [-4.46021468e-09 -2.81895654e-08]
+fitness: 1.5143060274142636e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 52
+solution_found: [-7.93435700e-08 -1.28072333e-07]
+fitness: 1.0238366622618365e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 56
+solution_found: [2.42435520e-08 2.31298298e-08]
+fitness: 2.2752467370337274e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 55
+solution_found: [-1.07419619e-08 -1.73319573e-08]
+fitness: 1.873845924639042e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 52
+solution_found: [-4.09675293e-08 -4.91921530e-08]
+fitness: 9.819879221151664e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 51
+solution_found: [-7.55079208e-08 -6.02394094e-08]
+fitness: 2.4255523630484833e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Matyas
+epoch_stop: 47
+solution_found: [-5.88335587e-08 -3.32715335e-08]
+fitness: 2.4818776280473855e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 52
+solution_found: [4.78919579e-08 5.46907477e-08]
+fitness: 1.1678800033741616e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 62
+solution_found: [ 9.64872070e-09 -1.49257882e-08]
+fitness: 1.512550963191876e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 50
+solution_found: [-1.05969341e-07 -1.56348422e-07]
+fitness: 1.3226190404315144e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 59
+solution_found: [-1.73628606e-08 -1.84885293e-08]
+fitness: 1.3170004063982885e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 54
+solution_found: [-1.54590185e-07 -6.91442530e-08]
+fitness: 2.325822803357597e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 59
+solution_found: [-4.78695039e-09 -7.39360938e-09]
+fitness: 3.1823281328092206e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 61
+solution_found: [3.35423994e-08 2.80697837e-08]
+fitness: 4.5447991568756945e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 58
+solution_found: [ 7.27857111e-09 -1.02392260e-09]
+fitness: 1.762405674830428e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 55
+solution_found: [-1.76709421e-08 -2.78163282e-11]
+fitness: 8.095243185674659e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Matyas
+epoch_stop: 55
+solution_found: [7.11957715e-09 2.38706466e-08]
+fitness: 7.975352181293047e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 59
+solution_found: [3.24958976e-08 2.40902347e-08]
+fitness: 4.96836958052682e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 69
+solution_found: [-1.1032134e-09 -1.2106237e-09]
+fitness: 5.642266487909744e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 62
+solution_found: [4.19702710e-09 1.97011386e-09]
+fitness: 1.6201219121986615e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 60
+solution_found: [-3.85922418e-08 -3.86685989e-08]
+fitness: 5.969383279021718e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 58
+solution_found: [-1.33671286e-07 -1.10113342e-07]
+fitness: 7.330536258783229e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 57
+solution_found: [1.40965973e-07 7.97613589e-08]
+fitness: 1.4237067413160829e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 59
+solution_found: [8.81611344e-09 1.34066206e-08]
+fitness: 1.0206687985354427e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 57
+solution_found: [2.22070649e-08 1.03112979e-08]
+fitness: 4.5951757285009695e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 55
+solution_found: [7.19124649e-08 2.75329391e-08]
+fitness: 5.912794612498642e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Matyas
+epoch_stop: 60
+solution_found: [-7.97901685e-09 -1.03494793e-08]
+fitness: 4.7641107808087944e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 60
+solution_found: [-2.70829074e-08 -2.71580681e-08]
+fitness: 2.942224649870357e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 59
+solution_found: [-2.14796854e-09 -1.69868907e-08]
+fitness: 5.870983119070171e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 60
+solution_found: [-5.76763109e-08 -6.11030736e-08]
+fitness: 1.4402109734505502e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 63
+solution_found: [9.19885895e-08 7.36507772e-08]
+fitness: 3.5843283822457197e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 66
+solution_found: [1.30004889e-08 1.17873539e-08]
+fitness: 6.512295617509667e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 62
+solution_found: [-6.60732567e-08 -6.64403522e-08]
+fitness: 1.7563225531690559e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 55
+solution_found: [-6.35783550e-08 -8.77410209e-08]
+fitness: 3.7493414117918455e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 56
+solution_found: [5.63809740e-08 1.48073947e-07]
+fitness: 2.519918472577534e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 64
+solution_found: [-1.91502282e-08 -9.65708912e-09]
+fitness: 3.0828537648374584e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Matyas
+epoch_stop: 65
+solution_found: [1.10429857e-08 1.50173678e-08]
+fitness: 1.074034861089291e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 58
+solution_found: [9.21259078e-08 3.50063721e-08]
+fitness: 9.772865031165583e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 65
+solution_found: [-8.21538286e-09 -9.30968353e-09]
+fitness: 3.3706530081203708e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 69
+solution_found: [-3.13699466e-10 -1.12278360e-09]
+fitness: 1.842891180485938e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 65
+solution_found: [5.73684696e-08 3.37418683e-08]
+fitness: 2.225650098863424e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 71
+solution_found: [2.16809682e-09 6.82240147e-10]
+fitness: 6.331867194504057e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 66
+solution_found: [1.50495622e-08 1.78801800e-08]
+fitness: 1.284677842904106e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 65
+solution_found: [2.95564153e-08 2.15030782e-08]
+fitness: 4.228477845624042e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 64
+solution_found: [ 2.36234172e-09 -1.21305286e-09]
+fitness: 3.209070245873258e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 63
+solution_found: [ 7.06391656e-10 -1.80031252e-08]
+fitness: 9.050327562970777e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Matyas
+epoch_stop: 62
+solution_found: [3.58318301e-08 5.38229773e-08]
+fitness: 1.6130018951379923e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 68
+solution_found: [2.79840765e-09 5.55898743e-09]
+fitness: 2.6036607043221877e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 73
+solution_found: [-4.44544612e-09 -5.39955176e-09]
+fitness: 1.1968192260991939e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 64
+solution_found: [-5.08932716e-08 -5.35331955e-08]
+fitness: 1.1079116991844594e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 71
+solution_found: [6.89819682e-09 6.83562953e-09]
+fitness: 1.8871585288473796e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 69
+solution_found: [-2.34144687e-09 -1.80633423e-09]
+fitness: 2.436272639935248e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 68
+solution_found: [-1.31309177e-09 -1.69608779e-10]
+fitness: 3.488723493861084e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 64
+solution_found: [-1.60937523e-08 -1.07084280e-08]
+fitness: 1.443399812537751e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 74
+solution_found: [-1.96742847e-09 -1.37372786e-10]
+fitness: 8.81577836679799e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 64
+solution_found: [3.53977971e-08 4.92154978e-08]
+fitness: 1.193263098707325e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Matyas
+epoch_stop: 63
+solution_found: [4.85156664e-09 4.86015823e-09]
+fitness: 9.431944524001115e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 62
+solution_found: [5.35317838e-08 7.31236412e-08]
+fitness: 2.5637618610440086e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 66
+solution_found: [-6.08935100e-08 -5.67839861e-09]
+fitness: 8.064953211245493e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 113
+solution_found: [1.93884195e-12 1.51046328e-12]
+fitness: 1.6485413616882622e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 74
+solution_found: [-1.09504031e-08 -1.21362732e-08]
+fitness: 5.681518226399871e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 73
+solution_found: [7.52374633e-09 5.32644361e-09]
+fitness: 2.8583086194121456e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 76
+solution_found: [3.55717274e-09 2.96421498e-09]
+fitness: 5.131847019759198e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 72
+solution_found: [-4.15860551e-09 -2.60933191e-09]
+fitness: 1.0581119342199784e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 66
+solution_found: [1.06780269e-07 5.31015961e-08]
+fitness: 9.75972086573964e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 73
+solution_found: [1.37110896e-08 1.15981850e-08]
+fitness: 7.521685263925324e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Matyas
+epoch_stop: 66
+solution_found: [1.39116068e-07 1.41367870e-07]
+fitness: 7.879800463726265e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 70
+solution_found: [-2.44391348e-08 -1.68184634e-08]
+fitness: 3.154055196410654e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 79
+solution_found: [-8.16969626e-09 -8.53284865e-09]
+fitness: 2.8227199805162318e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 79
+solution_found: [-1.73162853e-09 -1.98728280e-09]
+fitness: 1.5464279033990005e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 69
+solution_found: [4.27976559e-08 4.90068462e-08]
+fitness: 9.391917686468723e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 78
+solution_found: [ 5.20798239e-10 -1.09770949e-09]
+fitness: 6.582200823700618e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 75
+solution_found: [6.45496276e-09 6.85774995e-09]
+fitness: 1.8128425767937434e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 73
+solution_found: [2.57776658e-09 2.39528524e-09]
+fitness: 2.556373048196637e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 73
+solution_found: [6.14460497e-09 5.26767913e-09]
+fitness: 1.494652017299751e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 74
+solution_found: [1.33759242e-08 1.09604723e-08]
+fitness: 7.381203914487533e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Matyas
+epoch_stop: 83
+solution_found: [-4.0934257e-09 -4.6176223e-09]
+fitness: 8.275190924797012e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 74
+solution_found: [ 2.62738694e-08 -3.84220002e-10]
+fitness: 1.843661721427095e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 69
+solution_found: [ 6.04790332e-08 -8.19595003e-09]
+fitness: 1.2063985387828457e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 73
+solution_found: [-4.75349166e-08 -5.07017127e-08]
+fitness: 9.901150284264443e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 82
+solution_found: [-1.54141247e-09 -1.61332329e-09]
+fitness: 1.008163685879184e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 79
+solution_found: [1.90451220e-09 2.98027943e-09]
+fitness: 5.27930672113468e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 90
+solution_found: [2.07218878e-10 5.47234863e-11]
+fitness: 6.499849186346063e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 82
+solution_found: [-1.66897653e-10 -1.58115437e-09]
+fitness: 5.305873711519004e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 79
+solution_found: [-1.93725959e-08 -1.82474667e-08]
+fitness: 1.4469170043079342e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 76
+solution_found: [2.96069703e-09 5.17505790e-09]
+fitness: 1.8877535998519708e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Matyas
+epoch_stop: 72
+solution_found: [2.38837425e-08 2.47697684e-08]
+fitness: 2.3867901706624064e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 87
+solution_found: [1.98330917e-09 1.41018749e-09]
+fitness: 1.972753122027257e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 78
+solution_found: [5.90312321e-08 5.32795884e-08]
+fitness: 1.3440755512650765e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 91
+solution_found: [9.06021693e-10 1.42008734e-09]
+fitness: 1.2017370501125203e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 82
+solution_found: [1.30313085e-08 1.38732388e-08]
+fitness: 7.41575827577722e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 73
+solution_found: [1.14812149e-08 3.63156619e-08]
+fitness: 1.7703285378544701e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 77
+solution_found: [-4.88912702e-08 -4.37186194e-08]
+fitness: 9.245499581423032e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 93
+solution_found: [-1.08770202e-09 -1.21655610e-09]
+fitness: 5.724689892163534e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 83
+solution_found: [-1.16033875e-08 -9.46373908e-09]
+fitness: 5.582762099539505e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 90
+solution_found: [-1.21600472e-09 -1.86316778e-09]
+fitness: 1.9951803928413548e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Matyas
+epoch_stop: 94
+solution_found: [1.73973373e-10 6.05066652e-11]
+fitness: 3.768482331189605e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 80
+solution_found: [-4.92744866e-09 -2.73969726e-09]
+fitness: 1.7844153099364715e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 98
+solution_found: [7.71976987e-10 9.33424530e-10]
+fitness: 3.560027058467893e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 81
+solution_found: [8.14228432e-09 6.30539433e-09]
+fitness: 2.9308953897187972e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 88
+solution_found: [1.63901814e-08 1.79061424e-08]
+fitness: 1.23369127254709e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 89
+solution_found: [-1.24379971e-08 -8.93261407e-09]
+fitness: 7.638957728041676e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 91
+solution_found: [3.95252945e-10 4.12915624e-10]
+fitness: 6.609356922905292e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 95
+solution_found: [ 7.72622342e-10 -1.34032942e-09]
+fitness: 1.1193641984697014e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 104
+solution_found: [-8.55622033e-10 -9.39847801e-10]
+fitness: 3.4010614244761356e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 90
+solution_found: [5.78379098e-09 7.26729375e-09]
+fitness: 2.2535032439920076e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Matyas
+epoch_stop: 97
+solution_found: [-2.65198913e-10 -3.36188473e-10]
+fitness: 4.8765472765442325e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 103
+solution_found: [3.94830436e-10 2.90261006e-10]
+fitness: 7.427194258243799e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 103
+solution_found: [-2.70070739e-10 -1.88427327e-10]
+fitness: 3.7686164471870976e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 96
+solution_found: [1.19647987e-09 1.33155250e-09]
+fitness: 6.847063033701e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 105
+solution_found: [4.51217656e-10 4.42729703e-10]
+fitness: 8.009430152479055e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 94
+solution_found: [-2.11730741e-08 -1.18360530e-08]
+fitness: 3.2691015418711157e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 108
+solution_found: [-2.31261601e-10 -2.93730047e-10]
+fitness: 3.7317389832894475e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 115
+solution_found: [-1.33414124e-11  2.23601291e-11]
+fitness: 3.1946338884478697e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 116
+solution_found: [-1.57740666e-11  5.36854247e-12]
+fitness: 1.128352290028496e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 109
+solution_found: [-1.19175487e-10 -3.09306919e-10]
+fitness: 1.0873462100974528e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Matyas
+epoch_stop: 96
+solution_found: [-9.42080893e-09 -7.90334868e-09]
+fitness: 3.5769357762939485e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 93
+solution_found: [2.50743690e-08 2.27774939e-08]
+fitness: 2.4216916705941428e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 132
+solution_found: [-4.72705675e-12 -2.22053545e-12]
+fitness: 2.0533526259873347e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 115
+solution_found: [-3.45902483e-10 -2.31730300e-10]
+fitness: 6.59541815931342e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 118
+solution_found: [-1.05108723e-09 -9.66496239e-10]
+fitness: 4.249533937849848e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 108
+solution_found: [1.37595313e-09 1.42139064e-09]
+fitness: 7.876746345022267e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 108
+solution_found: [-1.95205257e-09 -2.01048962e-09]
+fitness: 1.5787112846760237e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 134
+solution_found: [-2.39646661e-10 -2.56318603e-10]
+fitness: 2.5293038381848445e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 134
+solution_found: [2.30725721e-11 9.27684628e-12]
+fitness: 5.804536164751969e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 116
+solution_found: [7.65824543e-10 9.21053237e-10]
+fitness: 3.447955327973187e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Matyas
+epoch_stop: 114
+solution_found: [1.37529915e-09 9.29832465e-10]
+fitness: 1.0274645977962656e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 148
+solution_found: [ 4.29687560e-13 -1.87461493e-12]
+fitness: 1.3483306447566341e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 130
+solution_found: [1.48058297e-10 1.43319899e-10]
+fitness: 8.546256331399165e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 112
+solution_found: [2.94770015e-09 4.02872936e-09]
+fitness: 7.788617219223815e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 185
+solution_found: [4.23520079e-16 4.24644092e-16]
+fitness: 7.194140455280767e-33
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 106
+solution_found: [-1.85072601e-09 -2.06230961e-09]
+fitness: 1.6431038305113684e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 136
+solution_found: [3.24916705e-11 1.63367445e-11]
+fitness: 8.908754949237698e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 117
+solution_found: [ 2.26089082e-10 -8.33038486e-11]
+fitness: 2.4134872623641475e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 111
+solution_found: [-4.48474989e-09 -5.50135366e-09]
+fitness: 1.2555934471934728e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 117
+solution_found: [-4.16168155e-11  1.32406735e-10]
+fitness: 7.653477144752909e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Matyas
+epoch_stop: 173
+solution_found: [2.99953260e-12 3.64328903e-12]
+fitness: 5.448763757067701e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 137
+solution_found: [1.25962555e-11 1.21056773e-10]
+fitness: 3.1195523027555908e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 149
+solution_found: [1.44354448e-10 1.41227807e-10]
+fitness: 8.18016211153329e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 169
+solution_found: [-1.20719642e-11 -1.33741390e-11]
+fitness: 6.898956470140794e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 132
+solution_found: [ 2.13878004e-11 -1.33877359e-10]
+fitness: 6.153356404518425e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 151
+solution_found: [2.63973534e-11 1.75438435e-11]
+fitness: 3.890444731187028e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 125
+solution_found: [7.66487922e-10 8.42926105e-10]
+fitness: 2.736283408439262e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 163
+solution_found: [1.3234071e-12 2.1262631e-12]
+fitness: 2.8014668297364866e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 142
+solution_found: [-1.05245472e-09 -1.11432879e-09]
+fitness: 4.7906607652130263e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 142
+solution_found: [-3.67903152e-11 -3.21490578e-11]
+fitness: 5.291168895197774e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Matyas
+epoch_stop: 163
+solution_found: [-4.67665260e-12 -4.67400862e-12]
+fitness: 8.743504003246163e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 170
+solution_found: [-2.39101941e-11 -1.08826061e-11]
+fitness: 5.453490173391396e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 185
+solution_found: [2.91279923e-13 4.13501900e-13]
+fitness: 8.701727073971434e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 157
+solution_found: [2.11189716e-10 1.81431003e-10]
+fitness: 1.7629055299262663e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 313
+solution_found: [1.60710351e-18 1.79346260e-18]
+fitness: 1.2432092623094767e-37
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 151
+solution_found: [1.09983682e-10 8.56561662e-11]
+fitness: 5.307065025820488e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 200
+solution_found: [-6.28536700e-13 -7.22884523e-13]
+fitness: 2.0488771169509806e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 176
+solution_found: [8.41299272e-11 7.99142311e-11]
+fitness: 2.7354788215882176e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 157
+solution_found: [-2.45515660e-10 -2.86230032e-10]
+fitness: 3.2419498296795157e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 164
+solution_found: [2.40214005e-11 2.28399815e-11]
+fitness: 2.2308828855697463e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Matyas
+epoch_stop: 171
+solution_found: [-1.04364471e-11 -1.08505535e-11]
+fitness: 4.5742349804084384e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 188
+solution_found: [-7.60906625e-12 -1.13258979e-11]
+fitness: 7.039038006200254e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 206
+solution_found: [1.74347061e-11 2.45355196e-12]
+fitness: 6.006417267937473e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 191
+solution_found: [-1.20068728e-10 -1.08449575e-10]
+fitness: 5.559573271174817e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 260
+solution_found: [-5.66612560e-13 -4.38578091e-13]
+fitness: 1.4202288730338137e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 216
+solution_found: [-2.53164222e-12 -2.58051898e-12]
+fitness: 2.619391563863613e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 194
+solution_found: [8.51033468e-13 7.00126457e-13]
+fitness: 2.9754202627600973e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 235
+solution_found: [7.11960885e-14 5.39459524e-14]
+fitness: 2.309971031164439e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 211
+solution_found: [-6.90258324e-13 -1.17396105e-12]
+fitness: 9.324522117167141e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 179
+solution_found: [-2.82511870e-12 -3.65091828e-12]
+fitness: 5.898767899720148e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Matyas
+epoch_stop: 193
+solution_found: [4.22090296e-11 4.02393994e-11]
+fitness: 6.894729518485375e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 256
+solution_found: [5.29674044e-16 9.83577008e-15]
+fitness: 2.272528015641066e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 329
+solution_found: [2.25261756e-15 1.11951486e-15]
+fitness: 4.346931998127908e-31
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 336
+solution_found: [-2.12945641e-15 -1.97522652e-15]
+fitness: 1.7443093493421306e-31
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 247
+solution_found: [1.73618134e-12 1.40267458e-13]
+fitness: 6.719458835892167e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 231
+solution_found: [-1.20565860e-11 -9.74547888e-12]
+fitness: 6.088604328198147e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 271
+solution_found: [1.37802029e-13 2.96436345e-13]
+fitness: 8.176841228512542e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 273
+solution_found: [1.99702642e-13 1.76273810e-13]
+fitness: 1.5508104683492455e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 289
+solution_found: [-1.71723222e-14 -1.23016967e-14]
+fitness: 1.4617926078618272e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 241
+solution_found: [-3.42398742e-12 -2.80782098e-12]
+fitness: 4.832696303412455e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Matyas
+epoch_stop: 246
+solution_found: [1.19333169e-12 9.02805842e-13]
+fitness: 6.50392421686425e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 320
+solution_found: [1.63350769e-13 3.67897237e-13]
+fitness: 1.3282058878724987e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 333
+solution_found: [5.08205427e-14 1.79360743e-13]
+fitness: 4.660480048920853e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 374
+solution_found: [-1.51105371e-15 -1.38922273e-15]
+fitness: 8.782673102986517e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 334
+solution_found: [-1.48347145e-13 -1.37980049e-13]
+fitness: 8.467017922871648e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 313
+solution_found: [1.50111763e-12 1.43886095e-12]
+fitness: 8.740371456391343e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 390
+solution_found: [4.20174718e-14 4.41955977e-14]
+fitness: 7.55129914856808e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 448
+solution_found: [-1.38077213e-17 -1.14878955e-17]
+fitness: 7.744080142247126e-36
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 354
+solution_found: [-3.32293146e-13 -3.62234676e-13]
+fitness: 5.047812750411584e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 287
+solution_found: [-1.45462015e-11 -9.16935859e-13]
+fitness: 4.8830306399375696e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Matyas
+epoch_stop: 329
+solution_found: [1.73457620e-13 1.30112844e-13]
+fitness: 1.3912426797838632e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 354
+solution_found: [1.70126871e-12 1.82350099e-11]
+fitness: 7.231570176921571e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 480
+solution_found: [1.52170967e-15 1.35276122e-15]
+fitness: 8.976172328786104e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 423
+solution_found: [-8.32894728e-15 -1.76006529e-14]
+fitness: 2.8214573148974483e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 394
+solution_found: [2.55728462e-13 2.61768029e-13]
+fitness: 2.687145273426433e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 486
+solution_found: [2.30015759e-15 2.46928452e-15]
+fitness: 2.346267591723567e-31
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 514
+solution_found: [5.94280281e-16 7.03559374e-16]
+fitness: 1.982935778860053e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 418
+solution_found: [-7.35408172e-15 -7.83718103e-15]
+fitness: 2.366090875154384e-30
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 521
+solution_found: [-3.94984975e-17 -4.38513141e-17]
+fitness: 7.420866418748348e-35
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 556
+solution_found: [-1.99961684e-17 -1.67751544e-17]
+fitness: 1.6115034643372303e-35
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Matyas
+epoch_stop: 467
+solution_found: [-4.67180441e-16 -6.02048958e-16]
+fitness: 1.5979894314545416e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 650
+solution_found: [-8.25177677e-14 -8.29225824e-14]
+fitness: 2.73746063317066e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 688
+solution_found: [2.12937188e-15 1.95844145e-15]
+fitness: 1.7440648172478952e-31
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 999
+solution_found: [-9.10321912e-20 -8.77175590e-20]
+fitness: 3.2226142866357864e-40
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 918
+solution_found: [-3.82874143e-19 -3.29403093e-19]
+fitness: 5.788176926947388e-39
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 879
+solution_found: [2.63304226e-18 2.34003457e-18]
+fitness: 2.6877830736993285e-37
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 623
+solution_found: [5.46962709e-17 4.76832644e-17]
+fitness: 1.171112575499577e-34
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 809
+solution_found: [7.54104379e-18 5.53593929e-18]
+fitness: 2.7151858810994722e-36
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 801
+solution_found: [9.12762073e-21 9.73209172e-21]
+fitness: 3.648233832906719e-42
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 787
+solution_found: [-4.32961669e-18 -5.52693865e-18]
+fitness: 1.3299117982912595e-36
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Matyas
+epoch_stop: 660
+solution_found: [-2.51662573e-15 -4.62243137e-15]
+fitness: 1.6182657061522818e-30
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.97660900e-16 -2.10867148e-16]
+fitness: 1.7125529000231748e-33
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [2.88037027e-16 3.06599081e-16]
+fitness: 3.622058481479119e-33
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [1.333600e-15 1.453433e-15]
+fitness: 8.126551589539253e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.33144756e-16 -4.15691400e-16]
+fitness: 1.2540702875261174e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-5.52485985e-15  2.35158585e-15]
+fitness: 1.5610295889584386e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [8.46742202e-16 9.02624468e-16]
+fitness: 3.138354437648644e-32
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.30148692e-14  4.32286308e-15]
+fitness: 7.59047496324285e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [4.83469371e-17 5.09936064e-17]
+fitness: 1.0043665042875793e-34
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-7.91872284e-14 -8.71351718e-14]
+fitness: 2.9242385880898154e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.29543140e-14 -1.40529357e-14]
+fitness: 7.595657781921258e-30
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.09801207e-12 -9.90238651e-13]
+fitness: 4.651168849438255e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [3.26549064e-12 4.38360516e-12]
+fitness: 8.976316817609863e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.29558065e-12 -8.61660227e-13]
+fitness: 9.360861426647842e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.19958564e-11 -5.20766800e-11]
+fitness: 1.1390217237512017e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-6.23579117e-13  3.45102857e-12]
+fitness: 4.230551665909324e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.45260030e-12 -2.26601941e-12]
+fitness: 3.0369398700968875e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [9.49905129e-11 1.10810499e-10]
+fitness: 4.861085608531587e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [6.03466631e-12 6.47202775e-12]
+fitness: 1.6119952197070964e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.67738977e-10 -1.55835445e-10]
+fitness: 1.0824275851963797e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.21236324e-11 -3.90137151e-11]
+fitness: 6.825058811835994e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [6.44769510e-09 7.17344406e-09]
+fitness: 1.987032205760174e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [3.49888572e-08 3.79571320e-08]
+fitness: 5.54138372850673e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [-6.38225506e-09 -6.92825616e-09]
+fitness: 1.8462263901566583e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.85250341e-09 -2.27469902e-09]
+fitness: 2.1490028084099027e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [-9.28599718e-08 -7.01670538e-08]
+fitness: 3.945202431455382e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.44434205e-09 -2.70279524e-09]
+fitness: 2.816297350530093e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [1.93706734e-07 1.88937826e-07]
+fitness: 1.4698542193647966e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [ 7.48789041e-09 -2.69982270e-10]
+fitness: 1.5567129112206642e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [1.77126924e-07 1.97044976e-07]
+fitness: 1.4992283001616124e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Matyas
+epoch_stop: 999
+solution_found: [ 5.65136531e-09 -3.70382131e-10]
+fitness: 9.344248409860525e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [2.27120926e-07 2.37621079e-07]
+fitness: 2.1874146112289393e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-6.86106373e-09 -7.01065006e-09]
+fitness: 1.9298384528908638e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.20164785e-08 -2.85905780e-08]
+fitness: 3.9666351443722967e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [3.56915827e-06 3.67050791e-06]
+fitness: 5.266956012337327e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.23672972e-09 -1.90443949e-09]
+fitness: 1.7370340268844702e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.76535114e-08 -1.06151530e-07]
+fitness: 1.3797935260869036e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.60074763e-07 -1.97361338e-07]
+fitness: 1.625177840621495e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.70210189e-07 -5.09088627e-07]
+fitness: 9.968144939947547e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [3.06612223e-06 3.32658205e-06]
+fitness: 4.256265106262167e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Matyas
+epoch_stop: 999
+solution_found: [2.89217922e-07 3.30480720e-07]
+fitness: 4.265918699907561e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [1.41109707e-06 2.41148713e-06]
+fitness: 3.9631656971717377e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [7.73321443e-06 1.31599290e-05]
+fitness: 1.1727542062696688e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [7.53248301e-06 1.05412927e-05]
+fitness: 5.529847571670765e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.53997877e-06 -3.37926415e-06]
+fitness: 5.264743572812274e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [4.09435335e-06 3.27336460e-06]
+fitness: 7.113383081331131e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [3.8543942e-06 3.1086741e-06]
+fitness: 6.238678181137612e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [-3.24934392e-06 -3.01682110e-06]
+fitness: 4.0616495537540775e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.73037311e-09  7.84346939e-10]
+fitness: 1.5899038890513296e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [1.33257298e-05 1.49292518e-05]
+fitness: 8.626260566144331e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Matyas
+epoch_stop: 999
+solution_found: [6.36098680e-07 1.03391401e-06]
+fitness: 6.745368319224702e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [1.07704833e-04 9.72811830e-05]
+fitness: 4.4735578798064373e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-1.75396548e-05 -3.53844180e-05]
+fitness: 1.0761846813776068e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.51661330e-05 -4.40747944e-05]
+fitness: 7.99371862919641e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.97290427e-05 -2.99677936e-05]
+fitness: 3.5651373078117294e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-7.13213398e-05 -1.34950587e-05]
+fitness: 9.079079124757783e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.03653595e-05 -2.27739899e-05]
+fitness: 2.0060409737377184e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-2.16035671e-07 -2.52708575e-07]
+fitness: 2.533437150106046e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [1.26088650e-04 7.51008715e-05]
+fitness: 1.0547106133254112e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [5.46399639e-08 1.69805624e-06]
+fitness: 7.059237027757648e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Matyas
+epoch_stop: 999
+solution_found: [-4.07234395e-05 -2.17300301e-05]
+fitness: 1.2919175828668916e-10
+

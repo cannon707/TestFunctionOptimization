@@ -1,0 +1,9000 @@
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 603
+solution_found: [0.99757545 0.99515577]
+fitness: 5.87855832590164e-06
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 758
+solution_found: [0.99683271 0.99365879]
+fitness: 1.0059477657569788e-05
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 667
+solution_found: [0.99570413 0.99142459]
+fitness: 1.8454978196132033e-05
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 927
+solution_found: [0.99688361 0.99377065]
+fitness: 9.715846755519123e-06
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 784
+solution_found: [0.99715316 0.99431429]
+fitness: 8.104511211772352e-06
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 507
+solution_found: [0.99520388 0.99040193]
+fitness: 2.3085897284164172e-05
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 528
+solution_found: [0.99191906 0.98387649]
+fitness: 6.537409584287037e-05
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 723
+solution_found: [0.99867971 0.99735416]
+fitness: 1.7480681745473732e-06
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 741
+solution_found: [0.99618423 0.99237688]
+fitness: 1.4563880733207249e-05
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 512
+solution_found: [0.99655697 0.99311424]
+fitness: 1.1867796337395252e-05
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 307
+solution_found: [0.99998677 0.99997333]
+fitness: 1.7953095865996943e-10
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 287
+solution_found: [0.99981503 0.99962972]
+fitness: 3.4227051534841953e-08
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 197
+solution_found: [0.99977729 0.99955415]
+fitness: 4.962207778742022e-08
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 232
+solution_found: [0.99999889 0.99999778]
+fitness: 1.233258005776808e-12
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 336
+solution_found: [0.99996874 0.99993712]
+fitness: 9.903216277852109e-10
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 204
+solution_found: [0.99999951 0.99999902]
+fitness: 2.3912632145239776e-13
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 291
+solution_found: [0.99997584 0.99995164]
+fitness: 5.839912444462653e-10
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 271
+solution_found: [0.99994669 0.99989245]
+fitness: 2.931196507530196e-09
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 213
+solution_found: [1.00000162 1.00000321]
+fitness: 2.6708264313671317e-12
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 453
+solution_found: [0.9999069  0.99981176]
+fitness: 9.088875714686656e-09
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 204
+solution_found: [0.99999999 0.99999998]
+fitness: 1.1036774010293065e-16
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 223
+solution_found: [1.00000001 1.00000001]
+fitness: 1.2957298263396309e-16
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 203
+solution_found: [1. 1.]
+fitness: 1.5322627060743651e-21
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 220
+solution_found: [1. 1.]
+fitness: 1.1859774964641874e-19
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 219
+solution_found: [0.99999882 0.99999765]
+fitness: 1.4145449010593974e-12
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 197
+solution_found: [0.99999978 0.99999955]
+fitness: 5.1694203053187766e-14
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 233
+solution_found: [0.99999999 0.99999998]
+fitness: 1.9236436715996845e-16
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 266
+solution_found: [1.00000006 1.00000011]
+fitness: 3.6579759107358024e-15
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 256
+solution_found: [0.9999911  0.99998229]
+fitness: 8.015978991172538e-11
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 270
+solution_found: [0.99999827 0.99999654]
+fitness: 2.986561325041419e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 234
+solution_found: [1.         0.99999999]
+fitness: 2.395586097470526e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 752
+solution_found: [1. 1.]
+fitness: 2.622169599642081e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 182
+solution_found: [1.00000021 1.00000041]
+fitness: 4.5743517414990794e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 424
+solution_found: [1. 1.]
+fitness: 5.372632782269663e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 187
+solution_found: [1.00000005 1.00000009]
+fitness: 2.272495754319526e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 517
+solution_found: [1.00000003 1.00000006]
+fitness: 1.0152240953730724e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 163
+solution_found: [1. 1.]
+fitness: 1.2617030503869558e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 165
+solution_found: [1. 1.]
+fitness: 1.8333968241029428e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 199
+solution_found: [1.00000009 1.00000018]
+fitness: 7.909667679488857e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 212
+solution_found: [1. 1.]
+fitness: 1.6412893591748858e-20
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 181
+solution_found: [1. 1.]
+fitness: 1.129536847331754e-22
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 178
+solution_found: [1. 1.]
+fitness: 6.1873073443111016e-21
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 185
+solution_found: [1. 1.]
+fitness: 8.517897869274144e-19
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 154
+solution_found: [1. 1.]
+fitness: 9.280890673530193e-19
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [1. 1.]
+fitness: 3.048713222898679e-20
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 235
+solution_found: [0.99999989 0.99999978]
+fitness: 1.2681818728893604e-14
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 426
+solution_found: [1.         0.99999999]
+fitness: 1.0636473436981785e-17
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 235
+solution_found: [1.00000003 1.00000006]
+fitness: 1.2625422434784323e-15
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 180
+solution_found: [0.99999998 0.99999996]
+fitness: 1.9415075258861475e-15
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 811
+solution_found: [1. 1.]
+fitness: 1.4504219553234709e-21
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 193
+solution_found: [1. 1.]
+fitness: 2.2657926207212614e-20
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.1857281495062847
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 780
+solution_found: [1.00000001 1.00000002]
+fitness: 7.026107252889448e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 218
+solution_found: [1. 1.]
+fitness: 2.5635544315769436e-22
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 201
+solution_found: [1. 1.]
+fitness: 2.1301775895612173e-23
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 183
+solution_found: [1. 1.]
+fitness: 8.158426256240191e-21
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [0.99999999 0.99999999]
+fitness: 3.077783106294948e-17
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 168
+solution_found: [1. 1.]
+fitness: 7.410906242439153e-19
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.1885212188443611
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 183
+solution_found: [1. 1.]
+fitness: 5.68912310001003e-24
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 165
+solution_found: [1. 1.]
+fitness: 6.424506951409749e-22
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 297
+solution_found: [1. 1.]
+fitness: 4.77045932365846e-25
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 491
+solution_found: [1. 1.]
+fitness: 1.31679634414303e-19
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 357
+solution_found: [1. 1.]
+fitness: 7.959606533680009e-28
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [1. 1.]
+fitness: 3.985709488158917e-23
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 177
+solution_found: [1. 1.]
+fitness: 2.9708261468201255e-18
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.15761721736265938
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 143
+solution_found: [1. 1.]
+fitness: 3.4356533287903882e-18
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 162
+solution_found: [1. 1.]
+fitness: 6.625324019676957e-21
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [1. 1.]
+fitness: 5.533201601051118e-20
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [1. 1.]
+fitness: 1.9929673960051739e-19
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 193
+solution_found: [1. 1.]
+fitness: 1.0478933760857703e-20
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 215
+solution_found: [1. 1.]
+fitness: 1.7110565278324616e-22
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 153
+solution_found: [1. 1.]
+fitness: 8.372289812235976e-21
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 195
+solution_found: [1. 1.]
+fitness: 9.493725290181106e-23
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 199
+solution_found: [1. 1.]
+fitness: 5.289949621206883e-24
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.21813406338202282
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1. 1.]
+fitness: 2.6635703389390933e-22
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 360
+solution_found: [1. 1.]
+fitness: 1.0588373293542733e-20
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 488
+solution_found: [1. 1.]
+fitness: 1.0955537056109644e-24
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 353
+solution_found: [1. 1.]
+fitness: 7.902191059944071e-20
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 166
+solution_found: [1. 1.]
+fitness: 5.6339499486011106e-21
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 211
+solution_found: [1. 1.]
+fitness: 1.1948742222244005e-21
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2127429107738554
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [1. 1.]
+fitness: 1.3070439320595866e-23
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 810
+solution_found: [1. 1.]
+fitness: 3.194870259494877e-20
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [1. 1.]
+fitness: 3.3100603583073655e-27
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 386
+solution_found: [1. 1.]
+fitness: 1.0011397879640577e-24
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 182
+solution_found: [1. 1.]
+fitness: 2.2783527649338177e-24
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 122
+solution_found: [1. 1.]
+fitness: 5.995679272509404e-19
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 187
+solution_found: [1. 1.]
+fitness: 1.565399709425239e-23
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 181
+solution_found: [1. 1.]
+fitness: 6.262564704202166e-25
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 253
+solution_found: [1. 1.]
+fitness: 2.1197645319350674e-23
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 181
+solution_found: [1. 1.]
+fitness: 1.5931348274902404e-23
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [1. 1.]
+fitness: 1.860008806611807e-18
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 175
+solution_found: [1. 1.]
+fitness: 2.5659948259120964e-23
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 195
+solution_found: [1. 1.]
+fitness: 3.352009577686448e-24
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 171
+solution_found: [1. 1.]
+fitness: 8.893669910281432e-24
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 183
+solution_found: [1. 1.]
+fitness: 1.4157793305204743e-22
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [1. 1.]
+fitness: 4.653606808227513e-19
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 23
+solution_found: [0.40922088 0.16225125]
+fitness: 0.35173487699669376
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.13863510484534539
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 31
+solution_found: [0.50126176 0.24878533]
+fitness: 0.24935389250255888
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 44
+solution_found: [0.31088745 0.09084786]
+fitness: 0.47824375485298654
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 26
+solution_found: [0.54579719 0.29573038]
+fitness: 0.20676856635397445
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 39
+solution_found: [0.56437441 0.31692238]
+fitness: 0.190024409236752
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 29
+solution_found: [0.52284169 0.26912862]
+fitness: 0.22947341998467125
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 24
+solution_found: [0.45670018 0.20537361]
+fitness: 0.29619961694537456
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 23
+solution_found: [0.33905767 0.10981689]
+fitness: 0.4394900250226071
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 26
+solution_found: [0.41073945 0.16384053]
+fitness: 0.3495961445646837
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 464
+solution_found: [0.6751263  0.45338318]
+fitness: 0.10612486215209123
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 63
+solution_found: [0.73976014 0.54715134]
+fitness: 0.06772566270255533
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 53
+solution_found: [0.7166955  0.51255692]
+fitness: 0.0803814558919335
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 770
+solution_found: [0.70781782 0.49894165]
+fitness: 0.08579660873065682
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 112
+solution_found: [0.74545883 0.55538178]
+fitness: 0.06480190530110681
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 54
+solution_found: [0.63608671 0.40245885]
+fitness: 0.13289403993941862
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 100
+solution_found: [0.54947531 0.29842767]
+fitness: 0.2041943120316988
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 98
+solution_found: [0.67653135 0.45671667]
+fitness: 0.10472761770054445
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 54
+solution_found: [0.58247464 0.33923928]
+fitness: 0.17432756407646235
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 98
+solution_found: [0.50232263 0.24834751]
+fitness: 0.24926721667818363
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 689
+solution_found: [0.90018766 0.80979351]
+fitness: 0.009992130974310561
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.94124405 0.88566125]
+fitness: 0.003460051938272627
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 775
+solution_found: [0.96561453 0.93240569]
+fitness: 0.0011823639377843986
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.94627009 0.89529558]
+fitness: 0.0028886325379057125
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 850
+solution_found: [0.9577912  0.91716067]
+fitness: 0.0017857164545166373
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 397
+solution_found: [0.94991976 0.90209321]
+fitness: 0.0025144990998789006
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.95859331 0.91871235]
+fitness: 0.0017180779976158976
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.32182891029729926
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 632
+solution_found: [0.95966375 0.920963  ]
+fitness: 0.0016270206445277676
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.15671651874237247
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 242
+solution_found: [0.99995052 0.99990124]
+fitness: 2.451459596781348e-09
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2564714249241921
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 204
+solution_found: [0.99996522 0.9999299 ]
+fitness: 1.2380920257036727e-09
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 209
+solution_found: [0.99995289 0.99990566]
+fitness: 2.220757287260665e-09
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 215
+solution_found: [1. 1.]
+fitness: 4.904008135975233e-19
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 208
+solution_found: [1.00000009 1.00000019]
+fitness: 8.689762141401664e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 277
+solution_found: [1.00000001 1.00000001]
+fitness: 3.565062937159797e-17
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 279
+solution_found: [0.9999999 0.9999998]
+fitness: 1.0467472990379779e-14
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 312
+solution_found: [1.00000003 1.00000006]
+fitness: 1.0488361312969215e-15
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 606
+solution_found: [0.99999758 0.99999515]
+fitness: 5.871955163228633e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 200
+solution_found: [1. 1.]
+fitness: 6.681744831644188e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 213
+solution_found: [1. 1.]
+fitness: 4.49993121544926e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.14503798799673479
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 381
+solution_found: [0.99999984 0.99999968]
+fitness: 3.1233196533186645e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 205
+solution_found: [0.9999999  0.99999979]
+fitness: 1.0973197522332327e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 228
+solution_found: [0.99999953 0.99999904]
+fitness: 2.540154907857074e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 195
+solution_found: [1. 1.]
+fitness: 2.564493421463854e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 211
+solution_found: [1.00000001 1.00000001]
+fitness: 2.6090543068450897e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 223
+solution_found: [0.99999999 0.99999997]
+fitness: 2.0053621985507727e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.1797243612279296
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 214
+solution_found: [0.99999997 0.99999995]
+fitness: 1.3205217710184952e-15
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 233
+solution_found: [1.         0.99999999]
+fitness: 2.313843740135344e-17
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 240
+solution_found: [1. 1.]
+fitness: 5.5941544001452984e-18
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 217
+solution_found: [1. 1.]
+fitness: 1.1427631834788015e-19
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 228
+solution_found: [1. 1.]
+fitness: 7.21679755287294e-21
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 221
+solution_found: [1.00000001 1.00000002]
+fitness: 3.3669731719906995e-16
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 811
+solution_found: [1.00000001 1.00000001]
+fitness: 2.657587394538382e-17
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 194
+solution_found: [0.99999997 0.99999993]
+fitness: 8.864618065607751e-15
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 674
+solution_found: [0.99999988 0.99999977]
+fitness: 1.3454501863315921e-14
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 234
+solution_found: [1.         0.99999999]
+fitness: 7.856809674600523e-18
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 298
+solution_found: [0.99999998 0.99999997]
+fitness: 3.9225795524387735e-16
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 248
+solution_found: [1. 1.]
+fitness: 6.380045186874748e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 252
+solution_found: [1. 1.]
+fitness: 8.851775850522032e-19
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 263
+solution_found: [1. 1.]
+fitness: 1.5864940093603398e-18
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 234
+solution_found: [1. 1.]
+fitness: 2.5209955870772946e-20
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 583
+solution_found: [1. 1.]
+fitness: 6.311433242426616e-21
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 224
+solution_found: [0.99999998 0.99999996]
+fitness: 7.929057209763541e-16
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 253
+solution_found: [1.00000003 1.00000006]
+fitness: 8.231817832298639e-16
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 222
+solution_found: [1.         1.00000001]
+fitness: 2.3903497565162144e-17
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 253
+solution_found: [1.         1.00000001]
+fitness: 7.395203876700316e-16
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 419
+solution_found: [1. 1.]
+fitness: 1.0364264647069011e-21
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 792
+solution_found: [1. 1.]
+fitness: 6.554976742971278e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 469
+solution_found: [1. 1.]
+fitness: 3.359339273249999e-19
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 377
+solution_found: [1. 1.]
+fitness: 4.191012292227636e-20
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 585
+solution_found: [1. 1.]
+fitness: 1.0852311401914048e-25
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 580
+solution_found: [1. 1.]
+fitness: 2.0354728324571023e-23
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 434
+solution_found: [1. 1.]
+fitness: 1.439754279831894e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 355
+solution_found: [1. 1.]
+fitness: 1.434346924622173e-18
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 344
+solution_found: [1. 1.]
+fitness: 3.6678999828208793e-17
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 895
+solution_found: [1. 1.]
+fitness: 6.578598362538405e-17
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 7.26728670149834e-19
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999997 0.99999994]
+fitness: 7.767901144320585e-16
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999996 0.99999991]
+fitness: 1.878937675108926e-15
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.3075028714307455e-17
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 7.976134060612788e-18
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999999 0.99999999]
+fitness: 4.2371144036110017e-17
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 8.64276278935514e-20
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.481367883504328e-18
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999995 0.9999999 ]
+fitness: 2.4270059564796387e-15
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.18195714934649e-19
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.993114   0.98733249]
+fitness: 0.00015915813039222012
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.01303419 1.02477349]
+fitness: 0.0003844502638303732
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.01235181 1.02462433]
+fitness: 0.00015794335179967876
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99011746 0.97993566]
+fitness: 0.00011341992019147019
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99443763 0.98833739]
+fitness: 6.329454533882077e-05
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99000032 0.97717228]
+fitness: 0.0009575262042683136
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9982638  0.99766568]
+fitness: 0.0001318520015236808
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9992068  0.99537534]
+fitness: 0.0009241107654101937
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.98424222 0.96583067]
+fitness: 0.0010905154771013617
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.98390878 0.96908724]
+fitness: 0.00036109143959730465
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 67
+solution_found: [1.0000878  1.00017785]
+fitness: 8.211981260777289e-09
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 53
+solution_found: [1.00000339 1.00000671]
+fitness: 1.2011319935968153e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.28485391436358504
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 53
+solution_found: [0.99999394 0.99998772]
+fitness: 3.9033404349737256e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 53
+solution_found: [0.99995962 0.99991994]
+fitness: 1.6794728248266534e-09
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 63
+solution_found: [1.0000004  1.00000089]
+fitness: 8.767713793269999e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 46
+solution_found: [1.00000178 1.00000397]
+fitness: 1.9412700250688557e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 57
+solution_found: [0.99999878 0.99999757]
+fitness: 1.4830834703233813e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 46
+solution_found: [1.00000925 1.00001841]
+fitness: 8.621696927321269e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Rosenbrock
+epoch_stop: 53
+solution_found: [0.9999985  0.99999716]
+fitness: 4.705805880474013e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 77
+solution_found: [0.99999858 0.99999717]
+fitness: 2.0040542338424963e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 57
+solution_found: [0.99999968 0.99999933]
+fitness: 1.7764542709775082e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.21877948721465973
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.32662872267154186
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 64
+solution_found: [1.00002787 1.00005665]
+fitness: 8.603036207913732e-10
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 56
+solution_found: [0.99999978 0.99999959]
+fitness: 1.0181272839765653e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.26967752292969815
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.22011799144080163
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 72
+solution_found: [0.99996654 0.99993302]
+fitness: 1.1200570090881e-09
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.3008117105718944
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.3722853234133986
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.3247634077725605
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 77
+solution_found: [1.00000013 1.00000026]
+fitness: 2.710875604204628e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.16642718748612223
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.32924359533517117
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 81
+solution_found: [1.00000022 1.00000041]
+fitness: 1.012022120979174e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 72
+solution_found: [0.99999723 0.9999943 ]
+fitness: 1.013067852947008e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.10656790190491994
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 92
+solution_found: [0.99997296 0.99994611]
+fitness: 7.348456621405937e-10
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2964581008885992
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 68
+solution_found: [0.99999827 0.99999673]
+fitness: 6.678506292654358e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 105
+solution_found: [0.99999575 0.99999142]
+fitness: 1.8735648271940654e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.13480435393892687
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 107
+solution_found: [0.99999378 0.99998711]
+fitness: 5.864827104206352e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 90
+solution_found: [1.00000005 1.0000001 ]
+fitness: 2.5638045296031224e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.15284661586589143
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.48856805545370297
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 108
+solution_found: [0.99999975 0.99999949]
+fitness: 7.033807143576675e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.23334840287661973
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Rosenbrock
+epoch_stop: 108
+solution_found: [0.99999526 0.99999029]
+fitness: 2.7802057017480435e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 88
+solution_found: [1.00000135 1.0000027 ]
+fitness: 1.8304753149216676e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 97
+solution_found: [0.99999986 0.99999973]
+fitness: 1.8439487399442893e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 95
+solution_found: [0.99999858 0.99999715]
+fitness: 2.024516442846476e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 110
+solution_found: [0.99999905 0.99999801]
+fitness: 1.508500150692262e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 72
+solution_found: [0.99999964 0.99999935]
+fitness: 5.374575351814986e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.3946994567197379
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 153
+solution_found: [1.00000013 1.00000025]
+fitness: 1.719638966283417e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 136
+solution_found: [0.99999994 0.99999989]
+fitness: 1.846023458306854e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.33261491996134407
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Rosenbrock
+epoch_stop: 127
+solution_found: [0.99999995 0.9999999 ]
+fitness: 2.509310314764863e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 130
+solution_found: [0.99999975 0.99999951]
+fitness: 6.128032886232386e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 135
+solution_found: [1.00000003 1.00000007]
+fitness: 1.1736382900053316e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 87
+solution_found: [1.0000002  1.00000039]
+fitness: 3.826901212817108e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 131
+solution_found: [1.00000001 1.00000003]
+fitness: 1.945181371328231e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 139
+solution_found: [0.9999964  0.99999258]
+fitness: 1.7743798635011257e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 89
+solution_found: [0.99999998 0.99999996]
+fitness: 1.6714798286700126e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 149
+solution_found: [1. 1.]
+fitness: 1.1330071883119662e-18
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 368
+solution_found: [0.99999978 0.99999956]
+fitness: 5.200154189241e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.16525792544120382
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Rosenbrock
+epoch_stop: 166
+solution_found: [0.99999988 0.99999976]
+fitness: 1.4122307775089066e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 127
+solution_found: [1.         0.99999999]
+fitness: 5.68365627730662e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 144
+solution_found: [1.00000002 1.00000005]
+fitness: 5.291530883563414e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 121
+solution_found: [1.00000007 1.00000013]
+fitness: 4.3809700915547335e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 374
+solution_found: [0.99999587 0.99999169]
+fitness: 1.7249014692890006e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.31240299613225264
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 150
+solution_found: [1.00000001 1.00000001]
+fitness: 4.101519921847782e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.4705058630719159
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 128
+solution_found: [0.99999968 0.99999933]
+fitness: 1.7548012878325618e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 427
+solution_found: [1.00000023 1.00000047]
+fitness: 5.479369237853373e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Rosenbrock
+epoch_stop: 152
+solution_found: [1. 1.]
+fitness: 1.2582522049108764e-18
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 127
+solution_found: [1. 1.]
+fitness: 2.253612061594824e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [0.99999925 0.99999859]
+fitness: 1.1525042984197185e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [1.00000012 1.0000002 ]
+fitness: 1.256339180051081e-13
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 149
+solution_found: [0.9999929  0.99998578]
+fitness: 5.04860272627596e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 148
+solution_found: [1. 1.]
+fitness: 4.105393517395904e-21
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.4034004832257344
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 537
+solution_found: [0.99998948 0.99997871]
+fitness: 1.1711492514192314e-10
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 567
+solution_found: [0.99999363 0.99998723]
+fitness: 4.069602145561277e-11
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 443
+solution_found: [1.00000006 1.00000012]
+fitness: 7.667102006338469e-15
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Rosenbrock
+epoch_stop: 148
+solution_found: [0.99999998 0.99999995]
+fitness: 7.078673721024736e-16
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 675
+solution_found: [0.99997957 0.99995912]
+fitness: 4.1733048982868744e-10
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.15746132052706832
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 229
+solution_found: [1. 1.]
+fitness: 6.73908214413494e-23
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 185
+solution_found: [0.99999998 0.99999994]
+fitness: 1.480464474492416e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 136
+solution_found: [0.99999976 0.99999953]
+fitness: 5.6664583152390077e-14
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 310
+solution_found: [0.99999837 0.99999674]
+fitness: 2.6569454801639138e-12
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 178
+solution_found: [1. 1.]
+fitness: 2.766832459901433e-20
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 808
+solution_found: [1.00000001 1.00000001]
+fitness: 3.186026332498782e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 175
+solution_found: [1.         1.00000001]
+fitness: 1.3604897078221337e-17
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1. 1.]
+fitness: 3.651644595110948e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 237
+solution_found: [1. 1.]
+fitness: 1.0255264483348722e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [0.99999999 0.99999999]
+fitness: 5.305830678094425e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [1.00000015 1.00000031]
+fitness: 2.350081456290248e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 180
+solution_found: [1. 1.]
+fitness: 2.787927584930708e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.12397071589868915
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 232
+solution_found: [1.00000091 1.0000018 ]
+fitness: 8.42067885756172e-13
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 209
+solution_found: [1.00000001 1.00000003]
+fitness: 1.6675088200500742e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 198
+solution_found: [1. 1.]
+fitness: 6.26015798325757e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 200
+solution_found: [0.99999916 0.99999833]
+fitness: 7.485805120439954e-13
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99942401 0.99884019]
+fitness: 3.384167386055418e-07
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 220
+solution_found: [0.99999753 0.99999507]
+fitness: 6.100899500818802e-12
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 222
+solution_found: [1. 1.]
+fitness: 2.709265151956928e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 183
+solution_found: [0.99999999 0.99999999]
+fitness: 3.1843692729012217e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 217
+solution_found: [0.99999986 0.99999972]
+fitness: 1.9769664998671376e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [0.99999979 0.99999957]
+fitness: 4.572652577834913e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1. 1.]
+fitness: 1.6983124904295554e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 223
+solution_found: [1.00000001 1.00000001]
+fitness: 1.1684078943229334e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 241
+solution_found: [1. 1.]
+fitness: 6.200830204144019e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.89743722 0.80803902]
+fitness: 0.01121896328235455
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Rosenbrock
+epoch_stop: 147
+solution_found: [0.99999996 0.99999992]
+fitness: 2.191895879624162e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 258
+solution_found: [1. 1.]
+fitness: 1.1905932515854697e-24
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 239
+solution_found: [1. 1.]
+fitness: 3.3515194814851464e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 498
+solution_found: [1. 1.]
+fitness: 4.547112300901637e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 238
+solution_found: [1. 1.]
+fitness: 2.3334703552761766e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 226
+solution_found: [1.00000002 1.00000005]
+fitness: 5.269887218024233e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999825 0.99999651]
+fitness: 3.098952921133051e-12
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 224
+solution_found: [0.99999995 0.99999991]
+fitness: 2.1045698754045312e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 258
+solution_found: [1. 1.]
+fitness: 2.0870614788111142e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 335
+solution_found: [0.99999999 0.99999998]
+fitness: 1.0953038954442376e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Rosenbrock
+epoch_stop: 226
+solution_found: [0.99999978 0.99999956]
+fitness: 4.9127587930523796e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 298
+solution_found: [1.         0.99999999]
+fitness: 2.541809034898091e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 248
+solution_found: [0.99999999 0.99999999]
+fitness: 2.563073130425488e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 249
+solution_found: [1. 1.]
+fitness: 3.702320142114936e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 260
+solution_found: [1. 1.]
+fitness: 1.2348915172780843e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 296
+solution_found: [1. 1.]
+fitness: 1.740143792451838e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 274
+solution_found: [0.99999719 0.99999424]
+fitness: 9.691407493174344e-12
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 299
+solution_found: [1. 1.]
+fitness: 5.7477686717923936e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 255
+solution_found: [1. 1.]
+fitness: 1.098168494042732e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 241
+solution_found: [1.00000003 1.00000007]
+fitness: 1.0993004771810902e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Rosenbrock
+epoch_stop: 539
+solution_found: [1.         1.00000001]
+fitness: 7.459727791908686e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 247
+solution_found: [1. 1.]
+fitness: 1.9359600319525404e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 266
+solution_found: [1.00000002 1.00000004]
+fitness: 3.7168387241788555e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 222
+solution_found: [1.00000013 1.00000026]
+fitness: 2.20682835829534e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 242
+solution_found: [1.00000001 1.00000002]
+fitness: 1.4901220364485473e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 250
+solution_found: [1. 1.]
+fitness: 2.8103032696242215e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 316
+solution_found: [0.99999994 0.99999989]
+fitness: 3.2274746858418376e-15
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 255
+solution_found: [1. 1.]
+fitness: 1.8887691930402016e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 290
+solution_found: [1. 1.]
+fitness: 6.773093788386312e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 399
+solution_found: [1. 1.]
+fitness: 4.44293843002805e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Rosenbrock
+epoch_stop: 241
+solution_found: [1. 1.]
+fitness: 7.011198511184658e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 318
+solution_found: [0.99999998 0.99999997]
+fitness: 2.991427928592543e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 315
+solution_found: [1. 1.]
+fitness: 1.2883913656740873e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 282
+solution_found: [1. 1.]
+fitness: 3.8675718961123535e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 285
+solution_found: [1. 1.]
+fitness: 3.684124256754818e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 276
+solution_found: [1. 1.]
+fitness: 2.7740244261889957e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 222
+solution_found: [1. 1.]
+fitness: 7.334525642735108e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 383
+solution_found: [1. 1.]
+fitness: 4.249653983862532e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 301
+solution_found: [1. 1.]
+fitness: 3.3251148084918755e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 368
+solution_found: [1. 1.]
+fitness: 5.522136161155378e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Rosenbrock
+epoch_stop: 443
+solution_found: [0.99999999 0.99999998]
+fitness: 1.3555781073737617e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 244
+solution_found: [0.99999999 0.99999999]
+fitness: 5.900221864079718e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 286
+solution_found: [1. 1.]
+fitness: 5.0482181135502545e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 604
+solution_found: [1. 1.]
+fitness: 2.832826183945161e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 279
+solution_found: [1. 1.]
+fitness: 5.0409816258822126e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 299
+solution_found: [1. 1.]
+fitness: 1.0215698533568005e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 877
+solution_found: [0.99999999 0.99999998]
+fitness: 1.0221547748961266e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 305
+solution_found: [1. 1.]
+fitness: 7.51041283361985e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 298
+solution_found: [0.99999941 0.99999882]
+fitness: 3.449077512107315e-13
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 316
+solution_found: [1.         0.99999999]
+fitness: 1.6384974608604873e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Rosenbrock
+epoch_stop: 306
+solution_found: [1.00000017 1.00000034]
+fitness: 2.982674748381633e-14
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 366
+solution_found: [1. 1.]
+fitness: 5.293506920433648e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 314
+solution_found: [1. 1.]
+fitness: 6.373971981529101e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 450
+solution_found: [1. 1.]
+fitness: 9.214029491661257e-24
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 335
+solution_found: [1. 1.]
+fitness: 3.9816390177134386e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 314
+solution_found: [0.99999999 0.99999998]
+fitness: 1.4011314189256946e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 360
+solution_found: [1. 1.]
+fitness: 9.838907576793615e-23
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 329
+solution_found: [1. 1.]
+fitness: 8.60238514347856e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 387
+solution_found: [1.00000002 1.00000003]
+fitness: 2.9056061467324816e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 370
+solution_found: [1. 1.]
+fitness: 8.823149567509019e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Rosenbrock
+epoch_stop: 354
+solution_found: [1.00000001 1.00000001]
+fitness: 4.742720088932685e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 810
+solution_found: [1. 1.]
+fitness: 7.037809021680552e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 396
+solution_found: [1. 1.]
+fitness: 4.9827883171141805e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 365
+solution_found: [1. 1.]
+fitness: 5.638112330766729e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 359
+solution_found: [1.         1.00000001]
+fitness: 1.5288851378073498e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 335
+solution_found: [1. 1.]
+fitness: 8.890181343499541e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 300
+solution_found: [0.99999999 0.99999999]
+fitness: 3.103405971537273e-17
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 392
+solution_found: [1. 1.]
+fitness: 2.0111700358647658e-19
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 386
+solution_found: [1. 1.]
+fitness: 5.649120677228177e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 313
+solution_found: [1.00000002 1.00000004]
+fitness: 5.039824592251237e-16
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Rosenbrock
+epoch_stop: 305
+solution_found: [1. 1.]
+fitness: 4.573425020432452e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 425
+solution_found: [1. 1.]
+fitness: 4.224140649926764e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 488
+solution_found: [1. 1.]
+fitness: 3.8386094907570875e-27
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 383
+solution_found: [1. 1.]
+fitness: 3.3230013281442405e-20
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 425
+solution_found: [1. 1.]
+fitness: 9.164220079589818e-21
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 311
+solution_found: [1. 1.]
+fitness: 1.1015631995020185e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 370
+solution_found: [1. 1.]
+fitness: 2.274530585936602e-24
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 404
+solution_found: [1. 1.]
+fitness: 1.0074261889633277e-22
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 351
+solution_found: [1. 1.]
+fitness: 3.3985688874620103e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 387
+solution_found: [1. 1.]
+fitness: 8.395614311663738e-18
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Rosenbrock
+epoch_stop: 406
+solution_found: [1. 1.]
+fitness: 2.6045418248243084e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 442
+solution_found: [1. 1.]
+fitness: 3.8013678955763056e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 397
+solution_found: [1. 1.]
+fitness: 1.6980128941908567e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 367
+solution_found: [1.         0.99999999]
+fitness: 1.1423338071815096e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 336
+solution_found: [1. 1.]
+fitness: 1.4954898132464973e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 357
+solution_found: [1. 1.]
+fitness: 6.600370882686326e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 427
+solution_found: [1. 1.]
+fitness: 1.6485277196484643e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 361
+solution_found: [1. 1.]
+fitness: 5.107037532189508e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 353
+solution_found: [1. 1.]
+fitness: 9.856341771499028e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 394
+solution_found: [1. 1.]
+fitness: 1.5949994666400775e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Rosenbrock
+epoch_stop: 420
+solution_found: [1. 1.]
+fitness: 1.6305847383289036e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 456
+solution_found: [1. 1.]
+fitness: 2.29879049006611e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 394
+solution_found: [1. 1.]
+fitness: 9.552730853296473e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 417
+solution_found: [1. 1.]
+fitness: 1.547017906247234e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 409
+solution_found: [1. 1.]
+fitness: 9.066899155162051e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 363
+solution_found: [1. 1.]
+fitness: 4.75014377163323e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 393
+solution_found: [1.         1.00000001]
+fitness: 7.177406242702616e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 358
+solution_found: [1. 1.]
+fitness: 1.973596718645948e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 350
+solution_found: [0.99999999 0.99999999]
+fitness: 6.860773344074938e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 499
+solution_found: [1. 1.]
+fitness: 9.512811533263895e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Rosenbrock
+epoch_stop: 361
+solution_found: [1.         1.00000001]
+fitness: 7.603239087344951e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 449
+solution_found: [1. 1.]
+fitness: 2.465055688008511e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 457
+solution_found: [1. 1.]
+fitness: 1.579432610128948e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 466
+solution_found: [1. 1.]
+fitness: 5.849969231645822e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 466
+solution_found: [1. 1.]
+fitness: 4.1520840795384567e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 464
+solution_found: [1. 1.]
+fitness: 2.982772613270166e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 683
+solution_found: [1. 1.]
+fitness: 2.3863042382935607e-29
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 598
+solution_found: [1. 1.]
+fitness: 8.353113082259081e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 544
+solution_found: [1. 1.]
+fitness: 1.2346305838208462e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 507
+solution_found: [1. 1.]
+fitness: 3.2427113585241217e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Rosenbrock
+epoch_stop: 414
+solution_found: [1. 1.]
+fitness: 4.34174787147309e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 448
+solution_found: [1. 1.]
+fitness: 5.615945891140884e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 458
+solution_found: [1. 1.]
+fitness: 6.409589165886596e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 591
+solution_found: [1. 1.]
+fitness: 1.0511872364593904e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 437
+solution_found: [1. 1.]
+fitness: 1.074852858196641e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 513
+solution_found: [1. 1.]
+fitness: 2.3561352390495146e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 407
+solution_found: [1.         0.99999999]
+fitness: 1.1178034683155336e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 592
+solution_found: [1. 1.]
+fitness: 1.4448911643971402e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 527
+solution_found: [1. 1.]
+fitness: 2.4316703254834347e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 490
+solution_found: [1. 1.]
+fitness: 1.4151895269106583e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Rosenbrock
+epoch_stop: 592
+solution_found: [1. 1.]
+fitness: 1.972766027942563e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 552
+solution_found: [1. 1.]
+fitness: 2.0369643773766248e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 590
+solution_found: [1. 1.]
+fitness: 2.2068625461513836e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 523
+solution_found: [1. 1.]
+fitness: 1.719087109537639e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 663
+solution_found: [1. 1.]
+fitness: 1.4278875422566077e-27
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 758
+solution_found: [1. 1.]
+fitness: 1.1770051224930378e-28
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 536
+solution_found: [1. 1.]
+fitness: 2.782287884070737e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 479
+solution_found: [1.         1.00000001]
+fitness: 1.213418962373356e-17
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 586
+solution_found: [1. 1.]
+fitness: 7.672543187101517e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 539
+solution_found: [1. 1.]
+fitness: 1.1880986984535336e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Rosenbrock
+epoch_stop: 406
+solution_found: [1. 1.]
+fitness: 1.8715162514519892e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 515
+solution_found: [1. 1.]
+fitness: 3.768911626074112e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 504
+solution_found: [1. 1.]
+fitness: 1.1000132475144553e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 575
+solution_found: [1. 1.]
+fitness: 4.768483622014372e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 534
+solution_found: [1. 1.]
+fitness: 3.898667258128115e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 569
+solution_found: [1. 1.]
+fitness: 3.2446349958154953e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 690
+solution_found: [1. 1.]
+fitness: 1.0939139103080428e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 518
+solution_found: [1. 1.]
+fitness: 6.103141935928478e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 549
+solution_found: [1. 1.]
+fitness: 1.0727009199184524e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 621
+solution_found: [1. 1.]
+fitness: 6.350707756972293e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Rosenbrock
+epoch_stop: 534
+solution_found: [1. 1.]
+fitness: 1.1950339706992275e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 660
+solution_found: [1. 1.]
+fitness: 5.298344826871665e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 707
+solution_found: [1. 1.]
+fitness: 9.971694880059352e-28
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 557
+solution_found: [1. 1.]
+fitness: 5.994737231719706e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 563
+solution_found: [1. 1.]
+fitness: 2.3346912336046836e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 642
+solution_found: [1. 1.]
+fitness: 4.979866202969058e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 824
+solution_found: [1. 1.]
+fitness: 4.551727423125238e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 552
+solution_found: [1. 1.]
+fitness: 1.175779218898451e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 788
+solution_found: [1. 1.]
+fitness: 5.667886717922448e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 580
+solution_found: [1. 1.]
+fitness: 6.614807305777165e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Rosenbrock
+epoch_stop: 554
+solution_found: [1. 1.]
+fitness: 6.208403720795036e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 714
+solution_found: [1. 1.]
+fitness: 8.72809302036864e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 678
+solution_found: [1. 1.]
+fitness: 7.546299086423311e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 780
+solution_found: [1. 1.]
+fitness: 3.183084567445893e-26
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 831
+solution_found: [1. 1.]
+fitness: 1.6034090936682828e-27
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 691
+solution_found: [1. 1.]
+fitness: 1.5291823361271597e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 756
+solution_found: [1. 1.]
+fitness: 3.5057369237429365e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 741
+solution_found: [1. 1.]
+fitness: 5.714282832505923e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 675
+solution_found: [1. 1.]
+fitness: 6.981089711081831e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 630
+solution_found: [1. 1.]
+fitness: 1.6910272640898237e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Rosenbrock
+epoch_stop: 604
+solution_found: [1. 1.]
+fitness: 1.264666628903358e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 680
+solution_found: [1. 1.]
+fitness: 1.8494854355592093e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 661
+solution_found: [1. 1.]
+fitness: 7.058986995274117e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 665
+solution_found: [1. 1.]
+fitness: 1.0803276651018575e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 854
+solution_found: [1. 1.]
+fitness: 1.774048212374222e-25
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 679
+solution_found: [1. 1.]
+fitness: 5.2144537197127965e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 702
+solution_found: [1. 1.]
+fitness: 1.3312333952243413e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 742
+solution_found: [1. 1.]
+fitness: 2.2684539679746115e-19
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 676
+solution_found: [1. 1.]
+fitness: 1.483732916752746e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 675
+solution_found: [1. 1.]
+fitness: 6.857080574635481e-23
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Rosenbrock
+epoch_stop: 700
+solution_found: [1. 1.]
+fitness: 1.539014177812533e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 918
+solution_found: [1. 1.]
+fitness: 1.687710547164822e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 578
+solution_found: [1. 1.]
+fitness: 6.2629025518868796e-18
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 804
+solution_found: [1. 1.]
+fitness: 6.193014116891967e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 836
+solution_found: [1. 1.]
+fitness: 1.91587813082149e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 792
+solution_found: [1. 1.]
+fitness: 5.3447756513349696e-24
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 716
+solution_found: [1. 1.]
+fitness: 1.1687127927952035e-22
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 796
+solution_found: [1. 1.]
+fitness: 3.622461366068259e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 716
+solution_found: [1. 1.]
+fitness: 7.49024788308427e-20
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 866
+solution_found: [1. 1.]
+fitness: 2.26096054364979e-21
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Rosenbrock
+epoch_stop: 869
+solution_found: [1. 1.]
+fitness: 8.766655714836124e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 862
+solution_found: [1. 1.]
+fitness: 1.9700616164859418e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 919
+solution_found: [1. 1.]
+fitness: 4.0789110794362994e-24
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 997
+solution_found: [1. 1.]
+fitness: 1.6987194420330036e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 8.940653581409365e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.9230048081675073e-26
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 821
+solution_found: [1. 1.]
+fitness: 1.5594353534752328e-20
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.21197453756058e-24
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 9.077627386878702e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.7601363342261637e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Rosenbrock
+epoch_stop: 893
+solution_found: [1. 1.]
+fitness: 1.8998711435682818e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.490858428234083e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 7.517563613104842e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 9.373793479980307e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 919
+solution_found: [1. 1.]
+fitness: 6.801660061438784e-20
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.883395571227927e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.832577586440371e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 3.9766482316962276e-20
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.665065712368304e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.1538189227667818e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 5.996208139281258e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 8.592138930505789e-22
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.         1.00000001]
+fitness: 1.7979122187714184e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 9.518808434143863e-23
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.76081178337501e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 7.193340413013466e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000004 1.00000009]
+fitness: 2.176581796332722e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.202788088303184e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 3.829347642644811e-20
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.005510159980032e-21
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999999 0.99999999]
+fitness: 4.0845905155105694e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000001 1.00000002]
+fitness: 9.918848161453363e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999997 0.99999995]
+fitness: 7.033700730007529e-16
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.         0.99999999]
+fitness: 1.6677574687380487e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000001 1.00000001]
+fitness: 4.411206328310623e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.4178073753844136e-18
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999978 0.99999954]
+fitness: 6.911442869924593e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.         1.00000001]
+fitness: 1.079240989196006e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000012 1.00000025]
+fitness: 1.627250982737157e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.773109666937338e-19
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000001 1.00000001]
+fitness: 4.6325613575046336e-17
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999965 0.99999929]
+fitness: 1.2582809421842837e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999967 0.99999935]
+fitness: 1.0583553257498435e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9999999  0.99999981]
+fitness: 9.227106801391446e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000052 1.00000105]
+fitness: 2.7616612949041105e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999971 0.99999941]
+fitness: 8.704998629819064e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999967 0.99999934]
+fitness: 1.0930048889048796e-13
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999971 0.99999942]
+fitness: 8.435413971438486e-14
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999993 0.99999986]
+fitness: 4.628094475878191e-15
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9999988 0.9999976]
+fitness: 1.4346113306567045e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000237 1.00000474]
+fitness: 5.646243889624875e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000185 1.00000371]
+fitness: 3.4397659804153888e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000344 1.00000676]
+fitness: 1.3381441049516755e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00001869 1.00003682]
+fitness: 3.7889294445635856e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999385 0.9999877 ]
+fitness: 3.780762293643023e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000277 1.00000554]
+fitness: 7.662477764806142e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999354 0.99998798]
+fitness: 1.2365570223707387e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9999982  0.99999639]
+fitness: 3.2547357894528893e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000804 1.00001606]
+fitness: 6.458015537199706e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999535 0.99999084]
+fitness: 2.3507890868516984e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999766 0.99999536]
+fitness: 5.618045225548899e-12
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999358 0.99998747]
+fitness: 4.986199870308868e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99996944 0.99993881]
+fitness: 9.34320348554395e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99992812 0.99985624]
+fitness: 5.167376172790258e-09
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00001408 1.00002823]
+fitness: 1.9875400213823205e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998584 0.99997167]
+fitness: 2.00462240037208e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998636 0.99997285]
+fitness: 1.876710628885865e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998378 0.99996746]
+fitness: 2.6400877440426553e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00001222 1.00002571]
+fitness: 3.098353388556263e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999314 0.99998628]
+fitness: 4.7095890156402577e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000439 1.00000853]
+fitness: 2.5975600030021784e-11
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99979779 0.99959035]
+fitness: 4.3661098224728695e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99982629 0.99965224]
+fitness: 3.018967541321641e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999542 0.99999185]
+fitness: 1.2101717391792884e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99997998 0.99996187]
+fitness: 7.636358843173293e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99991952 0.99983825]
+fitness: 6.540874804553589e-09
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00004052 1.00008485]
+fitness: 3.089175092261751e-09
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.0000315  1.00006307]
+fitness: 9.928148577626948e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00011059 1.00022207]
+fitness: 1.23073731830622e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00001323 1.00002648]
+fitness: 1.7503660763954716e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99974595 0.9994729 ]
+fitness: 1.00869820792054e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998438 0.99996901]
+fitness: 2.50354834324859e-10
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99946749 0.99893582]
+fitness: 2.835948759184605e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9994644  0.99894342]
+fitness: 3.07430464669943e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99978207 0.9995998 ]
+fitness: 1.7427707994262055e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99989616 0.99978171]
+fitness: 2.2057357683632584e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00003648 1.00006791]
+fitness: 3.894196966865135e-09
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99954614 0.99913866]
+fitness: 4.191135589586832e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99925816 0.99851689]
+fitness: 5.503200784309948e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99920889 0.99844829]
+fitness: 7.151757078419309e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00069962 1.00138654]
+fitness: 5.068872772968029e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00007116 1.00014658]
+fitness: 6.8800089105264115e-09
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998436 0.99995332]
+fitness: 2.3933934441280382e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99968806 0.9992921 ]
+fitness: 8.048366464399874e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99915527 0.99828828]
+fitness: 7.663317792377889e-07
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99865274 0.9972096 ]
+fitness: 2.7695782036602185e-06
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9998144  0.99963378]
+fitness: 3.688445850507249e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99992183 0.99983248]
+fitness: 1.8617442824258404e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99983136 0.99968427]
+fitness: 7.474044971738519e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00011677 1.000211  ]
+fitness: 6.448125625700285e-08
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99941528 0.99882798]
+fitness: 3.427518767450177e-07
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99900537 0.99809136]
+fitness: 1.6232694066192448e-06
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.0010207  1.00192871]
+fitness: 2.33524969258719e-06
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99986761 0.99973471]
+fitness: 1.7555326030209412e-08
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99990467 0.99974354]
+fitness: 4.4209194583778697e-07
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9997845  0.99956933]
+fitness: 4.644967742697566e-08
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99941722 0.99890483]
+fitness: 8.302347589849267e-07
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00131121 1.00271446]
+fitness: 2.5350078103518118e-06
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99956343 0.99911629]
+fitness: 2.0215478595664178e-07
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9999189  0.99991925]
+fitness: 6.698494343812134e-07
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99961808 0.99921068]
+fitness: 2.115874275680655e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.63169764 0.39669826]
+fitness: 0.13619589657947057
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.40843699 0.16526821]
+fitness: 0.35018783997469427
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 548
+solution_found: [0.50902008 0.25772075]
+fitness: 0.2412519099778706
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.6066812  0.36481189]
+fitness: 0.1557560531081978
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 542
+solution_found: [0.55800492 0.30747021]
+fitness: 0.1968800927088345
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.44331899 0.18897505]
+fitness: 0.31560408362656117
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.5761475 0.3283655]
+fitness: 0.18093289996222
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 135
+solution_found: [0.25572833 0.0548129 ]
+fitness: 0.5651425923073141
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.16755273371851223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.38852702 0.14193907]
+fitness: 0.3820247463296896
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.61309758 0.3731028 ]
+fitness: 0.15046957448859355
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.67064627 0.44715761]
+fitness: 0.10915446934112265
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.43793885 0.18688409]
+fitness: 0.3183199615266051
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.52421418 0.27047905]
+fitness: 0.228239646073058
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.55617316 0.30715632]
+fitness: 0.1974541355732678
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.5706316  0.32238828]
+fitness: 0.18540189532431395
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.680739   0.45602886]
+fitness: 0.10736919303397241
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.69975762 0.4889704 ]
+fitness: 0.09019314164149166
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.56897498 0.31956963]
+fitness: 0.18751553810029523
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Rosenbrock
+epoch_stop: 126
+solution_found: [0.71561839 0.51135235]
+fitness: 0.08093025350653957
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2230506740150149
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 787
+solution_found: [0.64092939 0.4083269 ]
+fitness: 0.12953862652929438
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 754
+solution_found: [0.53249891 0.2833446 ]
+fitness: 0.21856169585224525
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 597
+solution_found: [0.42351158 0.17209585]
+fitness: 0.33761867299215764
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.76241626 0.58133559]
+fitness: 0.056446356700047766
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.69477813 0.48161391]
+fitness: 0.09328199246057732
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.61727207 0.37964126]
+fitness: 0.14667208792831327
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.68921284 0.47305344]
+fitness: 0.09697317009434236
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.68232271 0.46441519]
+fitness: 0.10105090063564755
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.63375452 0.400032  ]
+fitness: 0.13439586181304744
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.66148636 0.4356623 ]
+fitness: 0.11495320733990283
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 91
+solution_found: [0.38523519 0.14419358]
+fitness: 0.37971034734088366
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 109
+solution_found: [0.75552826 0.56990432]
+fitness: 0.05985081860941306
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [0.58639409 0.34243277]
+fitness: 0.17127298657848475
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 978
+solution_found: [0.76300573 0.5815714 ]
+fitness: 0.05620304879606708
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 95
+solution_found: [0.72665947 0.52723889]
+fitness: 0.07477826177120334
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.72456782 0.52445041]
+fitness: 0.07589292858644428
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 623
+solution_found: [0.6455566  0.41493126]
+fitness: 0.12595848001532553
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 91
+solution_found: [0.64645225 0.41525938]
+fitness: 0.12569356713390603
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.78755593 0.61950321]
+fitness: 0.045187411141208396
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 112
+solution_found: [0.81874087 0.66960865]
+fitness: 0.03290786410536015
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 209
+solution_found: [0.97957157 0.95950745]
+fitness: 0.0004176017941094995
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 103
+solution_found: [0.7397907  0.54701846]
+fitness: 0.06771626909093958
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 95
+solution_found: [0.62629606 0.3907207 ]
+fitness: 0.13988751974004485
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 111
+solution_found: [0.85915677 0.73774192]
+fitness: 0.019853497703513807
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 220
+solution_found: [0.81021023 0.6557321 ]
+fitness: 0.03607035569868961
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 185
+solution_found: [0.76769826 0.58935299]
+fitness: 0.053964104171583184
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 161
+solution_found: [0.8943357  0.79965388]
+fitness: 0.011168273012397823
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 182
+solution_found: [0.84354332 0.71095438]
+fitness: 0.02451601951795204
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.13871675955796847
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 153
+solution_found: [0.90723524 0.82291215]
+fitness: 0.0086079785298076
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 412
+solution_found: [0.99966736 0.99933269]
+fitness: 1.1110957784519754e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 201
+solution_found: [0.99536881 0.99074075]
+fitness: 2.14814840267296e-05
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 225
+solution_found: [0.99654616 0.99309079]
+fitness: 1.1947123012250294e-05
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 154
+solution_found: [0.81701547 0.6665185 ]
+fitness: 0.03358249660607249
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [0.89525801 0.80127717]
+fitness: 0.010975282954165864
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 218
+solution_found: [0.99998706 0.99997403]
+fitness: 1.683132662962834e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 286
+solution_found: [0.99976107 0.99952123]
+fitness: 5.7181270715733756e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 140
+solution_found: [0.91621806 0.83920607]
+fitness: 0.007025636465170007
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Rosenbrock
+epoch_stop: 183
+solution_found: [0.96910707 0.93910924]
+fitness: 0.0009547246841956243
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 277
+solution_found: [0.99999996 0.99999993]
+fitness: 1.4552219270162349e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 251
+solution_found: [0.99999999 0.99999998]
+fitness: 3.556963769217016e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 290
+solution_found: [0.99999979 0.99999958]
+fitness: 4.4832201907598726e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 314
+solution_found: [1. 1.]
+fitness: 2.5631948514411255e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2706420475875308
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 383
+solution_found: [1.00000001 1.00000001]
+fitness: 1.0903190900459319e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 334
+solution_found: [0.99998308 0.99996608]
+fitness: 2.868825277114523e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 289
+solution_found: [0.9999812  0.99996232]
+fitness: 3.540615623926744e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 319
+solution_found: [0.99999952 0.99999903]
+fitness: 2.33969340179025e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Rosenbrock
+epoch_stop: 333
+solution_found: [0.99978976 0.99957999]
+fitness: 4.421778413186532e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 209
+solution_found: [1.00000001 1.00000002]
+fitness: 1.0330344991731135e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 245
+solution_found: [0.99999999 0.99999998]
+fitness: 1.3547660771573482e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 394
+solution_found: [1.         1.00000001]
+fitness: 8.152630422920671e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 297
+solution_found: [1. 1.]
+fitness: 8.923988990312696e-30
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 201
+solution_found: [0.99999998 0.99999996]
+fitness: 3.9006795632082464e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 219
+solution_found: [0.99999996 0.99999993]
+fitness: 1.4231441221657347e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 318
+solution_found: [0.99999999 0.99999998]
+fitness: 1.3868019106698874e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1.         0.99999999]
+fitness: 9.045902645424158e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 307
+solution_found: [0.99999955 0.9999991 ]
+fitness: 2.04247992726298e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Rosenbrock
+epoch_stop: 203
+solution_found: [1.         1.00000001]
+fitness: 1.6010279213915877e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000001 1.00000003]
+fitness: 2.8262942914030074e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [1. 1.]
+fitness: 5.691838267486487e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 192
+solution_found: [0.99999755 0.99999511]
+fitness: 6.035992115371478e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 246
+solution_found: [1.00000009 1.00000019]
+fitness: 8.80469704735128e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 556
+solution_found: [1.         0.99999999]
+fitness: 2.4832266884168523e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 469
+solution_found: [1. 1.]
+fitness: 4.3821935777968375e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 479
+solution_found: [1.         1.00000001]
+fitness: 6.5947616990045455e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 174
+solution_found: [1.00000001 1.00000003]
+fitness: 2.0766298926403223e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 180
+solution_found: [1.         1.00000001]
+fitness: 1.053484586177173e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2946481444644461
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.11163436089864463
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 171
+solution_found: [0.99999998 0.99999997]
+fitness: 3.2007927256591375e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 244
+solution_found: [0.99999988 0.99999975]
+fitness: 1.520388027564195e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 194
+solution_found: [0.99999969 0.99999938]
+fitness: 9.680865146504603e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 579
+solution_found: [1.00000007 1.00000016]
+fitness: 3.9869296145541825e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2345554401112853
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 170
+solution_found: [0.99999535 0.99999067]
+fitness: 2.1724914159215456e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 958
+solution_found: [1. 1.]
+fitness: 1.8823993104175895e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 211
+solution_found: [0.99999998 0.99999996]
+fitness: 3.3663346785662067e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.12118471158895125
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 230
+solution_found: [1.00000001 1.00000002]
+fitness: 1.0580766350164535e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 154
+solution_found: [0.99999997 0.99999993]
+fitness: 1.1314307240917633e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 172
+solution_found: [1.00000063 1.00000126]
+fitness: 3.985444415283188e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 229
+solution_found: [1. 1.]
+fitness: 8.998622998405475e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 226
+solution_found: [1.00000002 1.00000004]
+fitness: 5.090197681999883e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 166
+solution_found: [0.99999986 0.99999972]
+fitness: 2.0194644354573265e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 180
+solution_found: [1.         0.99999999]
+fitness: 7.378620584770446e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 281
+solution_found: [1. 1.]
+fitness: 4.1113951265921846e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 140
+solution_found: [0.9999999  0.99999981]
+fitness: 9.713301874273136e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Rosenbrock
+epoch_stop: 204
+solution_found: [1. 1.]
+fitness: 9.324541574306331e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1. 1.]
+fitness: 6.098043921524835e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000346 1.00000715]
+fitness: 1.7736411156471777e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [0.9999998  0.99999961]
+fitness: 3.8848636824007946e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 178
+solution_found: [0.99999996 0.99999993]
+fitness: 1.3484864781425627e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [1.         1.00000001]
+fitness: 1.4450938245481145e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 128
+solution_found: [0.99999995 0.99999989]
+fitness: 1.130465404921432e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.20061659788514583
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.2442250337368124
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 214
+solution_found: [1.         1.00000001]
+fitness: 1.900256748745622e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Rosenbrock
+epoch_stop: 282
+solution_found: [0.99999993 0.99999986]
+fitness: 5.320515893366786e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.24549296496337814
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 158
+solution_found: [1.00000002 1.00000004]
+fitness: 4.733865947128684e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 226
+solution_found: [1. 1.]
+fitness: 4.231604110023869e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 196
+solution_found: [1.00000001 1.00000002]
+fitness: 3.4797689064892823e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 196
+solution_found: [1.00000001 1.00000001]
+fitness: 3.437642135719538e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 496
+solution_found: [0.99999886 0.99999773]
+fitness: 1.2914478209823782e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [0.99999996 0.99999992]
+fitness: 1.6717120428441521e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 248
+solution_found: [1. 1.]
+fitness: 8.011290458099486e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 161
+solution_found: [0.99999999 0.99999998]
+fitness: 1.2401931254977532e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Rosenbrock
+epoch_stop: 170
+solution_found: [1.00000019 1.00000038]
+fitness: 3.902545190178719e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 147
+solution_found: [0.99999993 0.99999987]
+fitness: 4.617796185585856e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 194
+solution_found: [0.99999987 0.99999974]
+fitness: 1.752524414188187e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 142
+solution_found: [0.99999993 0.99999985]
+fitness: 5.280764478601855e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 190
+solution_found: [1.00000001 1.00000002]
+fitness: 1.1307332118295622e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 398
+solution_found: [1.         0.99999999]
+fitness: 1.7730111995660305e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 179
+solution_found: [1. 1.]
+fitness: 5.891662973736887e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 147
+solution_found: [1.00000189 1.00000377]
+fitness: 3.553702629227138e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 150
+solution_found: [1.00000001 1.00000003]
+fitness: 2.4152668368044693e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 773
+solution_found: [1. 1.]
+fitness: 5.9702452496121384e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Rosenbrock
+epoch_stop: 553
+solution_found: [0.99999997 0.99999996]
+fitness: 5.743874439050795e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 174
+solution_found: [1.00000003 1.00000005]
+fitness: 6.973615601347912e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [0.99999999 0.99999999]
+fitness: 1.2880821339260597e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 409
+solution_found: [1. 1.]
+fitness: 1.6894365631034655e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 172
+solution_found: [0.99999984 0.99999966]
+fitness: 4.3397816204669437e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 140
+solution_found: [1.00000118 1.00000237]
+fitness: 1.4025714691635214e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 176
+solution_found: [1. 1.]
+fitness: 2.98744862092869e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.17841648271767924
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 168
+solution_found: [1. 1.]
+fitness: 5.937189699301536e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 164
+solution_found: [1. 1.]
+fitness: 2.3021191973165466e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Rosenbrock
+epoch_stop: 182
+solution_found: [0.99999993 0.99999986]
+fitness: 4.990190227917608e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [1. 1.]
+fitness: 6.777257824896897e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 166
+solution_found: [1.         0.99999999]
+fitness: 1.9862577448104707e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 177
+solution_found: [1. 1.]
+fitness: 5.1315894734401344e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [1. 1.]
+fitness: 8.011573823357229e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 193
+solution_found: [0.99999997 0.99999993]
+fitness: 1.3809728123375155e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 184
+solution_found: [1. 1.]
+fitness: 5.309097640233679e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 161
+solution_found: [1.00000011 1.00000023]
+fitness: 1.2647514775158424e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 163
+solution_found: [0.9999997  0.99999941]
+fitness: 9.03584186664422e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 224
+solution_found: [1. 1.]
+fitness: 2.351491352951137e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Rosenbrock
+epoch_stop: 148
+solution_found: [0.99999999 0.99999998]
+fitness: 2.1833543871979787e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.3312426285212662
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 213
+solution_found: [1. 1.]
+fitness: 2.3928151389118593e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 148
+solution_found: [1.00000002 1.00000004]
+fitness: 3.495673916254252e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 154
+solution_found: [1.00000003 1.00000005]
+fitness: 7.266083011518994e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 182
+solution_found: [1.         0.99999999]
+fitness: 1.6344456056512668e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 170
+solution_found: [1. 1.]
+fitness: 4.9724355652610084e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 150
+solution_found: [1. 1.]
+fitness: 7.6878369153281745e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 254
+solution_found: [1. 1.]
+fitness: 2.6640450299490937e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 185
+solution_found: [0.99999992 0.99999984]
+fitness: 7.0106333076264756e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [1. 1.]
+fitness: 1.928171854428921e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 223
+solution_found: [1. 1.]
+fitness: 2.9878893809707508e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 194
+solution_found: [1.         1.00000001]
+fitness: 9.913945879493852e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 223
+solution_found: [1. 1.]
+fitness: 1.9117277207763322e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 144
+solution_found: [0.99999999 0.99999998]
+fitness: 6.573636211726952e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 202
+solution_found: [1. 1.]
+fitness: 5.617883200147942e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 167
+solution_found: [1. 1.]
+fitness: 7.505139288680286e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 169
+solution_found: [1. 1.]
+fitness: 5.542980341941663e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 174
+solution_found: [1.00000001 1.00000002]
+fitness: 8.225696935498264e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 309
+solution_found: [0.99999999 0.99999999]
+fitness: 4.895613901336011e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.13862932501861217
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 165
+solution_found: [0.99999997 0.99999994]
+fitness: 1.5494419517040435e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 193
+solution_found: [1.         0.99999999]
+fitness: 6.445556308760533e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 208
+solution_found: [1.00000002 1.00000004]
+fitness: 4.206098627547358e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 168
+solution_found: [0.99999999 0.99999998]
+fitness: 1.4950910772862727e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 180
+solution_found: [1. 1.]
+fitness: 1.630373316695587e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 174
+solution_found: [1. 1.]
+fitness: 3.592031080869853e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 171
+solution_found: [0.99999976 0.99999958]
+fitness: 4.766102779723122e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 174
+solution_found: [1.00000001 1.00000002]
+fitness: 7.110749921861369e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 266
+solution_found: [0.99999999 0.99999997]
+fitness: 2.1039594988745718e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [1.         1.00000001]
+fitness: 1.2378737578714411e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 157
+solution_found: [0.99999999 0.99999997]
+fitness: 2.2110963096329003e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 220
+solution_found: [1. 1.]
+fitness: 1.8370236291003508e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 215
+solution_found: [1. 1.]
+fitness: 3.640518755978137e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 187
+solution_found: [1.00000001 1.00000001]
+fitness: 3.6436709072052965e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 221
+solution_found: [1. 1.]
+fitness: 2.990385526318892e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 147
+solution_found: [0.9999999  0.99999981]
+fitness: 1.0236310662173041e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 226
+solution_found: [1. 1.]
+fitness: 1.7354948039392e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.19134605527301513
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 198
+solution_found: [0.99999997 0.99999995]
+fitness: 9.785164971113024e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [1.00000003 1.00000005]
+fitness: 1.2072108933666585e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 173
+solution_found: [1.00000001 1.00000002]
+fitness: 1.3729643611574113e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000014 1.00000029]
+fitness: 3.4248285914404564e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 235
+solution_found: [1. 1.]
+fitness: 9.754423673388642e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 309
+solution_found: [1. 1.]
+fitness: 1.82304571905218e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 241
+solution_found: [1. 1.]
+fitness: 7.754471080166098e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 234
+solution_found: [1. 1.]
+fitness: 1.9796929839031953e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 279
+solution_found: [1. 1.]
+fitness: 5.1233239063119655e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 170
+solution_found: [1. 1.]
+fitness: 2.3747422970606127e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 176
+solution_found: [0.99999999 0.99999999]
+fitness: 6.529504385626967e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Rosenbrock
+epoch_stop: 552
+solution_found: [1. 1.]
+fitness: 2.4384895238830716e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [1.         0.99999999]
+fitness: 6.945098055558073e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 242
+solution_found: [0.99999999 0.99999999]
+fitness: 2.5782545265347547e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 305
+solution_found: [1. 1.]
+fitness: 6.488876670566044e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 188
+solution_found: [0.99999999 0.99999999]
+fitness: 5.1556931583034066e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 258
+solution_found: [1. 1.]
+fitness: 3.71634776758197e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.16423770635286022
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 192
+solution_found: [1. 1.]
+fitness: 5.3599968905720185e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 224
+solution_found: [1. 1.]
+fitness: 4.925559238386226e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 709
+solution_found: [1. 1.]
+fitness: 6.1506615960728754e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Rosenbrock
+epoch_stop: 208
+solution_found: [1.         1.00000001]
+fitness: 6.411958901487456e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 906
+solution_found: [1. 1.]
+fitness: 2.7108237486832415e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 432
+solution_found: [1. 1.]
+fitness: 0.0
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 246
+solution_found: [1. 1.]
+fitness: 7.61920789441986e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 326
+solution_found: [1.00000002 1.00000004]
+fitness: 3.873716875769655e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 229
+solution_found: [1. 1.]
+fitness: 4.10833115346481e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 219
+solution_found: [1. 1.]
+fitness: 3.00797028658473e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 216
+solution_found: [1. 1.]
+fitness: 7.134057611128649e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 0.09175082530301035
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 790
+solution_found: [1. 1.]
+fitness: 1.8835088709995802e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Rosenbrock
+epoch_stop: 332
+solution_found: [1. 1.]
+fitness: 7.451503472880735e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 261
+solution_found: [1. 1.]
+fitness: 1.4104507127865862e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 313
+solution_found: [1. 1.]
+fitness: 9.589412343047378e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 468
+solution_found: [1. 1.]
+fitness: 4.401830163561457e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 227
+solution_found: [1. 1.]
+fitness: 2.7963791793601084e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 230
+solution_found: [1. 1.]
+fitness: 6.0799491797093e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 207
+solution_found: [1. 1.]
+fitness: 4.694199143551937e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 238
+solution_found: [1. 1.]
+fitness: 1.0173930079288418e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 257
+solution_found: [0.99999999 0.99999998]
+fitness: 1.5578130809735683e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 357
+solution_found: [1. 1.]
+fitness: 1.6027675115157082e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Rosenbrock
+epoch_stop: 314
+solution_found: [1. 1.]
+fitness: 1.4897305509282287e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 250
+solution_found: [1.00000002 1.00000003]
+fitness: 3.3383637114099183e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 393
+solution_found: [1. 1.]
+fitness: 1.6886553752387284e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 308
+solution_found: [1. 1.]
+fitness: 1.6161232513536484e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 245
+solution_found: [1.00000001 1.00000003]
+fitness: 2.630790189965618e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 290
+solution_found: [1. 1.]
+fitness: 1.2225269304508935e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 244
+solution_found: [0.99999999 0.99999998]
+fitness: 1.342331022988952e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 373
+solution_found: [1. 1.]
+fitness: 4.004203720714622e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 233
+solution_found: [1.00000001 1.00000002]
+fitness: 8.580646843811556e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 258
+solution_found: [1.00000001 1.00000002]
+fitness: 1.666068740991163e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Rosenbrock
+epoch_stop: 273
+solution_found: [1.         1.00000001]
+fitness: 8.052001498931258e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 282
+solution_found: [1.         0.99999999]
+fitness: 6.760328786765097e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 291
+solution_found: [1. 1.]
+fitness: 1.1378366895935775e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 277
+solution_found: [1.         0.99999999]
+fitness: 1.0226785229288297e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 282
+solution_found: [1. 1.]
+fitness: 3.088651107064284e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 312
+solution_found: [1. 1.]
+fitness: 6.714695960086347e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 376
+solution_found: [1. 1.]
+fitness: 9.85568852561336e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 232
+solution_found: [1.         1.00000001]
+fitness: 3.7908633659198667e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 327
+solution_found: [1. 1.]
+fitness: 1.3459133994604452e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 363
+solution_found: [1. 1.]
+fitness: 4.033525062341256e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Rosenbrock
+epoch_stop: 395
+solution_found: [1. 1.]
+fitness: 6.289316826390957e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 360
+solution_found: [1. 1.]
+fitness: 8.405126083702957e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 410
+solution_found: [1. 1.]
+fitness: 8.143016694143894e-28
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 342
+solution_found: [1. 1.]
+fitness: 2.7723122616494457e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 347
+solution_found: [0.99999998 0.99999996]
+fitness: 3.406484276016594e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 301
+solution_found: [1. 1.]
+fitness: 9.652824223459182e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 263
+solution_found: [0.99999994 0.99999988]
+fitness: 3.9526830939639215e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 344
+solution_found: [1. 1.]
+fitness: 4.280192045543255e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000036 1.00000097]
+fitness: 6.393678123945008e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 439
+solution_found: [1. 1.]
+fitness: 7.685785850126212e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Rosenbrock
+epoch_stop: 334
+solution_found: [1. 1.]
+fitness: 4.086210853742866e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 423
+solution_found: [1. 1.]
+fitness: 7.923025438755942e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 381
+solution_found: [1. 1.]
+fitness: 7.904477986488127e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 430
+solution_found: [1. 1.]
+fitness: 5.072428850205607e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 377
+solution_found: [1. 1.]
+fitness: 1.7361008762425512e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 440
+solution_found: [1. 1.]
+fitness: 4.408337929626577e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 506
+solution_found: [1. 1.]
+fitness: 4.7018676756646473e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 288
+solution_found: [1.         0.99999999]
+fitness: 1.141715420995927e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 362
+solution_found: [1. 1.]
+fitness: 1.454362305664567e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 387
+solution_found: [1. 1.]
+fitness: 2.168843720044491e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Rosenbrock
+epoch_stop: 355
+solution_found: [1. 1.]
+fitness: 5.988403987548517e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 551
+solution_found: [1. 1.]
+fitness: 1.389847306444533e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 414
+solution_found: [0.99999998 0.99999995]
+fitness: 5.637365913283115e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 442
+solution_found: [1. 1.]
+fitness: 6.602150619519641e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 416
+solution_found: [1. 1.]
+fitness: 2.522915317456149e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 440
+solution_found: [1. 1.]
+fitness: 5.332963407853413e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 460
+solution_found: [1. 1.]
+fitness: 6.97640463989912e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 467
+solution_found: [1. 1.]
+fitness: 1.2279420775819437e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 547
+solution_found: [1. 1.]
+fitness: 1.558751135481849e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 377
+solution_found: [1. 1.]
+fitness: 2.2829809311351895e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Rosenbrock
+epoch_stop: 341
+solution_found: [0.99999999 0.99999997]
+fitness: 1.7884108725039782e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 538
+solution_found: [1. 1.]
+fitness: 1.700795205012981e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 636
+solution_found: [1. 1.]
+fitness: 5.307782684786019e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 489
+solution_found: [1. 1.]
+fitness: 5.990531334803758e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 580
+solution_found: [1. 1.]
+fitness: 9.129084633965956e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 524
+solution_found: [1. 1.]
+fitness: 2.842506325758262e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 457
+solution_found: [1. 1.]
+fitness: 5.63989285392624e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 499
+solution_found: [1. 1.]
+fitness: 5.265616984718211e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 680
+solution_found: [1. 1.]
+fitness: 8.040022151541624e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 838
+solution_found: [1. 1.]
+fitness: 2.6081713678869703e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Rosenbrock
+epoch_stop: 610
+solution_found: [1. 1.]
+fitness: 3.802449073216365e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 588
+solution_found: [1. 1.]
+fitness: 2.9427816376538383e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 666
+solution_found: [1. 1.]
+fitness: 4.922994281311765e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 624
+solution_found: [1. 1.]
+fitness: 1.0642854582777768e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 641
+solution_found: [1. 1.]
+fitness: 8.810015254318142e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 570
+solution_found: [1. 1.]
+fitness: 3.0134803659125276e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 765
+solution_found: [1. 1.]
+fitness: 8.305176913973389e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 657
+solution_found: [1. 1.]
+fitness: 4.105619974512675e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 612
+solution_found: [1. 1.]
+fitness: 2.3296472590462277e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 787
+solution_found: [1. 1.]
+fitness: 2.112618807988446e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Rosenbrock
+epoch_stop: 732
+solution_found: [1. 1.]
+fitness: 4.882377300583219e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 655
+solution_found: [1. 1.]
+fitness: 5.3468130194242405e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 903
+solution_found: [1. 1.]
+fitness: 1.385436964794402e-29
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.5447671461264158e-26
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 910
+solution_found: [1. 1.]
+fitness: 9.35642331007029e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 929
+solution_found: [1. 1.]
+fitness: 5.220052354180742e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 973
+solution_found: [1. 1.]
+fitness: 7.87920977452441e-25
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 870
+solution_found: [1. 1.]
+fitness: 2.082838962333852e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 932
+solution_found: [1. 1.]
+fitness: 8.223265344664539e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 7.099748146989106e-30
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Rosenbrock
+epoch_stop: 749
+solution_found: [1. 1.]
+fitness: 2.432511993797683e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.518423451560881e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.300495013388153e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 6.884043993217736e-27
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 906
+solution_found: [1. 1.]
+fitness: 1.413613139724678e-21
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 8.368160751937592e-24
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.5817594560522008e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.7600839149591355e-23
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 3.4719357875171614e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 5.956754614513253e-22
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.         1.00000001]
+fitness: 6.831884678277487e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 6.231776024504929e-20
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 5.200260258245419e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000008 1.00000016]
+fitness: 6.735165137610148e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.         1.00000001]
+fitness: 1.6518774845455437e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 5.001997252891705e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 4.438865989760444e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999999 0.99999999]
+fitness: 4.5447628172916113e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 3.2161759944290143e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 5.9517083688371806e-18
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 2.5062626913859364e-19
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999987 0.99999974]
+fitness: 1.7319699365654908e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000002 1.00000003]
+fitness: 4.1555009188190426e-16
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999967 0.99999933]
+fitness: 1.1215516936363947e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999992 0.99999984]
+fitness: 6.331685214769683e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000019 1.00000041]
+fitness: 1.1377930207007562e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999997 0.99999995]
+fitness: 1.3514014912772222e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1. 1.]
+fitness: 1.794383242743461e-15
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999983 0.99999966]
+fitness: 2.87503462694198e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999838 0.99999676]
+fitness: 2.63456030903532e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.0000006 1.0000012]
+fitness: 3.61435675832467e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000026 1.00000052]
+fitness: 6.651244400026681e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.0000001  1.00000021]
+fitness: 2.2286279267685048e-14
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999951 0.99999901]
+fitness: 2.422664669432694e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000535 1.00001067]
+fitness: 2.8642308370646193e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999446 0.99998899]
+fitness: 3.1184185723505906e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999848 0.99999695]
+fitness: 2.3500710088880323e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000261 1.00000537]
+fitness: 8.825637184092815e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999891 0.99999787]
+fitness: 1.4121873558144819e-12
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99986064 0.9997234 ]
+fitness: 1.9862157732420866e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000001 1.00000002]
+fitness: 9.287842951382106e-17
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99999069 0.99998279]
+fitness: 2.8411293574483676e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000229 1.00000541]
+fitness: 7.324629429571943e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00015077 1.00030158]
+fitness: 2.2732547838616272e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99989974 0.99980183]
+fitness: 1.0602289872251926e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00011368 1.00022739]
+fitness: 1.2922608340673204e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99994336 0.99988748]
+fitness: 3.263379003911637e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000061 1.00000121]
+fitness: 3.8671876503468813e-13
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00002486 1.00005013]
+fitness: 6.342763699435673e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000266 1.00000647]
+fitness: 1.391547257987288e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99997308 0.99994578]
+fitness: 7.395511194586962e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00025314 1.0005288 ]
+fitness: 1.1446137290629855e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00001233 1.00002468]
+fitness: 1.521635166745973e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99998857 0.99997714]
+fitness: 1.3071145725317487e-10
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99960165 0.99921029]
+fitness: 1.633587487776105e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00005899 1.00011629]
+fitness: 3.762025124909109e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99990629 0.99981559]
+fitness: 9.690017200700543e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00004937 1.00010136]
+fitness: 3.1220626556511134e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99983437 0.99966848]
+fitness: 2.744098451389462e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00015405 1.00031877]
+fitness: 3.507995480371778e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99954563 0.99910666]
+fitness: 2.2951535106700727e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00074752 1.00150373]
+fitness: 5.653956965782646e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99965928 0.99931429]
+fitness: 1.1801447248423189e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00009594 1.00018932]
+fitness: 9.862641043137704e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99992449 0.99984858]
+fitness: 5.71853935293105e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00000427 1.00000858]
+fitness: 1.835942835215276e-11
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00056491 1.00113624]
+fitness: 3.2284855743882936e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99996983 0.999948  ]
+fitness: 7.871594309003104e-09
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99944226 0.9989298 ]
+fitness: 5.132417094700161e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99951625 0.99910341]
+fitness: 7.3360798125292e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99967238 0.9993459 ]
+fitness: 1.0743713146103569e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99885035 0.99770452]
+fitness: 1.322330360056115e-06
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99951007 0.99909313]
+fitness: 7.693510558004252e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00029944 1.00056026]
+fitness: 2.3951073245851817e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99875119 0.99758365]
+fitness: 2.1950855061151055e-06
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00019091 1.00038188]
+fitness: 3.644700268868858e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00089915 1.00182009]
+fitness: 8.524517359501034e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.9996653  0.99931217]
+fitness: 1.464006893909742e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [0.99956131 0.99911934]
+fitness: 1.9364926959237939e-07
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00024328 1.00049068]
+fitness: 6.083575959592574e-08
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Rosenbrock
+epoch_stop: 999
+solution_found: [1.00077042 1.00156091]
+fitness: 6.314940298211578e-07
+

@@ -1,0 +1,9000 @@
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 7.90395800e-07 -9.99999487e-01]
+fitness: 3.0000000001837037
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 63
+solution_found: [-0.59999999 -0.40000002]
+fitness: 30.000000000000217
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.79555044e-06 -9.99999470e-01]
+fitness: 3.0000000007282623
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.05446243e-06 -9.99997906e-01]
+fitness: 3.0000000016969395
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [1.79999961 0.19999968]
+fitness: 84.00000000006241
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 4.10734735e-07 -9.99999676e-01]
+fitness: 3.000000000059218
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 74
+solution_found: [1.80001365 0.20000905]
+fitness: 84.00000002786597
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-2.29397697e-06 -1.00000127e+00]
+fitness: 3.000000001393207
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-8.28013288e-07 -1.00000039e+00]
+fitness: 3.00000000016828
+
+num_particles:10
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-5.48567995e-07 -1.00000019e+00]
+fitness: 3.000000000068883
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 2.73125599e-07 -9.99999944e-01]
+fitness: 3.000000000016832
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 5.49262457e-08 -9.99999994e-01]
+fitness: 3.0000000000006843
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.56716634e-06 -9.99999701e-01]
+fitness: 3.0000000007589387
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.81874942e-07 -1.00000006e+00]
+fitness: 3.000000000007641
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-3.17932011e-07 -1.00000011e+00]
+fitness: 3.000000000023144
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.34145683e-07 -9.99999789e-01]
+fitness: 3.0000000000175904
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-5.26975887e-08 -9.99999662e-01]
+fitness: 3.000000000053908
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 6.03593879e-07 -1.00000031e+00]
+fitness: 3.000000000173034
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 9.63504548e-08 -9.99999965e-01]
+fitness: 3.0000000000021005
+
+num_particles:20
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.60575154e-08 -9.99999999e-01]
+fitness: 3.0000000000000333
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.42789194e-08 -1.00000003e+00]
+fitness: 3.0000000000005524
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-5.24342752e-07 -1.00000019e+00]
+fitness: 3.000000000063522
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 7.97752027e-08 -1.00000003e+00]
+fitness: 3.000000000002469
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.95296567e-08 -9.99999921e-01]
+fitness: 3.0000000000030878
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-6.71920366e-07 -9.99999957e-01]
+fitness: 3.0000000001209135
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 1.29385070e-08 -9.99999879e-01]
+fitness: 3.0000000000060134
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 4.43788898e-09 -9.99999945e-01]
+fitness: 3.00000000000128
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-3.70540976e-08 -9.99999990e-01]
+fitness: 3.000000000000512
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.01098437e-08 -9.99999933e-01]
+fitness: 3.000000000001805
+
+num_particles:30
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 2.91499090e-08 -9.99999991e-01]
+fitness: 3.0000000000002283
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-1.35999919e-07 -1.00000013e+00]
+fitness: 3.0000000000083427
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 6.34856462e-08 -9.99999999e-01]
+fitness: 3.0000000000009654
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [-6.67678667e-09 -9.99999987e-01]
+fitness: 3.00000000000014
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.56100394e-09 -9.99999932e-01]
+fitness: 3.000000000001945
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 8.60070286e-08 -9.99999816e-01]
+fitness: 3.0000000000130274
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-1.09164923e-09 -9.99999984e-01]
+fitness: 3.000000000000056
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.19445760e-07 -9.99999949e-01]
+fitness: 3.000000000003409
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 1.51001860e-09 -9.99999942e-01]
+fitness: 3.0000000000014206
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.08175414e-07 -9.99999903e-01]
+fitness: 3.000000000004662
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-2.45333572e-08 -9.99999838e-01]
+fitness: 3.0000000000123124
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.70958634e-08 -9.99999988e-01]
+fitness: 3.000000000000107
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-1.06841737e-08 -1.00000002e+00]
+fitness: 3.000000000000121
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [ 1.39588233e-08 -9.99999999e-01]
+fitness: 3.000000000000019
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 2.23877431e-09 -1.00000001e+00]
+fitness: 3.000000000000061
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.95373552e-08 -1.00000003e+00]
+fitness: 3.0000000000003073
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-9.47742967e-08 -1.00000000e+00]
+fitness: 3.0000000000022156
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-8.14882919e-08 -1.00000024e+00]
+fitness: 3.0000000000221703
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-6.84182252e-08 -1.00000004e+00]
+fitness: 3.0000000000012292
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 6.92580601e-08 -9.99999897e-01]
+fitness: 3.000000000004227
+
+num_particles:50
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-6.82234900e-08 -9.99999919e-01]
+fitness: 3.0000000000052696
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 4.85942849e-09 -1.00000000e+00]
+fitness: 3.0000000000000346
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 4.31303524e-08 -1.00000000e+00]
+fitness: 3.000000000000506
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 100
+solution_found: [ 7.87863304e-09 -9.99999995e-01]
+fitness: 2.9999999999999285
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 3.88192588e-09 -1.00000001e+00]
+fitness: 2.9999999999999623
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-1.28437299e-08 -1.00000000e+00]
+fitness: 3.0000000000000866
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-1.99083513e-08 -1.00000000e+00]
+fitness: 3.000000000000068
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 1.68906225e-08 -1.00000000e+00]
+fitness: 3.000000000000081
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 65
+solution_found: [-2.02337983e-09 -1.00000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 2.70995597e-08 -9.99999982e-01]
+fitness: 3.0000000000001843
+
+num_particles:60
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 9.77054214e-08 -9.99999924e-01]
+fitness: 3.0000000000033005
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-5.35596319e-09 -9.99999991e-01]
+fitness: 3.0000000000000164
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-4.44728928e-08 -1.00000006e+00]
+fitness: 3.000000000001509
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-8.14197173e-08 -1.00000000e+00]
+fitness: 3.000000000001613
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-2.41608738e-07 -1.00000005e+00]
+fitness: 3.0000000000131792
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-4.22582453e-09 -1.00000001e+00]
+fitness: 3.0000000000000457
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 2.09745781e-08 -9.99999960e-01]
+fitness: 3.000000000000587
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-3.99369608e-08 -9.99999993e-01]
+fitness: 3.0000000000004743
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-9.40061925e-08 -1.00000005e+00]
+fitness: 3.000000000002301
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 80
+solution_found: [-7.0658564e-09 -1.0000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:70
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 6.89980174e-09 -9.99999995e-01]
+fitness: 2.999999999999983
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.12899363e-08 -9.99999965e-01]
+fitness: 3.0000000000004867
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 5.25038635e-08 -9.99999912e-01]
+fitness: 3.0000000000029865
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-5.22703533e-08 -1.00000001e+00]
+fitness: 3.0000000000006457
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 2.50089866e-09 -9.99999996e-01]
+fitness: 2.9999999999999414
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-5.2138381e-09 -1.0000000e+00]
+fitness: 2.999999999999967
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 1.51053037e-08 -1.00000001e+00]
+fitness: 3.0000000000002416
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 3.54760705e-08 -9.99999882e-01]
+fitness: 3.000000000005446
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 5.61211691e-08 -9.99999932e-01]
+fitness: 3.0000000000019673
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.94513628e-08 -1.00000000e+00]
+fitness: 3.0000000000000253
+
+num_particles:80
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.63849115e-08 -9.99999942e-01]
+fitness: 3.0000000000018034
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 4.30643720e-08 -9.99999966e-01]
+fitness: 3.000000000000613
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.12352045e-08 -9.99999990e-01]
+fitness: 3.000000000000128
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-6.12233024e-09 -9.99999979e-01]
+fitness: 3.0000000000002003
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 5.46981446e-08 -9.99999989e-01]
+fitness: 3.0000000000006963
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [-1.64067467e-08 -9.99999990e-01]
+fitness: 3.000000000000139
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-3.90573248e-08 -1.00000009e+00]
+fitness: 3.0000000000033893
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.51280019e-08 -1.00000000e+00]
+fitness: 3.0000000000001013
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-6.92239969e-09 -1.00000000e+00]
+fitness: 3.000000000000033
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-1.56075887e-08 -1.00000000e+00]
+fitness: 3.0000000000000577
+
+num_particles:90
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 2.41448296e-08 -9.99999955e-01]
+fitness: 3.0000000000007434
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [ 3.65592333e-09 -1.00000001e+00]
+fitness: 3.000000000000019
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 5.16676817e-08 -9.99999953e-01]
+fitness: 3.000000000001085
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-4.82771145e-08 -9.99999990e-01]
+fitness: 3.0000000000007834
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 3.17183390e-08 -9.99999976e-01]
+fitness: 3.0000000000003633
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.78089276e-08 -9.99999996e-01]
+fitness: 3.0000000000000564
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-8.39466106e-09 -1.00000000e+00]
+fitness: 2.999999999999981
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-5.64697105e-09 -1.00000001e+00]
+fitness: 3.0000000000000484
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 6.37372498e-08 -1.00000007e+00]
+fitness: 3.000000000004075
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 3.22690199e-08 -9.99999936e-01]
+fitness: 3.0000000000016116
+
+num_particles:100
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-3.01052201e-09 -9.99999999e-01]
+fitness: 2.9999999999999893
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 20
+solution_found: [ 1.05319695e-08 -9.99999993e-01]
+fitness: 3.000000000000012
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 4.70567697e-09 -1.00000004e+00]
+fitness: 3.0000000000006297
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 251
+solution_found: [-2.79352503e-08 -1.00000000e+00]
+fitness: 3.0000000000002225
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 17
+solution_found: [-1.32096625e-08 -9.99999895e-01]
+fitness: 3.0000000000051226
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 16
+solution_found: [ 1.32311026e-08 -9.99999948e-01]
+fitness: 3.0000000000011346
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 1.42993536e-08 -1.00000000e+00]
+fitness: 3.000000000000025
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 2.59717052e-09 -1.00000001e+00]
+fitness: 3.000000000000078
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 641
+solution_found: [ 1.18889374e-08 -1.00000010e+00]
+fitness: 3.000000000004859
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [ 5.50648142e-09 -9.99999991e-01]
+fitness: 3.000000000000039
+
+num_particles:40
+inertia:0.1
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 20
+solution_found: [ 1.17322810e-09 -9.99999989e-01]
+fitness: 3.000000000000038
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [-1.04137037e-06 -1.00000145e+00]
+fitness: 3.000000000860319
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 22
+solution_found: [-1.92216587e-10 -9.99999972e-01]
+fitness: 3.000000000000333
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [ 4.62865371e-09 -1.00000021e+00]
+fitness: 3.0000000000195226
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 24
+solution_found: [ 1.02023874e-08 -9.99999998e-01]
+fitness: 2.9999999999999596
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 3.71722447e-07 -1.00000006e+00]
+fitness: 3.000000000040858
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [ 9.04863168e-07 -9.99998968e-01]
+fitness: 3.000000000464645
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 1.38133795e-07 -9.99999669e-01]
+fitness: 3.0000000000423372
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [ 3.30952593e-07 -1.00000004e+00]
+fitness: 3.0000000000309868
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 18
+solution_found: [-2.66326564e-07 -1.00000008e+00]
+fitness: 3.0000000000161253
+
+num_particles:40
+inertia:0.2
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 19
+solution_found: [ 7.01405141e-07 -1.00000003e+00]
+fitness: 3.0000000001281286
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 33
+solution_found: [ 2.82422609e-09 -9.99999991e-01]
+fitness: 3.0000000000000444
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 24
+solution_found: [ 2.55606874e-07 -9.99999665e-01]
+fitness: 3.000000000046354
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 32
+solution_found: [ 3.74618093e-09 -1.00000000e+00]
+fitness: 2.999999999999959
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 25
+solution_found: [ 8.08558938e-08 -9.99999958e-01]
+fitness: 3.0000000000016835
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 24
+solution_found: [-1.22072263e-07 -1.00000014e+00]
+fitness: 3.0000000000085465
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 24
+solution_found: [ 1.10432743e-07 -9.99999984e-01]
+fitness: 3.000000000002836
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 25
+solution_found: [ 4.63771062e-07 -9.99999719e-01]
+fitness: 3.000000000060067
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 23
+solution_found: [ 3.21574492e-07 -9.99999862e-01]
+fitness: 3.000000000024686
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [-4.74123518e-09 -9.99999998e-01]
+fitness: 2.9999999999999756
+
+num_particles:40
+inertia:0.3
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 23
+solution_found: [-2.46872592e-07 -1.00000015e+00]
+fitness: 3.0000000000170477
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 30
+solution_found: [ 1.75949562e-07 -1.00000027e+00]
+fitness: 3.0000000000494316
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 32
+solution_found: [-2.46760354e-07 -9.99999998e-01]
+fitness: 3.000000000015499
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 34
+solution_found: [ 1.26721010e-08 -9.99999985e-01]
+fitness: 3.0000000000001066
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 34
+solution_found: [ 3.07427819e-08 -1.00000002e+00]
+fitness: 3.000000000000716
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 31
+solution_found: [-2.06283291e-07 -1.00000011e+00]
+fitness: 3.000000000011099
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 32
+solution_found: [ 5.93672385e-08 -9.99999633e-01]
+fitness: 3.0000000000545257
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 30
+solution_found: [ 4.37137643e-07 -9.99999856e-01]
+fitness: 3.0000000000435163
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 28
+solution_found: [ 1.09176409e-07 -9.99999828e-01]
+fitness: 3.0000000000117626
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 32
+solution_found: [-8.37506378e-08 -1.00000002e+00]
+fitness: 3.000000000001571
+
+num_particles:40
+inertia:0.4
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 32
+solution_found: [ 6.94426495e-08 -9.99999897e-01]
+fitness: 3.0000000000042513
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.01369922e-07 -1.00000012e+00]
+fitness: 3.0000000000108757
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-7.33808556e-09 -1.00000003e+00]
+fitness: 3.000000000000258
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 74
+solution_found: [ 3.33927297e-07 -9.99999802e-01]
+fitness: 3.000000000030796
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [-2.69269858e-09 -1.00000000e+00]
+fitness: 2.9999999999999565
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-6.86896700e-09 -9.99999995e-01]
+fitness: 2.9999999999999933
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 2.32446984e-08 -1.00000004e+00]
+fitness: 3.000000000001001
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 4.12735065e-08 -9.99999975e-01]
+fitness: 3.000000000000517
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-5.43701622e-08 -9.99999934e-01]
+fitness: 3.000000000003411
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.30480825e-07 -9.99999940e-01]
+fitness: 3.0000000000041442
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-1.33235587e-08 -1.00000001e+00]
+fitness: 3.0000000000000435
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 58
+solution_found: [-1.16312736e-08 -1.00000001e+00]
+fitness: 3.000000000000042
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [-9.06529062e-08 -1.00000003e+00]
+fitness: 3.0000000000018963
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 61
+solution_found: [-5.95355806e-09 -1.00000000e+00]
+fitness: 3.0000000000000124
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 1.23312669e-07 -1.00000004e+00]
+fitness: 3.0000000000053424
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [-7.49588136e-08 -1.00000001e+00]
+fitness: 3.0000000000012297
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [ 2.38856997e-08 -9.99999977e-01]
+fitness: 3.0000000000002784
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 1.65888473e-07 -9.99999913e-01]
+fitness: 3.000000000007123
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-2.37517212e-09 -9.99999939e-01]
+fitness: 3.0000000000016134
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 61
+solution_found: [-2.73850928e-08 -1.00000001e+00]
+fitness: 3.0000000000001537
+
+num_particles:40
+inertia:0.6
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [-1.39028772e-07 -1.00000010e+00]
+fitness: 3.0000000000062967
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 91
+solution_found: [ 1.30277611e-09 -9.99999996e-01]
+fitness: 2.9999999999999925
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 92
+solution_found: [-5.8543724e-09 -1.0000000e+00]
+fitness: 2.9999999999999667
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 90
+solution_found: [ 1.10866975e-08 -9.99999994e-01]
+fitness: 2.999999999999973
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [ 1.99882672e-10 -1.00000002e+00]
+fitness: 3.0000000000002136
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 87
+solution_found: [ 1.14540201e-08 -9.99999999e-01]
+fitness: 3.0000000000000058
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 93
+solution_found: [ 1.01281150e-08 -9.99999993e-01]
+fitness: 2.999999999999975
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 96
+solution_found: [ 2.28963803e-09 -1.00000000e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 88
+solution_found: [-2.22561941e-09 -9.99999970e-01]
+fitness: 3.0000000000003784
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 91
+solution_found: [ 1.69216371e-08 -1.00000000e+00]
+fitness: 3.00000000000004
+
+num_particles:40
+inertia:0.7
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 80
+solution_found: [ 1.13597096e-08 -9.99999958e-01]
+fitness: 3.0000000000006275
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 197
+solution_found: [ 2.8693071e-09 -1.0000000e+00]
+fitness: 2.9999999999999396
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 175
+solution_found: [ 4.05226621e-09 -1.00000000e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 182
+solution_found: [-7.17067815e-09 -1.00000000e+00]
+fitness: 2.9999999999999654
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 183
+solution_found: [-1.07035680e-09 -9.99999993e-01]
+fitness: 2.9999999999999463
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 170
+solution_found: [ 1.01493055e-08 -1.00000000e+00]
+fitness: 2.999999999999955
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 171
+solution_found: [ 3.30105937e-09 -1.00000001e+00]
+fitness: 2.9999999999999485
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 189
+solution_found: [-7.46048066e-09 -1.00000000e+00]
+fitness: 2.9999999999999467
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 165
+solution_found: [-6.06254706e-09 -1.00000001e+00]
+fitness: 2.9999999999999387
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 176
+solution_found: [-3.77385726e-09 -1.00000001e+00]
+fitness: 2.999999999999946
+
+num_particles:40
+inertia:0.8
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 190
+solution_found: [-5.79530584e-09 -1.00000000e+00]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 893
+solution_found: [-8.86929691e-10 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 760
+solution_found: [-4.09521581e-10 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 847
+solution_found: [-2.83049955e-09 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 748
+solution_found: [-6.77167015e-09 -1.00000001e+00]
+fitness: 2.9999999999999303
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 747
+solution_found: [-5.74688944e-09 -1.00000000e+00]
+fitness: 2.9999999999999294
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 946
+solution_found: [ 9.36721761e-10 -9.99999997e-01]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 926
+solution_found: [-5.01589797e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 845
+solution_found: [-5.04479641e-09 -1.00000001e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 847
+solution_found: [-2.78207684e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.9
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 862
+solution_found: [-3.84621762e-09 -1.00000000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.0051946  -0.99944107]
+fitness: 3.0075369913361043
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 0.00129425 -1.0035909 ]
+fitness: 3.007046184940749
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.53323909e-06 -1.00158451e+00]
+fitness: 3.00108551533871
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 0.00116976 -1.00087384]
+fitness: 3.000897931838419
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.00496726 -1.00175281]
+fitness: 3.005681831872253
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.00605898 -0.99857295]
+fitness: 3.011924053197751
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.00530115 -1.00022855]
+fitness: 3.0068371876582445
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.17859859e-04 -1.00193626e+00]
+fitness: 3.002224876118857
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.00132107 -1.0023065 ]
+fitness: 3.00208459715721
+
+num_particles:40
+inertia:1.0
+cognition:1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.00266623 -1.00071265]
+fitness: 3.0016022112766323
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 8.90441967e-07 -9.99999416e-01]
+fitness: 3.0000000002347766
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.15795132e-07 -1.00000003e+00]
+fitness: 3.0000000000030287
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-4.75641860e-08 -1.00000041e+00]
+fitness: 3.0000000000689613
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-2.04604680e-07 -1.00000001e+00]
+fitness: 3.0000000000102185
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.16460834e-07 -1.00000027e+00]
+fitness: 3.0000000000422085
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-3.20826028e-07 -9.99999856e-01]
+fitness: 3.000000000044868
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 9.177196180136036
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.94544806e-07 -1.00000019e+00]
+fitness: 3.0000000000173506
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 8.08232583e-08 -1.00000046e+00]
+fitness: 3.00000000009931
+
+num_particles:40
+inertia:0.5
+cognition:0.1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.17084840e-07 -1.00000016e+00]
+fitness: 3.0000000000100915
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-3.91387748e-07 -9.99999811e-01]
+fitness: 3.0000000000700786
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [0 0]
+fitness: 5.6536639431512095
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 2.20281942e-07 -1.00000017e+00]
+fitness: 3.0000000000323763
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 3.19428102e-08 -9.99999995e-01]
+fitness: 3.000000000000252
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-1.75729823e-08 -1.00000005e+00]
+fitness: 3.0000000000008926
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 3.11390152e-07 -9.99999710e-01]
+fitness: 3.0000000000411493
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.82148588e-07 -1.00000031e+00]
+fitness: 3.0000000000370197
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-2.01147322e-07 -9.99999849e-01]
+fitness: 3.000000000026651
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.55082766e-08 -1.00000006e+00]
+fitness: 3.000000000001564
+
+num_particles:40
+inertia:0.5
+cognition:0.2
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-1.04905811e-08 -1.00000014e+00]
+fitness: 3.000000000008262
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 2.68072559e-07 -9.99999850e-01]
+fitness: 3.0000000000191784
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.22137047e-07 -1.00000004e+00]
+fitness: 3.000000000003396
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 7.16353955e-08 -9.99999933e-01]
+fitness: 3.000000000002218
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 6.88413422e-08 -1.00000008e+00]
+fitness: 3.0000000000052505
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 2.25189064e-08 -1.00000001e+00]
+fitness: 3.0000000000002287
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-1.14901212e-07 -1.00000045e+00]
+fitness: 3.0000000000787406
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 3.42686928e-07 -1.00000003e+00]
+fitness: 3.000000000032104
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.02458193e-07 -9.99999920e-01]
+fitness: 3.0000000000035785
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.74839368e-07 -1.00000010e+00]
+fitness: 3.0000000000161773
+
+num_particles:40
+inertia:0.5
+cognition:0.3
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.23044835e-09 -1.00000002e+00]
+fitness: 3.000000000000174
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 3.19010867e-07 -9.99999871e-01]
+fitness: 3.0000000000239813
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 35
+solution_found: [-1.34544905e-08 -1.00000004e+00]
+fitness: 3.0000000000005618
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 265
+solution_found: [ 4.75611273e-07 -9.99999752e-01]
+fitness: 3.0000000000580345
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-2.77020882e-07 -1.00000021e+00]
+fitness: 3.0000000000252918
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.56835743e-07 -9.99999950e-01]
+fitness: 3.0000000000089484
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.55325639e-07 -9.99999968e-01]
+fitness: 3.0000000000075646
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.60839190e-08 -9.99999967e-01]
+fitness: 3.0000000000004965
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.00243609e-07 -1.00000012e+00]
+fitness: 3.0000000000108327
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.03715084e-07 -1.00000016e+00]
+fitness: 3.0000000000104725
+
+num_particles:40
+inertia:0.5
+cognition:0.4
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-2.92355997e-07 -1.00000027e+00]
+fitness: 3.0000000000359965
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-1.81797450e-08 -1.00000015e+00]
+fitness: 3.000000000008919
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-2.98325602e-07 -1.00000024e+00]
+fitness: 3.0000000000323026
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.76514729e-07 -9.99999989e-01]
+fitness: 3.0000000000083453
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-3.50150830e-07 -1.00000025e+00]
+fitness: 3.0000000000392255
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.63297301e-07 -9.99999901e-01]
+fitness: 3.000000000014451
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 1.94689845e-07 -9.99999791e-01]
+fitness: 3.000000000019566
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-2.03676351e-08 -9.99999958e-01]
+fitness: 3.0000000000010223
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 2.62661063e-07 -9.99999974e-01]
+fitness: 3.000000000016171
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 343
+solution_found: [-1.15937918e-07 -1.00000020e+00]
+fitness: 3.0000000000160383
+
+num_particles:40
+inertia:0.5
+cognition:0.5
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.50707367e-07 -9.99999932e-01]
+fitness: 3.000000000005534
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.05544422e-08 -1.00000003e+00]
+fitness: 3.0000000000005755
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-7.11969017e-08 -1.00000003e+00]
+fitness: 3.0000000000012164
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-9.84037181e-08 -1.00000001e+00]
+fitness: 3.0000000000022586
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 2.59083123e-07 -1.00000006e+00]
+fitness: 3.0000000000222005
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 1.55086471e-07 -9.99999995e-01]
+fitness: 3.0000000000058717
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-1.58292009e-07 -1.00000007e+00]
+fitness: 3.000000000006078
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 3.71659387e-09 -1.00000000e+00]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-9.95469804e-08 -9.99999885e-01]
+fitness: 3.00000000001072
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-3.89998961e-08 -9.99999899e-01]
+fitness: 3.0000000000056177
+
+num_particles:40
+inertia:0.5
+cognition:0.6
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.90681405e-08 -1.00000004e+00]
+fitness: 3.0000000000009153
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-3.40742051e-08 -9.99999974e-01]
+fitness: 3.000000000000735
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 287
+solution_found: [-2.71384367e-08 -9.99999996e-01]
+fitness: 3.0000000000001363
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-2.46821789e-07 -1.00000024e+00]
+fitness: 3.000000000027716
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 1.07332729e-07 -9.99999810e-01]
+fitness: 3.0000000000140985
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-4.78163062e-08 -9.99999920e-01]
+fitness: 3.00000000000416
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.31954354e-07 -1.00000006e+00]
+fitness: 3.000000000004306
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-2.64621239e-08 -1.00000003e+00]
+fitness: 3.0000000000004614
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-1.06319399e-09 -1.00000002e+00]
+fitness: 3.000000000000176
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 6.53319215e-08 -9.99999972e-01]
+fitness: 3.0000000000009415
+
+num_particles:40
+inertia:0.5
+cognition:0.7
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-3.33879271e-08 -1.00000003e+00]
+fitness: 3.0000000000003606
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-6.08589872e-08 -1.00000002e+00]
+fitness: 3.0000000000009432
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.10723985e-07 -1.00000010e+00]
+fitness: 3.000000000020509
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 8.54337068e-08 -9.99999887e-01]
+fitness: 3.0000000000053446
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.81174357e-07 -9.99999950e-01]
+fitness: 3.0000000000074056
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-4.13810694e-08 -1.00000003e+00]
+fitness: 3.0000000000005262
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 5.89937332e-08 -9.99999857e-01]
+fitness: 3.0000000000078724
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 1.42041021e-07 -1.00000006e+00]
+fitness: 3.000000000008422
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-5.51506126e-08 -9.99999864e-01]
+fitness: 3.0000000000103695
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 2.71239135e-08 -9.99999954e-01]
+fitness: 3.000000000000838
+
+num_particles:40
+inertia:0.5
+cognition:0.8
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-3.59549320e-08 -1.00000002e+00]
+fitness: 3.000000000000316
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-7.06947957e-08 -1.00000001e+00]
+fitness: 3.0000000000011866
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 6.18245565e-08 -9.99999985e-01]
+fitness: 3.000000000000875
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.34877282e-07 -1.00000006e+00]
+fitness: 3.000000000004278
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.49741534e-08 -9.99999972e-01]
+fitness: 3.0000000000003104
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.11328869e-07 -1.00000006e+00]
+fitness: 3.0000000000031286
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 1.93621910e-09 -1.00000009e+00]
+fitness: 3.0000000000038702
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 8.86767622e-08 -1.00000016e+00]
+fitness: 3.0000000000161497
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 9.04667783e-07 -9.99999195e-01]
+fitness: 3.000000000328859
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.14362621e-08 -9.99999985e-01]
+fitness: 3.0000000000001115
+
+num_particles:40
+inertia:0.5
+cognition:0.9
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-5.73441455e-07 -1.00000030e+00]
+fitness: 3.000000000084126
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-7.54857839e-08 -1.00000000e+00]
+fitness: 3.0000000000013665
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 5.66574037e-08 -9.99999909e-01]
+fitness: 3.000000000003261
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 5.87623457e-10 -9.99999978e-01]
+fitness: 3.0000000000002083
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-2.80919898e-08 -1.00000003e+00]
+fitness: 3.000000000000435
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-5.83580364e-07 -1.00000028e+00]
+fitness: 3.000000000084095
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-1.29382066e-08 -1.00000001e+00]
+fitness: 3.000000000000039
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 8.80420068e-09 -1.00000000e+00]
+fitness: 3.000000000000016
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.14084395e-07 -9.99999923e-01]
+fitness: 3.000000000003917
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-7.44281732e-08 -9.99999946e-01]
+fitness: 3.000000000003547
+
+num_particles:40
+inertia:0.5
+cognition:1.0
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 2.40683903e-08 -9.99999994e-01]
+fitness: 3.0000000000001124
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 4.21021444e-09 -1.00000042e+00]
+fitness: 3.000000000075838
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 8.33808938e-08 -1.00000007e+00]
+fitness: 3.0000000000047184
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-9.17758866e-08 -9.99999979e-01]
+fitness: 3.0000000000027343
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-2.62982743e-08 -1.00000001e+00]
+fitness: 3.000000000000183
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-2.48716972e-07 -1.00000017e+00]
+fitness: 3.0000000000190004
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-4.24204784e-08 -1.00000010e+00]
+fitness: 3.000000000003837
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 2.57264425e-08 -9.99999973e-01]
+fitness: 3.000000000000342
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.07716321e-07 -1.00000008e+00]
+fitness: 3.0000000000075455
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-2.23529414e-08 -9.99999998e-01]
+fitness: 3.000000000000108
+
+num_particles:40
+inertia:0.5
+cognition:1.1
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 4.18554210e-08 -1.00000005e+00]
+fitness: 3.0000000000019287
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-5.19693399e-08 -1.00000002e+00]
+fitness: 3.0000000000006333
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-1.39821046e-08 -9.99999979e-01]
+fitness: 3.0000000000002824
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 4.45016161e-08 -9.99999929e-01]
+fitness: 3.000000000001935
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 5.05058269e-08 -9.99999903e-01]
+fitness: 3.0000000000036664
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 4.38401013e-08 -1.00000006e+00]
+fitness: 3.000000000002917
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 1.03740602e-07 -9.99999956e-01]
+fitness: 3.000000000002527
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 67
+solution_found: [ 1.58574904e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-1.21904319e-07 -1.00000021e+00]
+fitness: 3.0000000000166755
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-2.61127300e-08 -9.99999965e-01]
+fitness: 3.000000000000832
+
+num_particles:40
+inertia:0.5
+cognition:1.2
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-3.28742304e-09 -9.99999978e-01]
+fitness: 3.000000000000156
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-3.49233374e-08 -9.99999975e-01]
+fitness: 3.0000000000007327
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.73797681e-08 -9.99999902e-01]
+fitness: 3.000000000003793
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 1.10333796e-08 -1.00000003e+00]
+fitness: 3.0000000000004703
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 6.10028466e-09 -9.99999967e-01]
+fitness: 3.0000000000004525
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 2.01076679e-09 -1.00000003e+00]
+fitness: 3.000000000000485
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 1.22299463e-07 -9.99999995e-01]
+fitness: 3.0000000000036935
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [ 6.60456710e-09 -1.00000002e+00]
+fitness: 3.000000000000231
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-3.20442433e-08 -9.99999989e-01]
+fitness: 3.0000000000003446
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 6.48088673e-08 -1.00000007e+00]
+fitness: 3.0000000000043383
+
+num_particles:40
+inertia:0.5
+cognition:1.3
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-9.47447543e-08 -1.00000001e+00]
+fitness: 3.000000000002088
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-2.61353002e-08 -1.00000004e+00]
+fitness: 3.0000000000005413
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-1.20737264e-07 -9.99999966e-01]
+fitness: 3.0000000000050884
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.11513601e-09 -9.99999995e-01]
+fitness: 2.9999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [ 1.57556647e-08 -1.00000001e+00]
+fitness: 3.0000000000001146
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-3.98400812e-08 -1.00000001e+00]
+fitness: 3.0000000000003637
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 3.28573335e-08 -9.99999971e-01]
+fitness: 3.0000000000003686
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 4.23242536e-10 -9.99999995e-01]
+fitness: 2.999999999999964
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 1.84821386e-07 -9.99999929e-01]
+fitness: 3.0000000000079194
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.03546739e-08 -1.00000001e+00]
+fitness: 3.0000000000000226
+
+num_particles:40
+inertia:0.5
+cognition:1.4
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 7.91671726e-09 -9.99999997e-01]
+fitness: 3.000000000000012
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [ 2.99973064e-09 -9.99999969e-01]
+fitness: 3.0000000000003317
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 1.78029633e-07 -1.00000004e+00]
+fitness: 3.0000000000098694
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-5.89212081e-08 -1.00000002e+00]
+fitness: 3.0000000000008185
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-1.99154100e-08 -1.00000003e+00]
+fitness: 3.0000000000003597
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-2.45054242e-07 -1.00000008e+00]
+fitness: 3.0000000000136344
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 3.57324962e-08 -9.99999998e-01]
+fitness: 3.0000000000003224
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.87663714e-08 -1.00000001e+00]
+fitness: 3.0000000000002025
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [-8.61024967e-11 -1.00000000e+00]
+fitness: 3.000000000000022
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-3.56684954e-08 -9.99999881e-01]
+fitness: 3.0000000000073817
+
+num_particles:40
+inertia:0.5
+cognition:1.5
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 4.39724374e-08 -9.99999961e-01]
+fitness: 3.0000000000008344
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 1.68073837e-07 -1.00000002e+00]
+fitness: 3.000000000007807
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 4.91485505e-09 -9.99999995e-01]
+fitness: 2.999999999999978
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 1.09784154e-08 -9.99999990e-01]
+fitness: 3.0000000000000537
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 117
+solution_found: [ 2.16512978e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 8.72808245e-08 -1.00000009e+00]
+fitness: 3.000000000006896
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [ 4.29347241e-09 -9.99999979e-01]
+fitness: 3.000000000000204
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [-1.46598766e-08 -9.99999998e-01]
+fitness: 3.00000000000007
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [ 7.52095136e-09 -9.99999989e-01]
+fitness: 3.000000000000029
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 7.92046812e-09 -9.99999982e-01]
+fitness: 3.000000000000046
+
+num_particles:40
+inertia:0.5
+cognition:1.6
+social:1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-2.00629680e-07 -9.99999983e-01]
+fitness: 3.0000000000110316
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-7.39775665e-09 -9.99999991e-01]
+fitness: 3.000000000000014
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [-5.93190319e-08 -1.00000001e+00]
+fitness: 3.000000000000773
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [ 2.93856035e-09 -9.99999989e-01]
+fitness: 2.9999999999999893
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-2.05858525e-08 -1.00000001e+00]
+fitness: 3.0000000000000355
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 7.07766853e-09 -9.99999991e-01]
+fitness: 2.9999999999999947
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-1.12258638e-07 -1.00000012e+00]
+fitness: 3.000000000006124
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 75
+solution_found: [ 4.19798147e-09 -9.99999996e-01]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-1.20271214e-08 -1.00000001e+00]
+fitness: 3.0000000000000298
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 4.11005525e-08 -9.99999978e-01]
+fitness: 3.0000000000004428
+
+num_particles:40
+inertia:0.5
+cognition:1.7
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-2.18888977e-08 -1.00000001e+00]
+fitness: 3.0000000000001035
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 58
+solution_found: [ 3.40336193e-09 -1.00000001e+00]
+fitness: 3.0000000000001146
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-1.06474751e-07 -1.00000003e+00]
+fitness: 3.0000000000025704
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 8.83198150e-08 -9.99999941e-01]
+fitness: 3.0000000000023697
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-7.08343742e-08 -1.00000005e+00]
+fitness: 3.0000000000016027
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-3.27568641e-08 -1.00000005e+00]
+fitness: 3.000000000001215
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [-1.58987449e-08 -9.99999977e-01]
+fitness: 3.0000000000003566
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 115
+solution_found: [-2.82205908e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 68
+solution_found: [-4.50863595e-09 -1.00000000e+00]
+fitness: 2.9999999999999485
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 71
+solution_found: [-1.25268101e-09 -1.00000000e+00]
+fitness: 2.99999999999994
+
+num_particles:40
+inertia:0.5
+cognition:1.8
+social:1
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 2.00711405e-08 -1.00000002e+00]
+fitness: 3.0000000000002296
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [-5.27707655e-09 -1.00000001e+00]
+fitness: 3.0000000000000258
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 83
+solution_found: [ 7.83450878e-09 -1.00000000e+00]
+fitness: 2.9999999999999347
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [-6.37953550e-09 -1.00000001e+00]
+fitness: 3.000000000000006
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-1.56365402e-08 -1.00000002e+00]
+fitness: 3.000000000000216
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [-3.35818654e-08 -1.00000002e+00]
+fitness: 3.000000000000279
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-2.36810913e-09 -9.99999978e-01]
+fitness: 3.0000000000002722
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [-1.72056052e-08 -1.00000001e+00]
+fitness: 3.0000000000001292
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [-1.5869193e-09 -1.0000000e+00]
+fitness: 2.999999999999945
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 113
+solution_found: [-5.54207072e-11 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1.9
+social:1
+function:Goldstein_Price
+epoch_stop: 69
+solution_found: [ 3.66350893e-09 -1.00000000e+00]
+fitness: 2.9999999999999467
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 74
+solution_found: [ 6.62226457e-09 -9.99999996e-01]
+fitness: 2.9999999999999343
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 58
+solution_found: [ 1.22390080e-08 -9.99999996e-01]
+fitness: 3.0000000000001092
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [ 1.98231816e-09 -1.00000000e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 67
+solution_found: [ 5.51427267e-09 -1.00000001e+00]
+fitness: 2.999999999999985
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [-3.98490432e-08 -1.00000002e+00]
+fitness: 3.000000000000407
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [-1.08433478e-09 -9.99999997e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 3.65960352e-08 -9.99999902e-01]
+fitness: 3.000000000003738
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 58
+solution_found: [-8.60899163e-09 -9.99999999e-01]
+fitness: 2.999999999999995
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [-1.94705465e-08 -1.00000001e+00]
+fitness: 3.0000000000000893
+
+num_particles:40
+inertia:0.5
+cognition:2.0
+social:1
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [-8.13978947e-09 -9.99999996e-01]
+fitness: 3.0000000000000413
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 1.15999326e-08 -9.99999968e-01]
+fitness: 3.000000000000391
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [-1.79833299e-09 -1.00000002e+00]
+fitness: 3.000000000000212
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 89
+solution_found: [ 6.59607429e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 60
+solution_found: [ 5.0876485e-09 -1.0000000e+00]
+fitness: 2.9999999999999716
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [-4.54611751e-09 -1.00000001e+00]
+fitness: 2.999999999999993
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 65
+solution_found: [-2.12385169e-09 -9.99999999e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [ 1.11033144e-09 -1.00000000e+00]
+fitness: 2.999999999999954
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [-5.52389404e-09 -9.99999991e-01]
+fitness: 3.000000000000012
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [-9.01387611e-09 -1.00000000e+00]
+fitness: 2.999999999999939
+
+num_particles:40
+inertia:0.5
+cognition:2.1
+social:1
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [-2.44951145e-09 -1.00000001e+00]
+fitness: 2.999999999999994
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [-2.24323243e-08 -1.00000002e+00]
+fitness: 3.000000000000135
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 114
+solution_found: [ 4.65395668e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 60
+solution_found: [-5.33564677e-09 -9.99999991e-01]
+fitness: 3.0000000000000866
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 70
+solution_found: [-4.52501468e-09 -1.00000000e+00]
+fitness: 2.99999999999994
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 81
+solution_found: [-4.59561371e-09 -1.00000000e+00]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [-6.44179396e-10 -9.99999998e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 68
+solution_found: [-2.54876565e-09 -9.99999996e-01]
+fitness: 2.999999999999954
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 9.11612339e-08 -9.99999925e-01]
+fitness: 3.0000000000030376
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 63
+solution_found: [-1.11666259e-09 -1.00000000e+00]
+fitness: 2.999999999999945
+
+num_particles:40
+inertia:0.5
+cognition:2.2
+social:1
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [-1.07062901e-08 -1.00000000e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 75
+solution_found: [-7.45090391e-09 -1.00000001e+00]
+fitness: 2.9999999999999503
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 67
+solution_found: [ 3.58153031e-09 -1.00000000e+00]
+fitness: 2.999999999999958
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 89
+solution_found: [-4.6198292e-09 -1.0000000e+00]
+fitness: 2.9999999999999334
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 73
+solution_found: [ 7.70437779e-10 -1.00000000e+00]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [-4.03749580e-09 -9.99999997e-01]
+fitness: 3.0000000000000426
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 83
+solution_found: [ 1.72328258e-09 -9.99999997e-01]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [-6.94888539e-09 -1.00000000e+00]
+fitness: 2.9999999999999445
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 77
+solution_found: [-6.90410162e-09 -1.00000000e+00]
+fitness: 2.9999999999999374
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 124
+solution_found: [-1.13726900e-09 -9.99999997e-01]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:2.3
+social:1
+function:Goldstein_Price
+epoch_stop: 77
+solution_found: [-9.72264971e-09 -1.00000001e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 78
+solution_found: [-8.76428766e-09 -1.00000001e+00]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 81
+solution_found: [-6.51828717e-09 -1.00000000e+00]
+fitness: 2.999999999999933
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [-5.95370610e-09 -1.00000001e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 74
+solution_found: [-8.96549941e-11 -9.99999997e-01]
+fitness: 2.9999999999999685
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [-1.98400174e-09 -1.00000001e+00]
+fitness: 2.9999999999999454
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 73
+solution_found: [ 5.20181512e-09 -9.99999997e-01]
+fitness: 2.999999999999996
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [-7.55111467e-09 -1.00000000e+00]
+fitness: 2.9999999999999334
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 71
+solution_found: [ 4.62024347e-09 -9.99999997e-01]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 75
+solution_found: [-1.51060434e-09 -1.00000001e+00]
+fitness: 2.99999999999995
+
+num_particles:40
+inertia:0.5
+cognition:2.4
+social:1
+function:Goldstein_Price
+epoch_stop: 83
+solution_found: [-6.35912588e-09 -1.00000001e+00]
+fitness: 2.9999999999999427
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [ 1.09827565e-08 -1.00000000e+00]
+fitness: 2.9999999999999525
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 104
+solution_found: [ 3.66987169e-10 -9.99999997e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 91
+solution_found: [ 7.57393613e-11 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [-1.00053575e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [ 1.43408603e-08 -9.99999996e-01]
+fitness: 2.999999999999981
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 112
+solution_found: [-6.4674161e-09 -1.0000000e+00]
+fitness: 2.999999999999931
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [ 3.51735152e-10 -1.00000001e+00]
+fitness: 2.999999999999949
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 89
+solution_found: [-2.62092409e-09 -9.99999999e-01]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 74
+solution_found: [-2.45030363e-09 -9.99999998e-01]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:2.5
+social:1
+function:Goldstein_Price
+epoch_stop: 92
+solution_found: [ 7.95640391e-10 -9.99999999e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 99
+solution_found: [ 1.45095020e-09 -1.00000001e+00]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [ 1.02483693e-08 -9.99999994e-01]
+fitness: 2.999999999999983
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 89
+solution_found: [-1.70529593e-09 -1.00000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 95
+solution_found: [-1.52720083e-10 -9.99999998e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 101
+solution_found: [-8.26386753e-09 -1.00000000e+00]
+fitness: 2.99999999999993
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [ 6.02138607e-09 -1.00000001e+00]
+fitness: 2.999999999999961
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 90
+solution_found: [ 7.09346089e-10 -1.00000001e+00]
+fitness: 2.999999999999944
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 91
+solution_found: [ 3.07471565e-09 -9.99999997e-01]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 79
+solution_found: [ 6.7183434e-09 -1.0000000e+00]
+fitness: 2.999999999999948
+
+num_particles:40
+inertia:0.5
+cognition:2.6
+social:1
+function:Goldstein_Price
+epoch_stop: 109
+solution_found: [-4.95976608e-09 -1.00000000e+00]
+fitness: 2.99999999999993
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 107
+solution_found: [-4.32783247e-09 -1.00000001e+00]
+fitness: 2.999999999999944
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 104
+solution_found: [-5.59115471e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 83
+solution_found: [-5.16804391e-09 -1.00000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 118
+solution_found: [ 3.17797949e-09 -1.00000000e+00]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 95
+solution_found: [ 7.32818523e-09 -9.99999994e-01]
+fitness: 2.999999999999941
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 127
+solution_found: [-1.25705251e-09 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 93
+solution_found: [-7.00484808e-09 -1.00000001e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 83
+solution_found: [-5.03524890e-09 -1.00000001e+00]
+fitness: 2.9999999999999476
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 121
+solution_found: [-2.46281045e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:2.7
+social:1
+function:Goldstein_Price
+epoch_stop: 98
+solution_found: [-2.63965409e-09 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 129
+solution_found: [-3.0318486e-09 -1.0000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 98
+solution_found: [-1.28296579e-09 -9.99999998e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 139
+solution_found: [-1.17970034e-09 -1.00000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 107
+solution_found: [-2.95573776e-09 -9.99999998e-01]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 95
+solution_found: [-6.34019111e-10 -1.00000001e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 105
+solution_found: [ 2.09382863e-09 -1.00000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 107
+solution_found: [ 4.1251513e-09 -1.0000000e+00]
+fitness: 2.9999999999999396
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 138
+solution_found: [-3.02185496e-11 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 93
+solution_found: [-5.73638590e-09 -1.00000001e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:2.8
+social:1
+function:Goldstein_Price
+epoch_stop: 94
+solution_found: [ 8.68836753e-09 -9.99999997e-01]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 131
+solution_found: [-1.21439131e-09 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 140
+solution_found: [-2.22978728e-09 -1.00000000e+00]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 185
+solution_found: [ 4.65726930e-09 -9.99999997e-01]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 120
+solution_found: [ 5.44288932e-09 -1.00000000e+00]
+fitness: 2.999999999999941
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 142
+solution_found: [-3.53063115e-09 -1.00000000e+00]
+fitness: 2.999999999999928
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 112
+solution_found: [-9.69344176e-10 -9.99999999e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 133
+solution_found: [-6.2461201e-09 -1.0000000e+00]
+fitness: 2.9999999999999343
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 143
+solution_found: [ 1.01010526e-08 -9.99999996e-01]
+fitness: 2.999999999999931
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 168
+solution_found: [-1.82271003e-09 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:2.9
+social:1
+function:Goldstein_Price
+epoch_stop: 156
+solution_found: [ 5.03915648e-09 -9.99999999e-01]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 138
+solution_found: [ 1.31205145e-11 -1.00000000e+00]
+fitness: 2.9999999999999374
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 175
+solution_found: [-2.65116951e-09 -9.99999998e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 169
+solution_found: [ 2.72806611e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 169
+solution_found: [-6.34725067e-09 -1.00000000e+00]
+fitness: 2.9999999999999303
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 150
+solution_found: [ 1.75944043e-09 -1.00000001e+00]
+fitness: 2.999999999999935
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 165
+solution_found: [-4.25213113e-09 -1.00000000e+00]
+fitness: 2.9999999999999303
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 141
+solution_found: [ 8.83273627e-09 -9.99999997e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 169
+solution_found: [-1.05584624e-09 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 170
+solution_found: [-1.58707552e-09 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.0
+social:1
+function:Goldstein_Price
+epoch_stop: 151
+solution_found: [-6.70063475e-09 -1.00000000e+00]
+fitness: 2.9999999999999316
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 218
+solution_found: [-5.97755516e-09 -1.00000001e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 173
+solution_found: [ 1.30982171e-10 -9.99999997e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 205
+solution_found: [-2.08230415e-09 -1.00000000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 187
+solution_found: [-6.56153615e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 180
+solution_found: [-4.3954134e-10 -1.0000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 152
+solution_found: [-5.94614585e-09 -1.00000000e+00]
+fitness: 2.9999999999999316
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 185
+solution_found: [-3.75913805e-09 -1.00000000e+00]
+fitness: 2.999999999999932
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 237
+solution_found: [ 1.57218844e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 192
+solution_found: [ 1.70521004e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.1
+social:1
+function:Goldstein_Price
+epoch_stop: 198
+solution_found: [-1.46711359e-09 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 321
+solution_found: [ 2.77292699e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 245
+solution_found: [-6.72620203e-11 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 258
+solution_found: [-2.18780199e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 341
+solution_found: [-4.55174199e-11 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 248
+solution_found: [-2.9135379e-09 -1.0000000e+00]
+fitness: 2.9999999999999276
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 251
+solution_found: [-7.06962470e-09 -1.00000001e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 216
+solution_found: [ 1.28739529e-10 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 321
+solution_found: [-4.85553203e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 216
+solution_found: [ 5.74766847e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.2
+social:1
+function:Goldstein_Price
+epoch_stop: 258
+solution_found: [-6.02806165e-09 -1.00000000e+00]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 356
+solution_found: [-1.61720686e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 296
+solution_found: [ 2.12620294e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 443
+solution_found: [-7.02549673e-11 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 445
+solution_found: [-5.93375176e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 441
+solution_found: [-2.80463214e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 344
+solution_found: [-1.01865544e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 371
+solution_found: [ 1.80409815e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 314
+solution_found: [ 1.15372189e-08 -9.99999994e-01]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 475
+solution_found: [-9.18246077e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.3
+social:1
+function:Goldstein_Price
+epoch_stop: 393
+solution_found: [ 1.01311007e-08 -9.99999996e-01]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 541
+solution_found: [ 5.35338192e-09 -9.99999994e-01]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 738
+solution_found: [-1.07629366e-08 -1.00000001e+00]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 560
+solution_found: [-2.97320929e-09 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 555
+solution_found: [ 2.46809046e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 568
+solution_found: [-1.94534438e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 713
+solution_found: [-2.90138629e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 392
+solution_found: [-2.90957918e-09 -1.00000000e+00]
+fitness: 2.9999999999999276
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 523
+solution_found: [-2.34608959e-09 -1.00000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 490
+solution_found: [ 9.72639695e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.4
+social:1
+function:Goldstein_Price
+epoch_stop: 686
+solution_found: [ 2.02862946e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 7.29646403e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 4.32882804e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 6.44190709e-12 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.26370287e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.79231824e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.30537631e-09 -1.00000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.45474916e-09 -9.99999997e-01]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.32934122e-09 -1.00000001e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 8.64545718e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.5
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.68007777e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.11470961e-09 -1.00000000e+00]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.4532199e-09 -1.0000000e+00]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.43558878e-09 -9.99999997e-01]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.80883699e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 8.15897518e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-9.70076580e-09 -1.00000001e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.07945410e-09 -1.00000001e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 7.33651309e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.04499e-09 -1.00000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:3.6
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.87742447e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.63867872e-10 -1.00000000e+00]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-7.32629496e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.63630609e-09 -9.99999998e-01]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.18972926e-09 -1.00000000e+00]
+fitness: 2.9999999999999307
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.70990187e-09 -1.00000000e+00]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.55848839e-09 -1.00000001e+00]
+fitness: 2.9999999999999294
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.77355612e-09 -1.00000001e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 4.03429089e-09 -9.99999997e-01]
+fitness: 2.999999999999931
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.19521524e-08 -9.99999996e-01]
+fitness: 2.9999999999999525
+
+num_particles:40
+inertia:0.5
+cognition:3.7
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.07278125e-09 -9.99999998e-01]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.82057086e-09 -9.99999997e-01]
+fitness: 2.9999999999999205
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 7.98190836e-09 -9.99999995e-01]
+fitness: 3.000000000000024
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.17231805e-08 -1.00000003e+00]
+fitness: 3.000000000000299
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.64335593e-08 -1.00000002e+00]
+fitness: 3.0000000000006546
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.06202423e-09 -1.00000001e+00]
+fitness: 3.0000000000001745
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.80620616e-10 -9.99999998e-01]
+fitness: 2.999999999999958
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 8.94281345e-09 -9.99999999e-01]
+fitness: 2.9999999999999387
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.99459599e-09 -1.00000000e+00]
+fitness: 2.999999999999934
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.26766312e-09 -1.00000000e+00]
+fitness: 2.9999999999999374
+
+num_particles:40
+inertia:0.5
+cognition:3.8
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.15246998e-09 -1.00000001e+00]
+fitness: 2.999999999999944
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.84408157e-07 -1.00000036e+00]
+fitness: 3.0000000000642246
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.27232662e-06 -9.99999321e-01]
+fitness: 3.0000000007933187
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.33269148e-08 -1.00000006e+00]
+fitness: 3.0000000000013016
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.34146822e-07 -1.00000043e+00]
+fitness: 3.000000000072071
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.14494458e-07 -1.00000003e+00]
+fitness: 3.0000000000029354
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-7.70348087e-10 -1.00000000e+00]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.18429184e-07 -1.00000003e+00]
+fitness: 3.0000000000110534
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 6.32102842e-08 -9.99999983e-01]
+fitness: 3.0000000000008473
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.46552581e-09 -9.99999998e-01]
+fitness: 2.9999999999999445
+
+num_particles:40
+inertia:0.5
+cognition:3.9
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 8.76236954e-07 -9.99998201e-01]
+fitness: 3.000000001251588
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.87984126e-06 -1.00000036e+00]
+fitness: 3.000000005677588
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.65776896e-08 -9.99999987e-01]
+fitness: 3.0000000000007017
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.94184014e-08 -1.00000004e+00]
+fitness: 3.0000000000010782
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 6.13720678e-08 -9.99998088e-01]
+fitness: 3.0000000015550077
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.04535652e-05 -9.99999983e-01]
+fitness: 3.000000027500443
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.69931888e-06 -1.00000760e+00]
+fitness: 3.0000000645661333
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.45790901e-06 -1.00000100e+00]
+fitness: 3.000000001422897
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.56732329e-08 -1.00000004e+00]
+fitness: 3.0000000000010054
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.04810128e-06 -1.00000193e+00]
+fitness: 3.0000000014439445
+
+num_particles:40
+inertia:0.5
+cognition:4.0
+social:1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 8.07109471e-07 -9.99994506e-01]
+fitness: 3.000000012247706
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 0.00142512 -0.99513978]
+fitness: 3.009180161408407
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.01813195 -0.9724562 ]
+fitness: 3.4869112517721224
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.35621184e-07 -9.99999160e-01]
+fitness: 3.000000000431878
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 4.32102904e-09 -9.99999995e-01]
+fitness: 2.999999999999921
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 0.00612087 -0.9868438 ]
+fitness: 3.0663375764384644
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.68695244e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 0.00547164 -0.99531514]
+fitness: 3.0114270996708394
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.76438332e-09 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.31251049e-09 -9.99999993e-01]
+fitness: 2.9999999999999574
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.1
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.56384999e-08 -9.99999913e-01]
+fitness: 3.0000000000041847
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.27316793e-12 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 3.22421779e-08 -9.99999992e-01]
+fitness: 3.0000000000002642
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 606
+solution_found: [ 1.69865846e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.72119576e-11 -9.99999999e-01]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.56060120e-10 -9.99999999e-01]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.56308171e-08 -1.00000001e+00]
+fitness: 2.999999999999971
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 231
+solution_found: [-6.48300129e-10 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.75389176e-09 -9.99999991e-01]
+fitness: 2.999999999999963
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [ 2.07953184e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.2
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-0.0337675  -0.90298391]
+fitness: 7.695553584108085
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.74796238e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 545
+solution_found: [ 2.77336321e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 97
+solution_found: [ 5.21855354e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.05339909e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.14573206e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [ 1.83379419e-09 -9.99999997e-01]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [-4.49672354e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 672
+solution_found: [ 2.09712193e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.55184837e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.3
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 6.99577231e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 466
+solution_found: [ 7.20230045e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 1.39343370e-07 -1.00000006e+00]
+fitness: 3.0000000000079656
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 268
+solution_found: [ 7.61436192e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.11435800e-07 -9.99999946e-01]
+fitness: 3.000000000005721
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 259
+solution_found: [-1.03928476e-10 -9.99999997e-01]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 3.01087672e-08 -1.00000001e+00]
+fitness: 3.0000000000004685
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 102
+solution_found: [ 2.33133398e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 317
+solution_found: [-1.11448634e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 2.87530905e-09 -9.99999991e-01]
+fitness: 2.9999999999999747
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.4
+function:Goldstein_Price
+epoch_stop: 69
+solution_found: [ 6.47535975e-09 -1.00000000e+00]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 2.59819738e-08 -1.00000005e+00]
+fitness: 3.000000000001599
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 114
+solution_found: [-2.15281131e-09 -1.00000000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.28140180e-07 -9.99999996e-01]
+fitness: 3.0000000000040195
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 137
+solution_found: [ 2.72432827e-09 -9.99999999e-01]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-4.80283482e-08 -1.00000008e+00]
+fitness: 3.0000000000027502
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [-9.60071903e-08 -1.00000010e+00]
+fitness: 3.00000000000447
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [ 4.87320139e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 60
+solution_found: [ 2.24880156e-09 -1.00000000e+00]
+fitness: 2.9999999999999396
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 35
+solution_found: [-1.78332359e-07 -1.00000009e+00]
+fitness: 3.0000000000080003
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.5
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 4.35719005e-08 -9.99999817e-01]
+fitness: 3.0000000000132623
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 5.00976340e-09 -9.99999994e-01]
+fitness: 2.999999999999955
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.39276982e-09 -9.99999980e-01]
+fitness: 3.000000000000109
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-6.12955310e-09 -9.99999928e-01]
+fitness: 3.0000000000022955
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 7.87760576e-08 -9.99999997e-01]
+fitness: 3.000000000001516
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 4.7945695e-07 -9.9999932e-01]
+fitness: 3.000000000187347
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [-1.02533957e-07 -9.99999957e-01]
+fitness: 3.000000000004389
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 3.49315742e-08 -9.99999869e-01]
+fitness: 3.0000000000067244
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 35
+solution_found: [ 2.20526515e-07 -1.00000001e+00]
+fitness: 3.0000000000129616
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 9.17106866e-08 -1.00000012e+00]
+fitness: 3.0000000000112523
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.6
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [-1.60643589e-07 -1.00000018e+00]
+fitness: 3.000000000014729
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [ 1.37398786e-07 -1.00000008e+00]
+fitness: 3.0000000000101092
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 6.49035202e-09 -9.99999997e-01]
+fitness: 2.999999999999935
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-1.33373242e-07 -1.00000009e+00]
+fitness: 3.0000000000054508
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-2.81823509e-08 -1.00000001e+00]
+fitness: 3.0000000000001963
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 36
+solution_found: [-1.98231232e-08 -9.99999811e-01]
+fitness: 3.0000000000162266
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-3.14089012e-08 -1.00000003e+00]
+fitness: 3.0000000000004197
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.59610717e-08 -9.99999998e-01]
+fitness: 3.0000000000000804
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [-9.18007843e-09 -9.99999966e-01]
+fitness: 3.0000000000006275
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-3.83284101e-08 -9.99999980e-01]
+fitness: 3.0000000000007288
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.7
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-2.58432848e-09 -1.00000004e+00]
+fitness: 3.000000000000618
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-3.59844741e-08 -9.99999813e-01]
+fitness: 3.0000000000168057
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [ 7.01868060e-09 -1.00000012e+00]
+fitness: 3.0000000000068803
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-2.68195511e-09 -1.00000001e+00]
+fitness: 3.0000000000000604
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.67968083e-08 -9.99999958e-01]
+fitness: 3.0000000000007216
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.76452822e-08 -9.99999986e-01]
+fitness: 3.0000000000002403
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-1.36952707e-07 -9.99999675e-01]
+fitness: 3.000000000059958
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.67261325e-08 -1.00000003e+00]
+fitness: 3.000000000000357
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.74892221e-08 -1.00000001e+00]
+fitness: 3.000000000000036
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-6.12920636e-09 -9.99999976e-01]
+fitness: 3.000000000000251
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.8
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 2.81984921e-09 -9.99999998e-01]
+fitness: 2.9999999999999556
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [ 1.03533010e-07 -9.99999984e-01]
+fitness: 3.000000000002457
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.03483708e-07 -9.99999990e-01]
+fitness: 3.0000000000029514
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [-2.74639465e-09 -1.00000001e+00]
+fitness: 2.9999999999999534
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 37
+solution_found: [-3.43937041e-07 -9.99999977e-01]
+fitness: 3.0000000000318
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 6.45934047e-09 -9.99999998e-01]
+fitness: 2.999999999999934
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-4.91340973e-08 -1.00000011e+00]
+fitness: 3.0000000000048836
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 7.17211099e-08 -9.99999905e-01]
+fitness: 3.000000000003681
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 1.65471689e-07 -9.99999824e-01]
+fitness: 3.0000000000139337
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 6.64233033e-08 -9.99999950e-01]
+fitness: 3.00000000000149
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:0.9
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [-2.10525578e-09 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-4.26086686e-08 -9.99999950e-01]
+fitness: 3.000000000001938
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 69
+solution_found: [ 1.65570088e-07 -9.99999979e-01]
+fitness: 3.000000000006334
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 38
+solution_found: [-2.75794275e-07 -9.99999978e-01]
+fitness: 3.000000000020711
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 1.25398472e-08 -1.00000004e+00]
+fitness: 3.0000000000010547
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [-1.64944373e-08 -1.00000003e+00]
+fitness: 3.0000000000003535
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 5.64785799e-08 -1.00000008e+00]
+fitness: 3.0000000000044333
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 2.56856254e-07 -9.99999903e-01]
+fitness: 3.0000000000153033
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [-7.04396697e-08 -1.00000005e+00]
+fitness: 3.000000000001692
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-3.52387009e-09 -1.00000024e+00]
+fitness: 3.0000000000237494
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.0
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-1.40517793e-07 -1.00000010e+00]
+fitness: 3.000000000006234
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [-1.95166117e-08 -1.00000003e+00]
+fitness: 3.0000000000004396
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 8.49638715e-09 -9.99999993e-01]
+fitness: 3.0000000000000164
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 5.72573575e-09 -1.00000000e+00]
+fitness: 2.9999999999999947
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [ 2.90799830e-08 -9.99999916e-01]
+fitness: 3.000000000002726
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-2.38022721e-08 -9.99999935e-01]
+fitness: 3.000000000002282
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-5.27510098e-08 -1.00000007e+00]
+fitness: 3.000000000001883
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [-1.94133811e-08 -1.00000000e+00]
+fitness: 3.000000000000097
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [ 1.97850859e-07 -1.00000003e+00]
+fitness: 3.0000000000118145
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [-4.80850684e-09 -9.99999886e-01]
+fitness: 3.000000000005755
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.1
+function:Goldstein_Price
+epoch_stop: 40
+solution_found: [ 6.35529077e-08 -1.00000007e+00]
+fitness: 3.000000000004435
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 3.32316584e-07 -9.99999884e-01]
+fitness: 3.000000000025316
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-5.18783355e-07 -1.00000027e+00]
+fitness: 3.000000000069154
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-9.82638935e-08 -1.00000003e+00]
+fitness: 3.0000000000021987
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 39
+solution_found: [-2.56229497e-08 -1.00000000e+00]
+fitness: 3.0000000000001563
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 5.95923196e-08 -1.00000006e+00]
+fitness: 3.000000000003014
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-1.08024965e-08 -1.00000002e+00]
+fitness: 3.0000000000000826
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [-1.56380208e-07 -9.99999878e-01]
+fitness: 3.0000000000167635
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [ 3.04190525e-08 -9.99999958e-01]
+fitness: 3.0000000000007403
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-8.70043274e-09 -9.99999997e-01]
+fitness: 2.999999999999997
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.2
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [ 2.72870879e-09 -9.99999703e-01]
+fitness: 3.000000000037822
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 5.26262950e-08 -1.00000001e+00]
+fitness: 3.000000000000916
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 2.81573438e-08 -9.99999997e-01]
+fitness: 3.0000000000001585
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [-1.83260790e-08 -1.00000002e+00]
+fitness: 3.000000000000259
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 43
+solution_found: [-4.04110702e-09 -9.99999971e-01]
+fitness: 3.0000000000004263
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 6.48989986e-08 -9.99999933e-01]
+fitness: 3.0000000000021
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 42
+solution_found: [-5.09254226e-09 -1.00000010e+00]
+fitness: 3.0000000000039297
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 2.69374967e-08 -1.00000000e+00]
+fitness: 3.0000000000001767
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.85425295e-07 -1.00000015e+00]
+fitness: 3.0000000000252034
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 41
+solution_found: [ 1.83816493e-07 -1.00000014e+00]
+fitness: 3.0000000000232903
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.3
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [-7.56837587e-08 -1.00000004e+00]
+fitness: 3.000000000001517
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 8.14221556e-08 -9.99999907e-01]
+fitness: 3.00000000000379
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-3.84994854e-08 -9.99999978e-01]
+fitness: 3.000000000000754
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 5.53592612e-09 -9.99999980e-01]
+fitness: 3.000000000000112
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-1.45280499e-09 -9.99999971e-01]
+fitness: 3.0000000000003877
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 61
+solution_found: [ 4.42866000e-08 -9.99999976e-01]
+fitness: 3.0000000000005085
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 1.37451707e-07 -9.99999911e-01]
+fitness: 3.0000000000055587
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [ 3.17325583e-08 -1.00000005e+00]
+fitness: 3.000000000001539
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 44
+solution_found: [ 5.83246041e-09 -9.99999946e-01]
+fitness: 3.0000000000011537
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [-3.31551724e-09 -1.00000001e+00]
+fitness: 2.9999999999999454
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.4
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 7.31953688e-09 -9.99999949e-01]
+fitness: 3.0000000000009956
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-1.08635718e-08 -9.99999996e-01]
+fitness: 3.000000000000023
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 1.95627450e-08 -9.99999957e-01]
+fitness: 3.000000000000762
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 1.88333039e-08 -9.99999990e-01]
+fitness: 3.0000000000000977
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-2.33422152e-08 -1.00000007e+00]
+fitness: 3.0000000000019025
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 1.99866052e-08 -1.00000000e+00]
+fitness: 3.0000000000001603
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-1.45346480e-07 -1.00000006e+00]
+fitness: 3.000000000005076
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 45
+solution_found: [ 1.77168146e-07 -9.99999867e-01]
+fitness: 3.0000000000104703
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 1.40891437e-07 -9.99999933e-01]
+fitness: 3.0000000000048748
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [ 1.78389381e-09 -9.99999973e-01]
+fitness: 3.0000000000002824
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.5
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 8.54440962e-09 -9.99999945e-01]
+fitness: 3.000000000001212
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [ 1.00002403e-08 -9.99999994e-01]
+fitness: 3.000000000000016
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-1.49460922e-08 -9.99999993e-01]
+fitness: 3.0000000000000857
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-7.56107172e-08 -1.00000002e+00]
+fitness: 3.0000000000012594
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-1.24876469e-08 -9.99999978e-01]
+fitness: 3.000000000000273
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [ 5.32836117e-07 -9.99999783e-01]
+fitness: 3.0000000000669638
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 46
+solution_found: [-1.36431872e-07 -1.00000003e+00]
+fitness: 3.000000000004215
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [-1.08592917e-08 -1.00000001e+00]
+fitness: 2.999999999999971
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [ 4.10529762e-08 -9.99999973e-01]
+fitness: 3.0000000000004983
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 2.64802817e-08 -9.99999990e-01]
+fitness: 3.0000000000001523
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.6
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 5.49472753e-08 -1.00000002e+00]
+fitness: 3.0000000000010036
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 48
+solution_found: [ 2.30826539e-08 -9.99999985e-01]
+fitness: 3.0000000000001545
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 47
+solution_found: [-5.14970522e-09 -1.00000005e+00]
+fitness: 3.00000000000089
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-3.38116465e-08 -9.99999978e-01]
+fitness: 3.000000000000634
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [ 3.74382603e-09 -1.00000000e+00]
+fitness: 2.9999999999999862
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [ 6.48321164e-09 -1.00000002e+00]
+fitness: 3.00000000000011
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [-9.85323073e-09 -1.00000001e+00]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [-1.04995023e-07 -9.99999975e-01]
+fitness: 3.0000000000036193
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 52
+solution_found: [ 4.49448606e-08 -9.99999945e-01]
+fitness: 3.000000000001309
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 2.24590814e-08 -9.99999980e-01]
+fitness: 3.0000000000001767
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.7
+function:Goldstein_Price
+epoch_stop: 49
+solution_found: [ 3.14284771e-08 -1.00000002e+00]
+fitness: 3.0000000000004325
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 4.06180671e-08 -1.00000008e+00]
+fitness: 3.0000000000040057
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [-3.61628484e-08 -9.99999994e-01]
+fitness: 3.0000000000003877
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [ 3.13199822e-09 -1.00000000e+00]
+fitness: 3.000000000000025
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-2.81452785e-08 -1.00000004e+00]
+fitness: 3.000000000000616
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 4.99028941e-08 -1.00000004e+00]
+fitness: 3.0000000000017373
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 4.11080701e-08 -9.99999933e-01]
+fitness: 3.00000000000182
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [ 1.18244960e-08 -9.99999998e-01]
+fitness: 2.9999999999999467
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 5.50433498e-08 -9.99999926e-01]
+fitness: 3.000000000002256
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [-1.27589376e-08 -1.00000004e+00]
+fitness: 3.000000000000521
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.8
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [-2.59472464e-08 -1.00000001e+00]
+fitness: 3.000000000000182
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 9.82946569e-09 -9.99999988e-01]
+fitness: 3.0000000000000275
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 6.52387137e-08 -1.00000002e+00]
+fitness: 3.000000000001372
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [ 6.70883112e-08 -9.99999969e-01]
+fitness: 3.0000000000010685
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 2.27145581e-08 -1.00000002e+00]
+fitness: 3.000000000000413
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [-7.12645494e-09 -9.99999995e-01]
+fitness: 3.000000000000008
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [ 6.96062727e-09 -1.00000001e+00]
+fitness: 2.9999999999999964
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 54
+solution_found: [ 5.80409029e-09 -9.99999948e-01]
+fitness: 3.0000000000010427
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 55
+solution_found: [-1.07750585e-08 -1.00000002e+00]
+fitness: 3.0000000000001115
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 51
+solution_found: [-2.28946775e-09 -9.99999932e-01]
+fitness: 3.000000000002046
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:1.9
+function:Goldstein_Price
+epoch_stop: 50
+solution_found: [ 3.31587951e-08 -1.00000015e+00]
+fitness: 3.0000000000104365
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 2.72617533e-08 -9.99999982e-01]
+fitness: 3.000000000000209
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 1.47518337e-08 -1.00000001e+00]
+fitness: 3.000000000000181
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 53
+solution_found: [-1.81041347e-07 -1.00000004e+00]
+fitness: 3.0000000000073825
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [-8.04444609e-10 -1.00000001e+00]
+fitness: 3.0000000000000626
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [ 4.85140501e-10 -1.00000000e+00]
+fitness: 2.9999999999999756
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [ 5.95147661e-09 -9.99999998e-01]
+fitness: 2.999999999999943
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 7.93541975e-09 -9.99999963e-01]
+fitness: 3.0000000000005023
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 57
+solution_found: [ 3.18613469e-09 -9.99999998e-01]
+fitness: 2.9999999999999813
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [ 6.84609056e-09 -9.99999992e-01]
+fitness: 3.0000000000000253
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.0
+function:Goldstein_Price
+epoch_stop: 56
+solution_found: [ 4.16098366e-08 -9.99999938e-01]
+fitness: 3.000000000001509
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 58
+solution_found: [-5.72107349e-08 -9.99999987e-01]
+fitness: 3.0000000000010703
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [-5.54068534e-09 -9.99999996e-01]
+fitness: 2.9999999999999756
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [ 9.30115137e-09 -1.00000000e+00]
+fitness: 2.99999999999995
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 61
+solution_found: [-2.95874892e-09 -1.00000001e+00]
+fitness: 3.0000000000000324
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 68
+solution_found: [ 4.47831502e-09 -1.00000000e+00]
+fitness: 2.9999999999999574
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 59
+solution_found: [-1.28810432e-09 -1.00000002e+00]
+fitness: 3.0000000000001252
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 63
+solution_found: [-8.13845967e-09 -1.00000001e+00]
+fitness: 2.9999999999999667
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 60
+solution_found: [ 2.78967683e-08 -1.00000001e+00]
+fitness: 3.0000000000002296
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 62
+solution_found: [ 1.2911153e-08 -1.0000000e+00]
+fitness: 3.0000000000000027
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.1
+function:Goldstein_Price
+epoch_stop: 67
+solution_found: [ 1.39441906e-08 -9.99999996e-01]
+fitness: 3.0000000000000084
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [-1.24828823e-08 -1.00000001e+00]
+fitness: 3.0000000000000653
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 72
+solution_found: [ 4.2599255e-09 -1.0000000e+00]
+fitness: 2.999999999999959
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 79
+solution_found: [ 5.48155163e-09 -1.00000000e+00]
+fitness: 2.99999999999994
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 68
+solution_found: [-6.87763624e-10 -9.99999988e-01]
+fitness: 3.0000000000000533
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [-5.24017215e-09 -9.99999996e-01]
+fitness: 2.9999999999999645
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 66
+solution_found: [ 2.33084893e-09 -9.99999995e-01]
+fitness: 2.9999999999999414
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 68
+solution_found: [-9.26943568e-09 -1.00000000e+00]
+fitness: 2.9999999999999885
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 72
+solution_found: [-4.17000306e-09 -9.99999980e-01]
+fitness: 3.0000000000001625
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 64
+solution_found: [ 1.70846831e-08 -1.00000001e+00]
+fitness: 3.000000000000223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.2
+function:Goldstein_Price
+epoch_stop: 79
+solution_found: [-1.1518578e-08 -1.0000000e+00]
+fitness: 2.999999999999951
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 73
+solution_found: [-6.99176031e-09 -9.99999994e-01]
+fitness: 2.999999999999968
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 75
+solution_found: [ 4.66809964e-09 -1.00000001e+00]
+fitness: 3.0000000000000733
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 70
+solution_found: [ 7.72926896e-09 -9.99999996e-01]
+fitness: 2.9999999999999414
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 91
+solution_found: [-6.21665351e-09 -1.00000000e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 70
+solution_found: [ 4.20666144e-09 -9.99999999e-01]
+fitness: 2.999999999999971
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 78
+solution_found: [-6.41542398e-09 -1.00000001e+00]
+fitness: 2.9999999999999543
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 72
+solution_found: [-2.07369058e-08 -1.00000002e+00]
+fitness: 3.0000000000001927
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 86
+solution_found: [-5.42342376e-09 -1.00000000e+00]
+fitness: 2.9999999999999307
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 67
+solution_found: [ 1.03420363e-08 -1.00000000e+00]
+fitness: 2.999999999999973
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.3
+function:Goldstein_Price
+epoch_stop: 88
+solution_found: [ 6.58167904e-09 -9.99999998e-01]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 104
+solution_found: [-5.20325898e-09 -1.00000001e+00]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 71
+solution_found: [-1.06997940e-08 -9.99999995e-01]
+fitness: 2.999999999999965
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [-3.02938256e-09 -9.99999995e-01]
+fitness: 2.999999999999961
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [ 7.94585143e-09 -1.00000001e+00]
+fitness: 2.9999999999999756
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [-1.1107084e-08 -1.0000000e+00]
+fitness: 2.999999999999937
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [-5.30115042e-09 -9.99999994e-01]
+fitness: 2.9999999999999503
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 107
+solution_found: [ 4.13915863e-09 -1.00000000e+00]
+fitness: 2.9999999999999467
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 76
+solution_found: [-3.27330791e-10 -1.00000001e+00]
+fitness: 3.000000000000003
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 73
+solution_found: [-1.76291593e-08 -1.00000000e+00]
+fitness: 3.000000000000031
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.4
+function:Goldstein_Price
+epoch_stop: 79
+solution_found: [-6.05399722e-11 -1.00000000e+00]
+fitness: 2.999999999999954
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 82
+solution_found: [-3.33492383e-09 -1.00000000e+00]
+fitness: 2.999999999999939
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 80
+solution_found: [-7.50681911e-09 -9.99999993e-01]
+fitness: 2.999999999999961
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 88
+solution_found: [-2.94911420e-09 -9.99999998e-01]
+fitness: 2.9999999999999396
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 84
+solution_found: [-7.22627018e-09 -1.00000001e+00]
+fitness: 2.999999999999945
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 78
+solution_found: [ 6.17322584e-10 -1.00000001e+00]
+fitness: 2.999999999999947
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 95
+solution_found: [-5.36115188e-09 -1.00000000e+00]
+fitness: 2.9999999999999427
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 88
+solution_found: [ 4.97247927e-09 -9.99999998e-01]
+fitness: 2.9999999999999276
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 92
+solution_found: [-4.43917185e-09 -1.00000000e+00]
+fitness: 2.99999999999993
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 77
+solution_found: [ 6.2579084e-10 -1.0000000e+00]
+fitness: 2.9999999999999574
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.5
+function:Goldstein_Price
+epoch_stop: 80
+solution_found: [-7.01287795e-09 -9.99999999e-01]
+fitness: 2.999999999999965
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 87
+solution_found: [ 9.35134655e-09 -9.99999994e-01]
+fitness: 2.9999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 99
+solution_found: [-2.67569481e-09 -1.00000000e+00]
+fitness: 2.9999999999999414
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [-1.42223648e-09 -9.99999994e-01]
+fitness: 2.999999999999991
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 94
+solution_found: [-4.64013852e-09 -1.00000000e+00]
+fitness: 2.99999999999994
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 109
+solution_found: [ 3.01734344e-09 -1.00000000e+00]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 93
+solution_found: [-1.13417063e-08 -1.00000000e+00]
+fitness: 2.999999999999949
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 108
+solution_found: [-8.54775678e-09 -1.00000001e+00]
+fitness: 2.9999999999999294
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 95
+solution_found: [-1.20852772e-08 -1.00000000e+00]
+fitness: 2.999999999999976
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 85
+solution_found: [ 6.48147166e-09 -9.99999995e-01]
+fitness: 2.999999999999999
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.6
+function:Goldstein_Price
+epoch_stop: 99
+solution_found: [ 1.03072878e-09 -9.99999998e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 111
+solution_found: [ 5.72418631e-09 -9.99999995e-01]
+fitness: 2.9999999999999374
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 114
+solution_found: [-7.1215197e-09 -1.0000000e+00]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 98
+solution_found: [-1.18477764e-08 -1.00000000e+00]
+fitness: 2.9999999999999543
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 126
+solution_found: [ 2.8944131e-09 -1.0000000e+00]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 111
+solution_found: [-1.96176334e-09 -1.00000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 104
+solution_found: [-1.13250468e-08 -1.00000000e+00]
+fitness: 2.999999999999949
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 103
+solution_found: [ 1.43762397e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 100
+solution_found: [-8.10981610e-09 -1.00000001e+00]
+fitness: 2.999999999999948
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 104
+solution_found: [ 6.51927131e-10 -1.00000000e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.7
+function:Goldstein_Price
+epoch_stop: 137
+solution_found: [ 6.81851825e-09 -9.99999999e-01]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 115
+solution_found: [-4.86637379e-09 -1.00000001e+00]
+fitness: 2.999999999999938
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 119
+solution_found: [-5.13452535e-09 -1.00000000e+00]
+fitness: 2.999999999999939
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 135
+solution_found: [-5.16733489e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 122
+solution_found: [-6.74566974e-09 -1.00000000e+00]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 110
+solution_found: [-9.10551160e-09 -1.00000001e+00]
+fitness: 2.9999999999999827
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 109
+solution_found: [-3.16493847e-09 -9.99999995e-01]
+fitness: 2.9999999999999787
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 110
+solution_found: [ 5.29431742e-10 -1.00000001e+00]
+fitness: 2.999999999999951
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 126
+solution_found: [-6.07721632e-09 -1.00000000e+00]
+fitness: 2.999999999999934
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 111
+solution_found: [ 6.67716077e-09 -9.99999997e-01]
+fitness: 2.999999999999935
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.8
+function:Goldstein_Price
+epoch_stop: 114
+solution_found: [ 1.82505107e-09 -9.99999993e-01]
+fitness: 2.999999999999951
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 144
+solution_found: [-2.19140888e-09 -1.00000001e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 142
+solution_found: [-6.91070593e-09 -1.00000000e+00]
+fitness: 2.999999999999935
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 180
+solution_found: [-4.39115438e-09 -9.99999999e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 121
+solution_found: [-1.01295179e-08 -1.00000000e+00]
+fitness: 2.9999999999999436
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 192
+solution_found: [-2.79561356e-09 -1.00000000e+00]
+fitness: 2.9999999999999263
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 151
+solution_found: [ 2.62007253e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 114
+solution_found: [ 5.91961010e-09 -9.99999999e-01]
+fitness: 2.9999999999999414
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 126
+solution_found: [-2.80740485e-09 -1.00000000e+00]
+fitness: 2.9999999999999494
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 147
+solution_found: [ 1.14324614e-09 -9.99999998e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:2.9
+function:Goldstein_Price
+epoch_stop: 150
+solution_found: [ 4.61908321e-09 -1.00000001e+00]
+fitness: 2.9999999999999503
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 161
+solution_found: [-2.3341205e-09 -1.0000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 183
+solution_found: [ 3.32680744e-09 -9.99999993e-01]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 152
+solution_found: [ 4.62933587e-09 -1.00000000e+00]
+fitness: 2.9999999999999303
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 209
+solution_found: [-1.73285502e-09 -1.00000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 160
+solution_found: [ 5.73857750e-09 -9.99999994e-01]
+fitness: 2.9999999999999405
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 188
+solution_found: [-1.58907580e-09 -9.99999998e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 229
+solution_found: [ 9.34188568e-10 -9.99999999e-01]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 169
+solution_found: [-8.10502514e-09 -1.00000000e+00]
+fitness: 2.999999999999933
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 160
+solution_found: [-4.24471597e-10 -9.99999998e-01]
+fitness: 2.999999999999936
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.0
+function:Goldstein_Price
+epoch_stop: 172
+solution_found: [ 2.30645088e-09 -9.99999999e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 216
+solution_found: [ 2.37718729e-09 -9.99999997e-01]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 232
+solution_found: [ 1.2038271e-09 -1.0000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 240
+solution_found: [-1.21391791e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 234
+solution_found: [-2.30560909e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 204
+solution_found: [ 2.14923974e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 245
+solution_found: [ 2.27845026e-10 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 178
+solution_found: [ 3.19683011e-09 -9.99999999e-01]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 233
+solution_found: [ 3.49675128e-09 -9.99999998e-01]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 262
+solution_found: [ 7.48531543e-09 -9.99999998e-01]
+fitness: 2.9999999999999325
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.1
+function:Goldstein_Price
+epoch_stop: 187
+solution_found: [ 1.22560880e-09 -9.99999993e-01]
+fitness: 2.999999999999937
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 319
+solution_found: [-5.47716786e-10 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 244
+solution_found: [ 2.77337682e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 251
+solution_found: [ 4.04564999e-09 -9.99999996e-01]
+fitness: 2.999999999999929
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 259
+solution_found: [ 1.49178397e-10 -9.99999997e-01]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 331
+solution_found: [ 2.76656204e-09 -9.99999998e-01]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 258
+solution_found: [-7.04306419e-09 -1.00000001e+00]
+fitness: 2.999999999999928
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 243
+solution_found: [-3.22677888e-09 -1.00000001e+00]
+fitness: 2.999999999999931
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 332
+solution_found: [ 5.26636007e-11 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 248
+solution_found: [ 1.41203289e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.2
+function:Goldstein_Price
+epoch_stop: 325
+solution_found: [-2.71701689e-09 -1.00000000e+00]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 351
+solution_found: [ 3.64154201e-09 -1.00000000e+00]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 345
+solution_found: [ 1.43634182e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 367
+solution_found: [-9.31623717e-10 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 623
+solution_found: [ 2.7384352e-09 -1.0000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 393
+solution_found: [-7.74855363e-09 -1.00000000e+00]
+fitness: 2.9999999999999276
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 466
+solution_found: [-7.23618482e-09 -1.00000000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 524
+solution_found: [-5.45929262e-09 -1.00000000e+00]
+fitness: 2.9999999999999276
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 414
+solution_found: [-4.92996849e-09 -1.00000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 400
+solution_found: [-8.06139472e-09 -1.00000001e+00]
+fitness: 2.999999999999924
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.3
+function:Goldstein_Price
+epoch_stop: 460
+solution_found: [ 1.36272055e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 907
+solution_found: [ 2.02539685e-11 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 504
+solution_found: [ 3.75172943e-09 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 603
+solution_found: [-1.7529716e-10 -1.0000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 768
+solution_found: [ 9.4216629e-10 -1.0000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 655
+solution_found: [ 4.47184684e-09 -1.00000000e+00]
+fitness: 2.999999999999923
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 571
+solution_found: [-4.70488365e-09 -9.99999999e-01]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 672
+solution_found: [ 5.61762898e-09 -1.00000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 538
+solution_found: [ 1.18716942e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 662
+solution_found: [ 5.09885196e-09 -9.99999999e-01]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.4
+function:Goldstein_Price
+epoch_stop: 680
+solution_found: [-1.38041406e-09 -1.00000000e+00]
+fitness: 2.999999999999922
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.99329555e-10 -1.00000000e+00]
+fitness: 2.9999999999999236
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.13201874e-10 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.01578393e-09 -9.99999999e-01]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.71087793e-09 -9.99999999e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.66528856e-09 -1.00000000e+00]
+fitness: 2.999999999999925
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-2.73096661e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.31214506e-09 -1.00000001e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-5.87051901e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.70306620e-09 -1.00000001e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.5
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.32400494e-09 -9.99999997e-01]
+fitness: 2.9999999999999245
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.49881576e-09 -1.00000000e+00]
+fitness: 2.999999999999931
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.74301489e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.55136624e-10 -1.00000000e+00]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-7.85935711e-09 -1.00000001e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.35750192e-09 -9.99999998e-01]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.08305782e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.18534562e-09 -1.00000000e+00]
+fitness: 2.9999999999999285
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.03218601e-09 -1.00000000e+00]
+fitness: 2.9999999999999223
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.99973129e-09 -1.00000000e+00]
+fitness: 2.999999999999927
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.6
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.48974916e-10 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.87859467e-09 -9.99999996e-01]
+fitness: 2.9999999999999365
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.99170797e-09 -9.99999999e-01]
+fitness: 2.9999999999999267
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.57350248e-11 -9.99999993e-01]
+fitness: 2.9999999999999307
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-9.43519311e-09 -1.00000003e+00]
+fitness: 3.000000000000361
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.58053032e-09 -1.00000001e+00]
+fitness: 2.9999999999999347
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 6.52017512e-10 -1.00000001e+00]
+fitness: 2.9999999999999423
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.72570542e-09 -1.00000000e+00]
+fitness: 2.9999999999999396
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.01646396e-09 -1.00000000e+00]
+fitness: 2.999999999999938
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-9.41058063e-09 -1.00000000e+00]
+fitness: 2.999999999999955
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.7
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.19475674e-09 -9.99999999e-01]
+fitness: 2.999999999999926
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 3.74753628e-08 -9.99999978e-01]
+fitness: 3.000000000000365
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.36858554e-08 -9.99999944e-01]
+fitness: 3.000000000001557
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.76076936e-07 -1.00000004e+00]
+fitness: 3.0000000000069518
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.32747574e-09 -1.00000000e+00]
+fitness: 2.9999999999999254
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 4.74373339e-09 -9.99999977e-01]
+fitness: 3.000000000000231
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.08005794e-07 -1.00000002e+00]
+fitness: 3.0000000000025855
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.37737339e-09 -1.00000001e+00]
+fitness: 2.9999999999999503
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.13496063e-09 -9.99999995e-01]
+fitness: 2.9999999999999316
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 4.90250473e-08 -9.99999972e-01]
+fitness: 3.0000000000005778
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.8
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.74647925e-07 -1.00000024e+00]
+fitness: 3.0000000000575024
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.95624536e-07 -9.99999546e-01]
+fitness: 3.000000000120031
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.10923567e-07 -1.00000008e+00]
+fitness: 3.000000000021664
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.75068051e-07 -1.00000007e+00]
+fitness: 3.000000000012105
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.78909602e-07 -9.99999671e-01]
+fitness: 3.000000000042155
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.18851061e-05 -1.00000551e+00]
+fitness: 3.000000062865737
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-3.83850397e-08 -9.99999941e-01]
+fitness: 3.0000000000023888
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-6.64614336e-07 -1.00000007e+00]
+fitness: 3.0000000001030633
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.09282008e-08 -1.00000019e+00]
+fitness: 3.0000000000137796
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.01789495e-07 -1.00000014e+00]
+fitness: 3.000000000146408
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:3.9
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.37823511e-07 -9.99999833e-01]
+fitness: 3.0000000000118194
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.50292520e-06 -1.00000497e+00]
+fitness: 3.0000000109455804
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-8.75536609e-06 -1.00000044e+00]
+fitness: 3.0000000185747138
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 9.47358167e-07 -9.99999452e-01]
+fitness: 3.000000000243642
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.45414393e-05 -1.00000371e+00]
+fitness: 3.0000000708569337
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 1.16881197e-06 -1.00000239e+00]
+fitness: 3.000000003419769
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-1.33894874e-05 -1.00001480e+00]
+fitness: 3.0000000969787637
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-7.22778270e-06 -1.00000748e+00]
+fitness: 3.0000000256628505
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 5.82505329e-06 -1.00000399e+00]
+fitness: 3.0000000204643
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [ 2.90163363e-06 -9.99998201e-01]
+fitness: 3.0000000023925937
+
+num_particles:40
+inertia:0.5
+cognition:1
+social:4.0
+function:Goldstein_Price
+epoch_stop: 999
+solution_found: [-4.38537488e-07 -9.99999655e-01]
+fitness: 3.000000000132411
+
