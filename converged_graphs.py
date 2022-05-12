@@ -16,9 +16,23 @@ from pathlib import Path
 
 swarm_convergance = 'convergance_data.txt'
 
-swarm_dict = {"Rosenbrock": [[],[]], "Booth": [[],[]], "Ackley": [[],[]], "Beale": [[],[]], "Goldstein-Price": [[],[]], "Bukin": [[],[]],
-         "Matyas": [[],[]], "Levi": [[],[]], "Himmelblau": [[],[]], "Three-hump camel": [[],[]], "Easom": [[],[]], "Cross-in-tray": [[],[]],
-         "Eggholder": [[],[]], "Holder": [[],[]], "McCormick": [[],[]], "Schaffer N2": [[],[]], "Schaffer N4": [[],[]]}
+swarm_dict = {"Ackley": [[],[]],
+              "Beale": [[],[]],
+              "Booth": [[],[]],
+              "Bukin": [[],[]],
+              "Cross-in-tray": [[],[]],
+              "Easom": [[],[]],
+              "Eggholder": [[],[]],
+              "Goldstein-Price": [[],[]],
+              "Himmelblau": [[],[]],
+              "Holder": [[],[]],
+              "Levi": [[],[]],
+              "Matyas": [[],[]],
+              "McCormick": [[],[]],
+              "Rosenbrock": [[],[]],              
+              "Schaffer N2": [[],[]],
+              "Schaffer N4": [[],[]],
+              "Three-hump camel": [[],[]],}
 
 
 swarm = open(swarm_convergance, 'r')
@@ -65,10 +79,23 @@ for i in range(17):
 #print(swarm_dict)
 #print()
 
-
-evol_dict = {"Rosenbrock": [], "Booth": [], "Ackley": [], "Beale": [], "Goldstein-Price": [], "Bukin": [],
-         "Matyas": [], "Levi": [], "Himmelblau": [], "Three-hump camel": [], "Easom": [], "Cross-in-tray": [],
-         "Eggholder": [], "Holder": [], "McCormick": [], "Schaffer N2": [], "Schaffer N4": []}
+evol_dict = {"Ackley": [],
+              "Beale": [],
+              "Booth": [],
+              "Bukin": [],
+              "Cross-in-tray": [],
+              "Easom": [],
+              "Eggholder": [],
+              "Goldstein-Price": [],
+              "Himmelblau": [],
+              "Holder": [],
+              "Levi": [],
+              "Matyas": [],
+              "McCormick": [],
+              "Rosenbrock": [],              
+              "Schaffer N2": [],
+              "Schaffer N4": [],
+              "Three-hump camel": [],}
 
 evolution_convergance = 'evo_convergance_data.txt'
 evol = open(evolution_convergance, 'r')
@@ -106,6 +133,8 @@ for i in swarm_dict:
         total_converged += j
     con_total.append(total_converged)
 
+print("Particle Swarm")
+print(con_total)
 plt.figure(figsize = (10, 10))
 plt.xticks(rotation=90)
 plt.bar(con_name, con_total, width=0.4)
@@ -127,7 +156,8 @@ for i in evol_dict:
     con_total.append(total_converged)
 
 #print(evol_dict)
-
+print("Evolutionary Algorithm")
+print(con_total)
 plt.figure(figsize = (10, 10))
 plt.xticks(rotation=90)
 plt.bar(con_name, con_total, width=0.4)
