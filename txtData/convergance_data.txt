@@ -1,0 +1,204 @@
+Beale
+Converged
+particles: 79
+inertia: 62
+cognition: 334
+social: 294
+NotConverged
+particles: 21
+inertia: 38
+cognition: 66
+social: 106
+
+Booth
+Converged
+particles: 100
+inertia: 88
+cognition: 395
+social: 386
+NotConverged
+particles: 0
+inertia: 12
+cognition: 5
+social: 14
+
+Cross-in-tray
+Converged
+particles: 100
+inertia: 98
+cognition: 398
+social: 400
+NotConverged
+particles: 0
+inertia: 2
+cognition: 2
+social: 0
+
+Eggholder
+Converged
+particles: 0
+inertia: 0
+cognition: 2
+social: 8
+NotConverged
+particles: 100
+inertia: 100
+cognition: 398
+social: 392
+
+Goldstein-Price
+Converged
+particles: 89
+inertia: 87
+cognition: 387
+social: 379
+NotConverged
+particles: 11
+inertia: 13
+cognition: 13
+social: 21
+
+Himmelblau
+Converged
+particles: 99
+inertia: 89
+cognition: 387
+social: 384
+NotConverged
+particles: 1
+inertia: 11
+cognition: 13
+social: 16
+
+Holder
+Converged
+particles: 86
+inertia: 89
+cognition: 364
+social: 332
+NotConverged
+particles: 14
+inertia: 11
+cognition: 36
+social: 68
+
+Levi
+Converged
+particles: 100
+inertia: 99
+cognition: 399
+social: 392
+NotConverged
+particles: 0
+inertia: 1
+cognition: 1
+social: 8
+
+Matyas
+Converged
+particles: 100
+inertia: 87
+cognition: 399
+social: 395
+NotConverged
+particles: 0
+inertia: 13
+cognition: 1
+social: 5
+
+Rosenbrock
+Converged
+particles: 78
+inertia: 54
+cognition: 318
+social: 285
+NotConverged
+particles: 22
+inertia: 46
+cognition: 82
+social: 115
+
+Schaffer N2
+Converged
+particles: 93
+inertia: 92
+cognition: 397
+social: 398
+NotConverged
+particles: 7
+inertia: 8
+cognition: 3
+social: 2
+
+Three-hump camel
+Converged
+particles: 100
+inertia: 90
+cognition: 397
+social: 386
+NotConverged
+particles: 0
+inertia: 10
+cognition: 3
+social: 14
+
+Easom
+Converged
+particles: 90
+inertia: 85
+cognition: 349
+social: 355
+NotConverged
+particles: 10
+inertia: 15
+cognition: 51
+social: 45
+
+Ackley
+Converged
+particles: 0
+inertia: 10
+cognition: 101
+social: 104
+NotConverged
+particles: 100
+inertia: 90
+cognition: 299
+social: 296
+
+Schaffer N4
+Converged
+particles: 96
+inertia: 94
+cognition: 398
+social: 395
+NotConverged
+particles: 4
+inertia: 6
+cognition: 2
+social: 5
+
+McCormick
+Converged
+particles: 100
+inertia: 100
+cognition: 398
+social: 387
+NotConverged
+particles: 0
+inertia: 0
+cognition: 2
+social: 13
+
+Bukin
+Converged
+particles: 0
+inertia: 0
+cognition: 0
+social: 0
+NotConverged
+particles: 100
+inertia: 100
+cognition: 400
+social: 400
+
